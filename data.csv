@@ -1,0 +1,4102 @@
+Runde;Block;Gebot;Bietender
+1;01A 2 GHz;5000000;Telekom
+1;02A 2 GHz;5000000;Telekom
+1;03A 2 GHz;5000000;Telekom
+1;04A 2 GHz;5000000;Telekom
+1;05A 2 GHz;5000000;Vodafone
+1;06A 2 GHz;5000000;Vodafone
+1;07A 2 GHz;25000000;1&1 Drillisch
+1;08A 2 GHz;25000000;1&1 Drillisch
+1;09A 2 GHz (2026);Kein Gebot;Kein Gebot
+1;10A 2 GHz (2026);Kein Gebot;Kein Gebot
+1;11A 2 GHz (2026);23750000;1&1 Drillisch
+1;12A 2 GHz (2026);23750000;1&1 Drillisch
+1;01K 3,6 GHz;Kein Gebot;Kein Gebot
+1;02A 3,6 GHz;Kein Gebot;Kein Gebot
+1;03A 3,6 GHz;Kein Gebot;Kein Gebot
+1;04A 3,6 GHz;1700000;Vodafone
+1;05A 3,6 GHz;1700000;Vodafone
+1;06A 3,6 GHz;1700000;Vodafone
+1;07A 3,6 GHz;1700000;Vodafone
+1;08A 3,6 GHz;1700000;Vodafone
+1;09A 3,6 GHz;Kein Gebot;Kein Gebot
+1;10A 3,6 GHz;Kein Gebot;Kein Gebot
+1;11A 3,6 GHz;1700000;Telefónica Deutschland
+1;12A 3,6 GHz;1700000;Telefónica Deutschland
+1;13A 3,6 GHz;1700000;Telefónica Deutschland
+1;14A 3,6 GHz;1700000;Telefónica Deutschland
+1;15A 3,6 GHz;1700000;Telefónica Deutschland
+1;16A 3,6 GHz;1700000;Telefónica Deutschland
+1;17A 3,6 GHz;1700000;Telefónica Deutschland
+1;18A 3,6 GHz;1700000;Telefónica Deutschland
+1;19A 3,6 GHz;1700000;Telefónica Deutschland
+1;20A 3,6 GHz;1700000;Telekom
+1;21A 3,6 GHz;1700000;Telekom
+1;22A 3,6 GHz;1700000;Telekom
+1;23A 3,6 GHz;1700000;Telekom
+1;24A 3,6 GHz;21700000;1&1 Drillisch
+1;25A 3,6 GHz;21700000;1&1 Drillisch
+1;26A 3,6 GHz;21700000;1&1 Drillisch
+1;27A 3,6 GHz;21700000;1&1 Drillisch
+1;28A 3,6 GHz;21700000;1&1 Drillisch
+1;29K 3,6 GHz;21700000;1&1 Drillisch
+2;01A 2 GHz;5500000;Telefónica Deutschland
+2;02A 2 GHz;5500000;Telefónica Deutschland
+2;03A 2 GHz;5000000;Telekom
+2;04A 2 GHz;5000000;Telekom
+2;05A 2 GHz;5000000;Vodafone
+2;06A 2 GHz;5000000;Vodafone
+2;07A 2 GHz;27500000;Vodafone
+2;08A 2 GHz;25000000;1&1 Drillisch
+2;09A 2 GHz (2026);3750000;Telefónica Deutschland
+2;10A 2 GHz (2026);3750000;Telefónica Deutschland
+2;11A 2 GHz (2026);23750000;1&1 Drillisch
+2;12A 2 GHz (2026);26125000;Vodafone
+2;01K 3,6 GHz;Kein Gebot;Kein Gebot
+2;02A 3,6 GHz;1700000;Telekom
+2;03A 3,6 GHz;1700000;Telekom
+2;04A 3,6 GHz;1700000;Vodafone
+2;05A 3,6 GHz;1700000;Vodafone
+2;06A 3,6 GHz;1700000;Vodafone
+2;07A 3,6 GHz;1700000;Vodafone
+2;08A 3,6 GHz;1700000;Vodafone
+2;09A 3,6 GHz;1700000;Vodafone
+2;10A 3,6 GHz;1700000;Vodafone
+2;11A 3,6 GHz;1870000;Telekom
+2;12A 3,6 GHz;1700000;Telefónica Deutschland
+2;13A 3,6 GHz;1700000;Telefónica Deutschland
+2;14A 3,6 GHz;1700000;Telefónica Deutschland
+2;15A 3,6 GHz;1700000;Telefónica Deutschland
+2;16A 3,6 GHz;1700000;Telefónica Deutschland
+2;17A 3,6 GHz;1700000;Telefónica Deutschland
+2;18A 3,6 GHz;1870000;Vodafone
+2;19A 3,6 GHz;1870000;Vodafone
+2;20A 3,6 GHz;1700000;Telekom
+2;21A 3,6 GHz;1700000;Telekom
+2;22A 3,6 GHz;1700000;Telekom
+2;23A 3,6 GHz;1700000;Telekom
+2;24A 3,6 GHz;21700000;1&1 Drillisch
+2;25A 3,6 GHz;21700000;1&1 Drillisch
+2;26A 3,6 GHz;21700000;1&1 Drillisch
+2;27A 3,6 GHz;21700000;1&1 Drillisch
+2;28A 3,6 GHz;21700000;1&1 Drillisch
+2;29K 3,6 GHz;23870000;Telekom
+3;01A 2 GHz;6050000;Telekom
+3;02A 2 GHz;6050000;Telekom
+3;03A 2 GHz;5000000;Telekom
+3;04A 2 GHz;5000000;Telekom
+3;05A 2 GHz;5000000;Vodafone
+3;06A 2 GHz;5500000;1&1 Drillisch
+3;07A 2 GHz;27500000;Vodafone
+3;08A 2 GHz;25000000;1&1 Drillisch
+3;09A 2 GHz (2026);3750000;Telefónica Deutschland
+3;10A 2 GHz (2026);4125000;1&1 Drillisch
+3;11A 2 GHz (2026);23750000;1&1 Drillisch
+3;12A 2 GHz (2026);26125000;Vodafone
+3;01K 3,6 GHz;Kein Gebot;Kein Gebot
+3;02A 3,6 GHz;1700000;Telekom
+3;03A 3,6 GHz;1700000;Telekom
+3;04A 3,6 GHz;1700000;Vodafone
+3;05A 3,6 GHz;1700000;Vodafone
+3;06A 3,6 GHz;1700000;Vodafone
+3;07A 3,6 GHz;1700000;Vodafone
+3;08A 3,6 GHz;1700000;Vodafone
+3;09A 3,6 GHz;1700000;Vodafone
+3;10A 3,6 GHz;1700000;Vodafone
+3;11A 3,6 GHz;1870000;Telekom
+3;12A 3,6 GHz;1870000;Telekom
+3;13A 3,6 GHz;1870000;Telekom
+3;14A 3,6 GHz;1700000;Telefónica Deutschland
+3;15A 3,6 GHz;1700000;Telefónica Deutschland
+3;16A 3,6 GHz;1700000;Telefónica Deutschland
+3;17A 3,6 GHz;1700000;Telefónica Deutschland
+3;18A 3,6 GHz;1870000;Vodafone
+3;19A 3,6 GHz;1870000;Vodafone
+3;20A 3,6 GHz;1870000;Telefónica Deutschland
+3;21A 3,6 GHz;1870000;Telefónica Deutschland
+3;22A 3,6 GHz;1870000;Telefónica Deutschland
+3;23A 3,6 GHz;1870000;1&1 Drillisch
+3;24A 3,6 GHz;21700000;1&1 Drillisch
+3;25A 3,6 GHz;21700000;1&1 Drillisch
+3;26A 3,6 GHz;21700000;1&1 Drillisch
+3;27A 3,6 GHz;21700000;1&1 Drillisch
+3;28A 3,6 GHz;21700000;1&1 Drillisch
+3;29K 3,6 GHz;23870000;Telekom
+4;01A 2 GHz;6050000;Telekom
+4;02A 2 GHz;6050000;Telekom
+4;03A 2 GHz;5500000;Telefónica Deutschland
+4;04A 2 GHz;5500000;Telefónica Deutschland
+4;05A 2 GHz;5000000;Vodafone
+4;06A 2 GHz;6050000;Vodafone
+4;07A 2 GHz;27500000;Vodafone
+4;08A 2 GHz;25000000;1&1 Drillisch
+4;09A 2 GHz (2026);3750000;Telefónica Deutschland
+4;10A 2 GHz (2026);4537000;Telefónica Deutschland
+4;11A 2 GHz (2026);23750000;1&1 Drillisch
+4;12A 2 GHz (2026);26125000;Vodafone
+4;01K 3,6 GHz;Kein Gebot;Kein Gebot
+4;02A 3,6 GHz;1700000;Telekom
+4;03A 3,6 GHz;1700000;Telekom
+4;04A 3,6 GHz;1870000;Telefónica Deutschland
+4;05A 3,6 GHz;1870000;Telefónica Deutschland
+4;06A 3,6 GHz;1700000;Vodafone
+4;07A 3,6 GHz;1700000;Vodafone
+4;08A 3,6 GHz;1700000;Vodafone
+4;09A 3,6 GHz;1700000;Vodafone
+4;10A 3,6 GHz;1700000;Vodafone
+4;11A 3,6 GHz;1870000;Telekom
+4;12A 3,6 GHz;1870000;Telekom
+4;13A 3,6 GHz;1870000;Telekom
+4;14A 3,6 GHz;1870000;Telekom
+4;15A 3,6 GHz;1870000;Telekom
+4;16A 3,6 GHz;1870000;Telekom
+4;17A 3,6 GHz;1870000;Telekom
+4;18A 3,6 GHz;1870000;Vodafone
+4;19A 3,6 GHz;1870000;Vodafone
+4;20A 3,6 GHz;1870000;Telefónica Deutschland
+4;21A 3,6 GHz;1870000;Telefónica Deutschland
+4;22A 3,6 GHz;1870000;Telefónica Deutschland
+4;23A 3,6 GHz;1870000;1&1 Drillisch
+4;24A 3,6 GHz;21700000;1&1 Drillisch
+4;25A 3,6 GHz;21700000;1&1 Drillisch
+4;26A 3,6 GHz;21700000;1&1 Drillisch
+4;27A 3,6 GHz;21700000;1&1 Drillisch
+4;28A 3,6 GHz;21700000;1&1 Drillisch
+4;29K 3,6 GHz;23870000;Telekom
+5;01A 2 GHz;6050000;Telekom
+5;02A 2 GHz;6050000;Telekom
+5;03A 2 GHz;6050000;Telekom
+5;04A 2 GHz;6050000;Telekom
+5;05A 2 GHz;5500000;1&1 Drillisch
+5;06A 2 GHz;6050000;Vodafone
+5;07A 2 GHz;27500000;Vodafone
+5;08A 2 GHz;25000000;1&1 Drillisch
+5;09A 2 GHz (2026);4125000;1&1 Drillisch
+5;10A 2 GHz (2026);4537000;Telefónica Deutschland
+5;11A 2 GHz (2026);23750000;1&1 Drillisch
+5;12A 2 GHz (2026);26125000;Vodafone
+5;01K 3,6 GHz;Kein Gebot;Kein Gebot
+5;02A 3,6 GHz;1700000;Telekom
+5;03A 3,6 GHz;1700000;Telekom
+5;04A 3,6 GHz;1870000;Telefónica Deutschland
+5;05A 3,6 GHz;1870000;Telefónica Deutschland
+5;06A 3,6 GHz;1870000;Telefónica Deutschland
+5;07A 3,6 GHz;1870000;Telefónica Deutschland
+5;08A 3,6 GHz;1870000;Telefónica Deutschland
+5;09A 3,6 GHz;1870000;Telefónica Deutschland
+5;10A 3,6 GHz;1700000;Vodafone
+5;11A 3,6 GHz;1870000;Telekom
+5;12A 3,6 GHz;1870000;Telekom
+5;13A 3,6 GHz;1870000;Telekom
+5;14A 3,6 GHz;1870000;Telekom
+5;15A 3,6 GHz;1870000;Telekom
+5;16A 3,6 GHz;1870000;Telekom
+5;17A 3,6 GHz;1870000;Telekom
+5;18A 3,6 GHz;1870000;Vodafone
+5;19A 3,6 GHz;1870000;Vodafone
+5;20A 3,6 GHz;1870000;Telefónica Deutschland
+5;21A 3,6 GHz;1870000;Telefónica Deutschland
+5;22A 3,6 GHz;1870000;Telefónica Deutschland
+5;23A 3,6 GHz;1870000;1&1 Drillisch
+5;24A 3,6 GHz;23870000;Vodafone
+5;25A 3,6 GHz;23870000;Vodafone
+5;26A 3,6 GHz;21700000;1&1 Drillisch
+5;27A 3,6 GHz;21700000;1&1 Drillisch
+5;28A 3,6 GHz;21700000;1&1 Drillisch
+5;29K 3,6 GHz;23870000;Telekom
+6;01A 2 GHz;6050000;Telekom
+6;02A 2 GHz;6050000;Telekom
+6;03A 2 GHz;6050000;Telekom
+6;04A 2 GHz;6655000;Telefónica Deutschland
+6;05A 2 GHz;6050000;Telefónica Deutschland
+6;06A 2 GHz;6050000;Vodafone
+6;07A 2 GHz;27500000;Vodafone
+6;08A 2 GHz;25000000;1&1 Drillisch
+6;09A 2 GHz (2026);4537000;Telefónica Deutschland
+6;10A 2 GHz (2026);4537000;Telefónica Deutschland
+6;11A 2 GHz (2026);23750000;1&1 Drillisch
+6;12A 2 GHz (2026);26125000;Vodafone
+6;01K 3,6 GHz;Kein Gebot;Kein Gebot
+6;02A 3,6 GHz;1700000;Telekom
+6;03A 3,6 GHz;1870000;1&1 Drillisch
+6;04A 3,6 GHz;1870000;Telefónica Deutschland
+6;05A 3,6 GHz;1870000;Telefónica Deutschland
+6;06A 3,6 GHz;1870000;Telefónica Deutschland
+6;07A 3,6 GHz;1870000;Telefónica Deutschland
+6;08A 3,6 GHz;1870000;Telefónica Deutschland
+6;09A 3,6 GHz;1870000;Telefónica Deutschland
+6;10A 3,6 GHz;1870000;1&1 Drillisch
+6;11A 3,6 GHz;1870000;Telekom
+6;12A 3,6 GHz;1870000;Telekom
+6;13A 3,6 GHz;1870000;Telekom
+6;14A 3,6 GHz;1870000;Telekom
+6;15A 3,6 GHz;1870000;Telekom
+6;16A 3,6 GHz;1870000;Telekom
+6;17A 3,6 GHz;1870000;Telekom
+6;18A 3,6 GHz;1870000;Vodafone
+6;19A 3,6 GHz;1870000;Vodafone
+6;20A 3,6 GHz;2057000;Vodafone
+6;21A 3,6 GHz;2057000;Vodafone
+6;22A 3,6 GHz;2057000;Vodafone
+6;23A 3,6 GHz;2057000;Vodafone
+6;24A 3,6 GHz;23870000;Vodafone
+6;25A 3,6 GHz;23870000;Vodafone
+6;26A 3,6 GHz;21700000;1&1 Drillisch
+6;27A 3,6 GHz;21700000;1&1 Drillisch
+6;28A 3,6 GHz;21700000;1&1 Drillisch
+6;29K 3,6 GHz;23870000;Telekom
+7;01A 2 GHz;6050000;Telekom
+7;02A 2 GHz;6050000;Telekom
+7;03A 2 GHz;6655000;1&1 Drillisch
+7;04A 2 GHz;6655000;Telefónica Deutschland
+7;05A 2 GHz;6655000;Telekom
+7;06A 2 GHz;6050000;Vodafone
+7;07A 2 GHz;27500000;Vodafone
+7;08A 2 GHz;25000000;1&1 Drillisch
+7;09A 2 GHz (2026);4537000;Telefónica Deutschland
+7;10A 2 GHz (2026);4990000;1&1 Drillisch
+7;11A 2 GHz (2026);23750000;1&1 Drillisch
+7;12A 2 GHz (2026);26125000;Vodafone
+7;01K 3,6 GHz;Kein Gebot;Kein Gebot
+7;02A 3,6 GHz;1870000;1&1 Drillisch
+7;03A 3,6 GHz;2057000;Telekom
+7;04A 3,6 GHz;1870000;Telefónica Deutschland
+7;05A 3,6 GHz;1870000;Telefónica Deutschland
+7;06A 3,6 GHz;1870000;Telefónica Deutschland
+7;07A 3,6 GHz;1870000;Telefónica Deutschland
+7;08A 3,6 GHz;1870000;Telefónica Deutschland
+7;09A 3,6 GHz;1870000;Telefónica Deutschland
+7;10A 3,6 GHz;2057000;Vodafone
+7;11A 3,6 GHz;2057000;Telefónica Deutschland
+7;12A 3,6 GHz;1870000;Telekom
+7;13A 3,6 GHz;1870000;Telekom
+7;14A 3,6 GHz;1870000;Telekom
+7;15A 3,6 GHz;1870000;Telekom
+7;16A 3,6 GHz;1870000;Telekom
+7;17A 3,6 GHz;1870000;Telekom
+7;18A 3,6 GHz;1870000;Vodafone
+7;19A 3,6 GHz;1870000;Vodafone
+7;20A 3,6 GHz;2057000;Vodafone
+7;21A 3,6 GHz;2057000;Vodafone
+7;22A 3,6 GHz;2057000;Vodafone
+7;23A 3,6 GHz;2057000;Vodafone
+7;24A 3,6 GHz;23870000;Vodafone
+7;25A 3,6 GHz;23870000;Vodafone
+7;26A 3,6 GHz;21700000;1&1 Drillisch
+7;27A 3,6 GHz;21700000;1&1 Drillisch
+7;28A 3,6 GHz;21700000;1&1 Drillisch
+7;29K 3,6 GHz;23870000;Telekom
+8;01A 2 GHz;6655000;Vodafone
+8;02A 2 GHz;6050000;Telekom
+8;03A 2 GHz;6655000;1&1 Drillisch
+8;04A 2 GHz;7320000;Telekom
+8;05A 2 GHz;6655000;Telekom
+8;06A 2 GHz;6655000;Telefónica Deutschland
+8;07A 2 GHz;27500000;Vodafone
+8;08A 2 GHz;25000000;1&1 Drillisch
+8;09A 2 GHz (2026);4537000;Telefónica Deutschland
+8;10A 2 GHz (2026);5489000;Telefónica Deutschland
+8;11A 2 GHz (2026);23750000;1&1 Drillisch
+8;12A 2 GHz (2026);26125000;Vodafone
+8;01K 3,6 GHz;Kein Gebot;Kein Gebot
+8;02A 3,6 GHz;2057000;Telekom
+8;03A 3,6 GHz;2057000;Telekom
+8;04A 3,6 GHz;2057000;Telekom
+8;05A 3,6 GHz;1870000;Telefónica Deutschland
+8;06A 3,6 GHz;1870000;Telefónica Deutschland
+8;07A 3,6 GHz;1870000;Telefónica Deutschland
+8;08A 3,6 GHz;1870000;Telefónica Deutschland
+8;09A 3,6 GHz;2057000;1&1 Drillisch
+8;10A 3,6 GHz;2057000;Vodafone
+8;11A 3,6 GHz;2057000;Telefónica Deutschland
+8;12A 3,6 GHz;1870000;Telekom
+8;13A 3,6 GHz;1870000;Telekom
+8;14A 3,6 GHz;1870000;Telekom
+8;15A 3,6 GHz;1870000;Telekom
+8;16A 3,6 GHz;1870000;Telekom
+8;17A 3,6 GHz;2057000;Telefónica Deutschland
+8;18A 3,6 GHz;2057000;Telefónica Deutschland
+8;19A 3,6 GHz;1870000;Vodafone
+8;20A 3,6 GHz;2057000;Vodafone
+8;21A 3,6 GHz;2057000;Vodafone
+8;22A 3,6 GHz;2057000;Vodafone
+8;23A 3,6 GHz;2057000;Vodafone
+8;24A 3,6 GHz;23870000;Vodafone
+8;25A 3,6 GHz;23870000;Vodafone
+8;26A 3,6 GHz;21700000;1&1 Drillisch
+8;27A 3,6 GHz;21700000;1&1 Drillisch
+8;28A 3,6 GHz;21700000;1&1 Drillisch
+8;29K 3,6 GHz;23870000;Telekom
+9;01A 2 GHz;6655000;Vodafone
+9;02A 2 GHz;6655000;Vodafone
+9;03A 2 GHz;7320000;Telekom
+9;04A 2 GHz;7320000;Telekom
+9;05A 2 GHz;6655000;Telekom
+9;06A 2 GHz;6655000;Telefónica Deutschland
+9;07A 2 GHz;27500000;Vodafone
+9;08A 2 GHz;25000000;1&1 Drillisch
+9;09A 2 GHz (2026);4990000;1&1 Drillisch
+9;10A 2 GHz (2026);5489000;Telefónica Deutschland
+9;11A 2 GHz (2026);23750000;1&1 Drillisch
+9;12A 2 GHz (2026);26125000;Vodafone
+9;01K 3,6 GHz;Kein Gebot;Kein Gebot
+9;02A 3,6 GHz;2057000;Telekom
+9;03A 3,6 GHz;2057000;Telekom
+9;04A 3,6 GHz;2057000;Telekom
+9;05A 3,6 GHz;2057000;Vodafone
+9;06A 3,6 GHz;1870000;Telefónica Deutschland
+9;07A 3,6 GHz;1870000;Telefónica Deutschland
+9;08A 3,6 GHz;2057000;1&1 Drillisch
+9;09A 3,6 GHz;2057000;1&1 Drillisch
+9;10A 3,6 GHz;2057000;Vodafone
+9;11A 3,6 GHz;2057000;Telefónica Deutschland
+9;12A 3,6 GHz;1870000;Telekom
+9;13A 3,6 GHz;1870000;Telekom
+9;14A 3,6 GHz;1870000;Telekom
+9;15A 3,6 GHz;1870000;Telekom
+9;16A 3,6 GHz;2057000;Telefónica Deutschland
+9;17A 3,6 GHz;2057000;Telefónica Deutschland
+9;18A 3,6 GHz;2057000;Telefónica Deutschland
+9;19A 3,6 GHz;2057000;1&1 Drillisch
+9;20A 3,6 GHz;2057000;Vodafone
+9;21A 3,6 GHz;2057000;Vodafone
+9;22A 3,6 GHz;2057000;Vodafone
+9;23A 3,6 GHz;2057000;Vodafone
+9;24A 3,6 GHz;23870000;Vodafone
+9;25A 3,6 GHz;23870000;Vodafone
+9;26A 3,6 GHz;21700000;1&1 Drillisch
+9;27A 3,6 GHz;21700000;1&1 Drillisch
+9;28A 3,6 GHz;21700000;1&1 Drillisch
+9;29K 3,6 GHz;23870000;Telekom
+10;01A 2 GHz;7320000;Telefónica Deutschland
+10;02A 2 GHz;6655000;Vodafone
+10;03A 2 GHz;7320000;Telekom
+10;04A 2 GHz;7320000;Telekom
+10;05A 2 GHz;7320000;1&1 Drillisch
+10;06A 2 GHz;7320000;Telekom
+10;07A 2 GHz;27500000;Vodafone
+10;08A 2 GHz;25000000;1&1 Drillisch
+10;09A 2 GHz (2026);5489000;Telefónica Deutschland
+10;10A 2 GHz (2026);5489000;Telefónica Deutschland
+10;11A 2 GHz (2026);23750000;1&1 Drillisch
+10;12A 2 GHz (2026);26125000;Vodafone
+10;01K 3,6 GHz;Kein Gebot;Kein Gebot
+10;02A 3,6 GHz;2057000;Telekom
+10;03A 3,6 GHz;2057000;Telekom
+10;04A 3,6 GHz;2057000;Telekom
+10;05A 3,6 GHz;2057000;Vodafone
+10;06A 3,6 GHz;2057000;Vodafone
+10;07A 3,6 GHz;1870000;Telefónica Deutschland
+10;08A 3,6 GHz;2262000;Telekom
+10;09A 3,6 GHz;2262000;Telekom
+10;10A 3,6 GHz;2057000;Vodafone
+10;11A 3,6 GHz;2057000;Telefónica Deutschland
+10;12A 3,6 GHz;2057000;Telefónica Deutschland
+10;13A 3,6 GHz;2057000;Telefónica Deutschland
+10;14A 3,6 GHz;2057000;Telefónica Deutschland
+10;15A 3,6 GHz;1870000;Telekom
+10;16A 3,6 GHz;2057000;Telefónica Deutschland
+10;17A 3,6 GHz;2057000;Telefónica Deutschland
+10;18A 3,6 GHz;2057000;Telefónica Deutschland
+10;19A 3,6 GHz;2057000;1&1 Drillisch
+10;20A 3,6 GHz;2057000;Vodafone
+10;21A 3,6 GHz;2057000;Vodafone
+10;22A 3,6 GHz;2057000;Vodafone
+10;23A 3,6 GHz;2057000;Vodafone
+10;24A 3,6 GHz;23870000;Vodafone
+10;25A 3,6 GHz;23870000;Vodafone
+10;26A 3,6 GHz;21700000;1&1 Drillisch
+10;27A 3,6 GHz;21700000;1&1 Drillisch
+10;28A 3,6 GHz;21700000;1&1 Drillisch
+10;29K 3,6 GHz;23870000;Telekom
+11;01A 2 GHz;8052000;Telekom
+11;02A 2 GHz;7320000;Telefónica Deutschland
+11;03A 2 GHz;7320000;Telekom
+11;04A 2 GHz;7320000;Telekom
+11;05A 2 GHz;8052000;Vodafone
+11;06A 2 GHz;7320000;Telekom
+11;07A 2 GHz;27500000;Vodafone
+11;08A 2 GHz;25000000;1&1 Drillisch
+11;09A 2 GHz (2026);5489000;Telefónica Deutschland
+11;10A 2 GHz (2026);6037000;1&1 Drillisch
+11;11A 2 GHz (2026);23750000;1&1 Drillisch
+11;12A 2 GHz (2026);26125000;Vodafone
+11;01K 3,6 GHz;Kein Gebot;Kein Gebot
+11;02A 3,6 GHz;2057000;Telekom
+11;03A 3,6 GHz;2057000;Telekom
+11;04A 3,6 GHz;2057000;Telekom
+11;05A 3,6 GHz;2057000;Vodafone
+11;06A 3,6 GHz;2057000;Vodafone
+11;07A 3,6 GHz;2057000;1&1 Drillisch
+11;08A 3,6 GHz;2262000;Telekom
+11;09A 3,6 GHz;2262000;Telekom
+11;10A 3,6 GHz;2057000;Vodafone
+11;11A 3,6 GHz;2262000;Telekom
+11;12A 3,6 GHz;2262000;Telekom
+11;13A 3,6 GHz;2057000;Telefónica Deutschland
+11;14A 3,6 GHz;2057000;Telefónica Deutschland
+11;15A 3,6 GHz;2057000;Telefónica Deutschland
+11;16A 3,6 GHz;2057000;Telefónica Deutschland
+11;17A 3,6 GHz;2057000;Telefónica Deutschland
+11;18A 3,6 GHz;2057000;Telefónica Deutschland
+11;19A 3,6 GHz;2057000;1&1 Drillisch
+11;20A 3,6 GHz;2057000;Vodafone
+11;21A 3,6 GHz;2057000;Vodafone
+11;22A 3,6 GHz;2057000;Vodafone
+11;23A 3,6 GHz;2057000;Vodafone
+11;24A 3,6 GHz;23870000;Vodafone
+11;25A 3,6 GHz;23870000;Vodafone
+11;26A 3,6 GHz;21700000;1&1 Drillisch
+11;27A 3,6 GHz;21700000;1&1 Drillisch
+11;28A 3,6 GHz;21700000;1&1 Drillisch
+11;29K 3,6 GHz;23870000;Telekom
+12;01A 2 GHz;8052000;Telekom
+12;02A 2 GHz;8052000;Vodafone
+12;03A 2 GHz;8052000;Telefónica Deutschland
+12;04A 2 GHz;7320000;Telekom
+12;05A 2 GHz;8052000;Vodafone
+12;06A 2 GHz;8052000;1&1 Drillisch
+12;07A 2 GHz;27500000;Vodafone
+12;08A 2 GHz;25000000;1&1 Drillisch
+12;09A 2 GHz (2026);5489000;Telefónica Deutschland
+12;10A 2 GHz (2026);6640000;Telefónica Deutschland
+12;11A 2 GHz (2026);23750000;1&1 Drillisch
+12;12A 2 GHz (2026);26125000;Vodafone
+12;01K 3,6 GHz;Kein Gebot;Kein Gebot
+12;02A 3,6 GHz;2057000;Telekom
+12;03A 3,6 GHz;2057000;Telekom
+12;04A 3,6 GHz;2262000;Telefónica Deutschland
+12;05A 3,6 GHz;2057000;Vodafone
+12;06A 3,6 GHz;2262000;1&1 Drillisch
+12;07A 3,6 GHz;2262000;Telekom
+12;08A 3,6 GHz;2262000;Telekom
+12;09A 3,6 GHz;2262000;Telekom
+12;10A 3,6 GHz;2057000;Vodafone
+12;11A 3,6 GHz;2262000;Telekom
+12;12A 3,6 GHz;2262000;Telekom
+12;13A 3,6 GHz;2057000;Telefónica Deutschland
+12;14A 3,6 GHz;2057000;Telefónica Deutschland
+12;15A 3,6 GHz;2057000;Telefónica Deutschland
+12;16A 3,6 GHz;2057000;Telefónica Deutschland
+12;17A 3,6 GHz;2057000;Telefónica Deutschland
+12;18A 3,6 GHz;2057000;Telefónica Deutschland
+12;19A 3,6 GHz;2262000;Telekom
+12;20A 3,6 GHz;2057000;Vodafone
+12;21A 3,6 GHz;2057000;Vodafone
+12;22A 3,6 GHz;2057000;Vodafone
+12;23A 3,6 GHz;2057000;Vodafone
+12;24A 3,6 GHz;23870000;Vodafone
+12;25A 3,6 GHz;23870000;Vodafone
+12;26A 3,6 GHz;21700000;1&1 Drillisch
+12;27A 3,6 GHz;21700000;1&1 Drillisch
+12;28A 3,6 GHz;21700000;1&1 Drillisch
+12;29K 3,6 GHz;23870000;Telekom
+13;01A 2 GHz;8052000;Telekom
+13;02A 2 GHz;8052000;Vodafone
+13;03A 2 GHz;8857000;Telekom
+13;04A 2 GHz;8052000;Telefónica Deutschland
+13;05A 2 GHz;8052000;Vodafone
+13;06A 2 GHz;8857000;Telekom
+13;07A 2 GHz;27500000;Vodafone
+13;08A 2 GHz;25000000;1&1 Drillisch
+13;09A 2 GHz (2026);6037000;1&1 Drillisch
+13;10A 2 GHz (2026);6640000;Telefónica Deutschland
+13;11A 2 GHz (2026);23750000;1&1 Drillisch
+13;12A 2 GHz (2026);26125000;Vodafone
+13;01K 3,6 GHz;Kein Gebot;Kein Gebot
+13;02A 3,6 GHz;2057000;Telekom
+13;03A 3,6 GHz;2262000;Telefónica Deutschland
+13;04A 3,6 GHz;2262000;Telefónica Deutschland
+13;05A 3,6 GHz;2262000;Telefónica Deutschland
+13;06A 3,6 GHz;2262000;1&1 Drillisch
+13;07A 3,6 GHz;2262000;Telekom
+13;08A 3,6 GHz;2262000;Telekom
+13;09A 3,6 GHz;2262000;Telekom
+13;10A 3,6 GHz;2262000;1&1 Drillisch
+13;11A 3,6 GHz;2262000;Telekom
+13;12A 3,6 GHz;2262000;Telekom
+13;13A 3,6 GHz;2262000;Vodafone
+13;14A 3,6 GHz;2057000;Telefónica Deutschland
+13;15A 3,6 GHz;2057000;Telefónica Deutschland
+13;16A 3,6 GHz;2057000;Telefónica Deutschland
+13;17A 3,6 GHz;2057000;Telefónica Deutschland
+13;18A 3,6 GHz;2262000;Telekom
+13;19A 3,6 GHz;2262000;Telekom
+13;20A 3,6 GHz;2057000;Vodafone
+13;21A 3,6 GHz;2057000;Vodafone
+13;22A 3,6 GHz;2057000;Vodafone
+13;23A 3,6 GHz;2057000;Vodafone
+13;24A 3,6 GHz;23870000;Vodafone
+13;25A 3,6 GHz;23870000;Vodafone
+13;26A 3,6 GHz;21700000;1&1 Drillisch
+13;27A 3,6 GHz;21700000;1&1 Drillisch
+13;28A 3,6 GHz;21700000;1&1 Drillisch
+13;29K 3,6 GHz;23870000;Telekom
+14;01A 2 GHz;8857000;Telefónica Deutschland
+14;02A 2 GHz;8052000;Vodafone
+14;03A 2 GHz;8857000;Telekom
+14;04A 2 GHz;8857000;Telekom
+14;05A 2 GHz;8857000;1&1 Drillisch
+14;06A 2 GHz;8857000;Telekom
+14;07A 2 GHz;27500000;Vodafone
+14;08A 2 GHz;25000000;1&1 Drillisch
+14;09A 2 GHz (2026);6640000;Telefónica Deutschland
+14;10A 2 GHz (2026);6640000;Telefónica Deutschland
+14;11A 2 GHz (2026);23750000;1&1 Drillisch
+14;12A 2 GHz (2026);26125000;Vodafone
+14;01K 3,6 GHz;Kein Gebot;Kein Gebot
+14;02A 3,6 GHz;2262000;Telefónica Deutschland
+14;03A 3,6 GHz;2262000;Telefónica Deutschland
+14;04A 3,6 GHz;2262000;Telefónica Deutschland
+14;05A 3,6 GHz;2262000;Telefónica Deutschland
+14;06A 3,6 GHz;2262000;1&1 Drillisch
+14;07A 3,6 GHz;2262000;Telekom
+14;08A 3,6 GHz;2262000;Telekom
+14;09A 3,6 GHz;2262000;Telekom
+14;10A 3,6 GHz;2488000;Telekom
+14;11A 3,6 GHz;2262000;Telekom
+14;12A 3,6 GHz;2262000;Telekom
+14;13A 3,6 GHz;2262000;Vodafone
+14;14A 3,6 GHz;2262000;Vodafone
+14;15A 3,6 GHz;2262000;Vodafone
+14;16A 3,6 GHz;2057000;Telefónica Deutschland
+14;17A 3,6 GHz;2057000;Telefónica Deutschland
+14;18A 3,6 GHz;2262000;Telekom
+14;19A 3,6 GHz;2262000;Telekom
+14;20A 3,6 GHz;2262000;Telefónica Deutschland
+14;21A 3,6 GHz;2057000;Vodafone
+14;22A 3,6 GHz;2057000;Vodafone
+14;23A 3,6 GHz;2262000;1&1 Drillisch
+14;24A 3,6 GHz;23870000;Vodafone
+14;25A 3,6 GHz;23870000;Vodafone
+14;26A 3,6 GHz;21700000;1&1 Drillisch
+14;27A 3,6 GHz;21700000;1&1 Drillisch
+14;28A 3,6 GHz;21700000;1&1 Drillisch
+14;29K 3,6 GHz;23870000;Telekom
+15;01A 2 GHz;9742000;Telekom
+15;02A 2 GHz;8857000;Telefónica Deutschland
+15;03A 2 GHz;8857000;Telekom
+15;04A 2 GHz;8857000;Telekom
+15;05A 2 GHz;9742000;Vodafone
+15;06A 2 GHz;8857000;Telekom
+15;07A 2 GHz;27500000;Vodafone
+15;08A 2 GHz;25000000;1&1 Drillisch
+15;09A 2 GHz (2026);6640000;Telefónica Deutschland
+15;10A 2 GHz (2026);7304000;1&1 Drillisch
+15;11A 2 GHz (2026);23750000;1&1 Drillisch
+15;12A 2 GHz (2026);26125000;Vodafone
+15;01K 3,6 GHz;Kein Gebot;Kein Gebot
+15;02A 3,6 GHz;2262000;Telefónica Deutschland
+15;03A 3,6 GHz;2262000;Telefónica Deutschland
+15;04A 3,6 GHz;2262000;Telefónica Deutschland
+15;05A 3,6 GHz;2262000;Telefónica Deutschland
+15;06A 3,6 GHz;2488000;Telekom
+15;07A 3,6 GHz;2262000;Telekom
+15;08A 3,6 GHz;2262000;Telekom
+15;09A 3,6 GHz;2262000;Telekom
+15;10A 3,6 GHz;2488000;Telekom
+15;11A 3,6 GHz;2262000;Telekom
+15;12A 3,6 GHz;2262000;Telekom
+15;13A 3,6 GHz;2262000;Vodafone
+15;14A 3,6 GHz;2262000;Vodafone
+15;15A 3,6 GHz;2262000;Vodafone
+15;16A 3,6 GHz;2262000;Vodafone
+15;17A 3,6 GHz;2262000;Vodafone
+15;18A 3,6 GHz;2262000;Telekom
+15;19A 3,6 GHz;2262000;Telekom
+15;20A 3,6 GHz;2262000;Telefónica Deutschland
+15;21A 3,6 GHz;2262000;Telefónica Deutschland
+15;22A 3,6 GHz;2262000;1&1 Drillisch
+15;23A 3,6 GHz;2262000;1&1 Drillisch
+15;24A 3,6 GHz;23870000;Vodafone
+15;25A 3,6 GHz;23870000;Vodafone
+15;26A 3,6 GHz;21700000;1&1 Drillisch
+15;27A 3,6 GHz;21700000;1&1 Drillisch
+15;28A 3,6 GHz;21700000;1&1 Drillisch
+15;29K 3,6 GHz;23870000;Telekom
+16;01A 2 GHz;10716000;Telefónica Deutschland
+16;02A 2 GHz;9742000;Vodafone
+16;03A 2 GHz;8857000;Telekom
+16;04A 2 GHz;9742000;1&1 Drillisch
+16;05A 2 GHz;9742000;Vodafone
+16;06A 2 GHz;8857000;Telekom
+16;07A 2 GHz;27500000;Vodafone
+16;08A 2 GHz;25000000;1&1 Drillisch
+16;09A 2 GHz (2026);6640000;Telefónica Deutschland
+16;10A 2 GHz (2026);8034000;Telefónica Deutschland
+16;11A 2 GHz (2026);23750000;1&1 Drillisch
+16;12A 2 GHz (2026);26125000;Vodafone
+16;01K 3,6 GHz;Kein Gebot;Kein Gebot
+16;02A 3,6 GHz;2262000;Telefónica Deutschland
+16;03A 3,6 GHz;2262000;Telefónica Deutschland
+16;04A 3,6 GHz;2262000;Telefónica Deutschland
+16;05A 3,6 GHz;2262000;Telefónica Deutschland
+16;06A 3,6 GHz;2488000;Telekom
+16;07A 3,6 GHz;2262000;Telekom
+16;08A 3,6 GHz;2262000;Telekom
+16;09A 3,6 GHz;2262000;Telekom
+16;10A 3,6 GHz;2488000;Telekom
+16;11A 3,6 GHz;2262000;Telekom
+16;12A 3,6 GHz;2488000;Telefónica Deutschland
+16;13A 3,6 GHz;2488000;Telefónica Deutschland
+16;14A 3,6 GHz;2262000;Vodafone
+16;15A 3,6 GHz;2262000;Vodafone
+16;16A 3,6 GHz;2262000;Vodafone
+16;17A 3,6 GHz;2262000;Vodafone
+16;18A 3,6 GHz;2262000;Telekom
+16;19A 3,6 GHz;2488000;1&1 Drillisch
+16;20A 3,6 GHz;2262000;Telefónica Deutschland
+16;21A 3,6 GHz;2262000;Telefónica Deutschland
+16;22A 3,6 GHz;2488000;Telefónica Deutschland
+16;23A 3,6 GHz;2488000;Vodafone
+16;24A 3,6 GHz;23870000;Vodafone
+16;25A 3,6 GHz;23870000;Vodafone
+16;26A 3,6 GHz;21700000;1&1 Drillisch
+16;27A 3,6 GHz;21700000;1&1 Drillisch
+16;28A 3,6 GHz;21700000;1&1 Drillisch
+16;29K 3,6 GHz;23870000;Telekom
+17;01A 2 GHz;10716000;Telefónica Deutschland
+17;02A 2 GHz;10716000;Telekom
+17;03A 2 GHz;9742000;Telefónica Deutschland
+17;04A 2 GHz;10716000;Telekom
+17;05A 2 GHz;9742000;Vodafone
+17;06A 2 GHz;8857000;Telekom
+17;07A 2 GHz;27500000;Vodafone
+17;08A 2 GHz;25000000;1&1 Drillisch
+17;09A 2 GHz (2026);7304000;1&1 Drillisch
+17;10A 2 GHz (2026);8034000;Telefónica Deutschland
+17;11A 2 GHz (2026);23750000;1&1 Drillisch
+17;12A 2 GHz (2026);26125000;Vodafone
+17;01K 3,6 GHz;Kein Gebot;Kein Gebot
+17;02A 3,6 GHz;2488000;Vodafone
+17;03A 3,6 GHz;2488000;Vodafone
+17;04A 3,6 GHz;2262000;Telefónica Deutschland
+17;05A 3,6 GHz;2262000;Telefónica Deutschland
+17;06A 3,6 GHz;2488000;Telekom
+17;07A 3,6 GHz;2262000;Telekom
+17;08A 3,6 GHz;2262000;Telekom
+17;09A 3,6 GHz;2262000;Telekom
+17;10A 3,6 GHz;2488000;Telekom
+17;11A 3,6 GHz;2262000;Telekom
+17;12A 3,6 GHz;2488000;Telefónica Deutschland
+17;13A 3,6 GHz;2488000;Telefónica Deutschland
+17;14A 3,6 GHz;2262000;Vodafone
+17;15A 3,6 GHz;2262000;Vodafone
+17;16A 3,6 GHz;2262000;Vodafone
+17;17A 3,6 GHz;2262000;Vodafone
+17;18A 3,6 GHz;2262000;Telekom
+17;19A 3,6 GHz;2488000;1&1 Drillisch
+17;20A 3,6 GHz;2488000;1&1 Drillisch
+17;21A 3,6 GHz;2488000;1&1 Drillisch
+17;22A 3,6 GHz;2488000;Telefónica Deutschland
+17;23A 3,6 GHz;2488000;Vodafone
+17;24A 3,6 GHz;23870000;Vodafone
+17;25A 3,6 GHz;23870000;Vodafone
+17;26A 3,6 GHz;21700000;1&1 Drillisch
+17;27A 3,6 GHz;21700000;1&1 Drillisch
+17;28A 3,6 GHz;21700000;1&1 Drillisch
+17;29K 3,6 GHz;23870000;Telekom
+18;01A 2 GHz;10716000;Telefónica Deutschland
+18;02A 2 GHz;10716000;Telekom
+18;03A 2 GHz;10716000;Telekom
+18;04A 2 GHz;10716000;Telekom
+18;05A 2 GHz;9742000;Vodafone
+18;06A 2 GHz;9742000;1&1 Drillisch
+18;07A 2 GHz;27500000;Vodafone
+18;08A 2 GHz;25000000;1&1 Drillisch
+18;09A 2 GHz (2026);8034000;Telefónica Deutschland
+18;10A 2 GHz (2026);8034000;Telefónica Deutschland
+18;11A 2 GHz (2026);23750000;1&1 Drillisch
+18;12A 2 GHz (2026);26125000;Vodafone
+18;01K 3,6 GHz;Kein Gebot;Kein Gebot
+18;02A 3,6 GHz;2488000;Vodafone
+18;03A 3,6 GHz;2488000;Vodafone
+18;04A 3,6 GHz;2262000;Telefónica Deutschland
+18;05A 3,6 GHz;2262000;Telefónica Deutschland
+18;06A 3,6 GHz;2488000;Telekom
+18;07A 3,6 GHz;2488000;Telefónica Deutschland
+18;08A 3,6 GHz;2262000;Telekom
+18;09A 3,6 GHz;2262000;Telekom
+18;10A 3,6 GHz;2488000;Telekom
+18;11A 3,6 GHz;2488000;Telefónica Deutschland
+18;12A 3,6 GHz;2488000;Telefónica Deutschland
+18;13A 3,6 GHz;2488000;Telefónica Deutschland
+18;14A 3,6 GHz;2488000;Telefónica Deutschland
+18;15A 3,6 GHz;2488000;Telefónica Deutschland
+18;16A 3,6 GHz;2262000;Vodafone
+18;17A 3,6 GHz;2262000;Vodafone
+18;18A 3,6 GHz;2262000;Telekom
+18;19A 3,6 GHz;2736000;Telekom
+18;20A 3,6 GHz;2736000;Telekom
+18;21A 3,6 GHz;2488000;1&1 Drillisch
+18;22A 3,6 GHz;2488000;Telefónica Deutschland
+18;23A 3,6 GHz;2488000;Vodafone
+18;24A 3,6 GHz;23870000;Vodafone
+18;25A 3,6 GHz;23870000;Vodafone
+18;26A 3,6 GHz;21700000;1&1 Drillisch
+18;27A 3,6 GHz;21700000;1&1 Drillisch
+18;28A 3,6 GHz;21700000;1&1 Drillisch
+18;29K 3,6 GHz;23870000;Telekom
+19;01A 2 GHz;10716000;Telefónica Deutschland
+19;02A 2 GHz;10716000;Telekom
+19;03A 2 GHz;10716000;Telekom
+19;04A 2 GHz;10716000;Telekom
+19;05A 2 GHz;9742000;Vodafone
+19;06A 2 GHz;10716000;Vodafone
+19;07A 2 GHz;27500000;Vodafone
+19;08A 2 GHz;25000000;1&1 Drillisch
+19;09A 2 GHz (2026);8034000;Telefónica Deutschland
+19;10A 2 GHz (2026);8837000;1&1 Drillisch
+19;11A 2 GHz (2026);23750000;1&1 Drillisch
+19;12A 2 GHz (2026);26125000;Vodafone
+19;01K 3,6 GHz;Kein Gebot;Kein Gebot
+19;02A 3,6 GHz;2488000;Vodafone
+19;03A 3,6 GHz;2488000;Vodafone
+19;04A 3,6 GHz;2488000;Vodafone
+19;05A 3,6 GHz;2488000;Vodafone
+19;06A 3,6 GHz;2488000;Telekom
+19;07A 3,6 GHz;2488000;Telefónica Deutschland
+19;08A 3,6 GHz;2262000;Telekom
+19;09A 3,6 GHz;2262000;Telekom
+19;10A 3,6 GHz;2488000;Telekom
+19;11A 3,6 GHz;2488000;Telefónica Deutschland
+19;12A 3,6 GHz;2488000;Telefónica Deutschland
+19;13A 3,6 GHz;2488000;Telefónica Deutschland
+19;14A 3,6 GHz;2488000;Telefónica Deutschland
+19;15A 3,6 GHz;2488000;Telefónica Deutschland
+19;16A 3,6 GHz;2262000;Vodafone
+19;17A 3,6 GHz;2488000;1&1 Drillisch
+19;18A 3,6 GHz;2488000;1&1 Drillisch
+19;19A 3,6 GHz;2736000;Telekom
+19;20A 3,6 GHz;2736000;Telekom
+19;21A 3,6 GHz;2488000;1&1 Drillisch
+19;22A 3,6 GHz;2488000;Telefónica Deutschland
+19;23A 3,6 GHz;2488000;Vodafone
+19;24A 3,6 GHz;23870000;Vodafone
+19;25A 3,6 GHz;23870000;Vodafone
+19;26A 3,6 GHz;21700000;1&1 Drillisch
+19;27A 3,6 GHz;21700000;1&1 Drillisch
+19;28A 3,6 GHz;21700000;1&1 Drillisch
+19;29K 3,6 GHz;23870000;Telekom
+20;01A 2 GHz;11787000;Telekom
+20;02A 2 GHz;10716000;Telekom
+20;03A 2 GHz;10716000;Telekom
+20;04A 2 GHz;10716000;Telekom
+20;05A 2 GHz;10716000;1&1 Drillisch
+20;06A 2 GHz;10716000;Vodafone
+20;07A 2 GHz;27500000;Vodafone
+20;08A 2 GHz;25000000;1&1 Drillisch
+20;09A 2 GHz (2026);8034000;Telefónica Deutschland
+20;10A 2 GHz (2026);9720000;Telefónica Deutschland
+20;11A 2 GHz (2026);23750000;1&1 Drillisch
+20;12A 2 GHz (2026);26125000;Vodafone
+20;01K 3,6 GHz;Kein Gebot;Kein Gebot
+20;02A 3,6 GHz;2488000;Vodafone
+20;03A 3,6 GHz;2488000;Vodafone
+20;04A 3,6 GHz;2488000;Vodafone
+20;05A 3,6 GHz;2488000;Vodafone
+20;06A 3,6 GHz;2488000;Telekom
+20;07A 3,6 GHz;2488000;Telefónica Deutschland
+20;08A 3,6 GHz;2488000;Telefónica Deutschland
+20;09A 3,6 GHz;2488000;Telefónica Deutschland
+20;10A 3,6 GHz;2488000;Telekom
+20;11A 3,6 GHz;2488000;Telefónica Deutschland
+20;12A 3,6 GHz;2488000;Telefónica Deutschland
+20;13A 3,6 GHz;2488000;Telefónica Deutschland
+20;14A 3,6 GHz;2488000;Telefónica Deutschland
+20;15A 3,6 GHz;2488000;Telefónica Deutschland
+20;16A 3,6 GHz;2488000;Telekom
+20;17A 3,6 GHz;2736000;Telekom
+20;18A 3,6 GHz;2736000;Telekom
+20;19A 3,6 GHz;2736000;Telekom
+20;20A 3,6 GHz;2736000;Telekom
+20;21A 3,6 GHz;2488000;1&1 Drillisch
+20;22A 3,6 GHz;2488000;Telefónica Deutschland
+20;23A 3,6 GHz;2488000;Vodafone
+20;24A 3,6 GHz;23870000;Vodafone
+20;25A 3,6 GHz;23870000;Vodafone
+20;26A 3,6 GHz;21700000;1&1 Drillisch
+20;27A 3,6 GHz;21700000;1&1 Drillisch
+20;28A 3,6 GHz;21700000;1&1 Drillisch
+20;29K 3,6 GHz;23870000;Telekom
+21;01A 2 GHz;11787000;Telekom
+21;02A 2 GHz;10716000;Telekom
+21;03A 2 GHz;10716000;Telekom
+21;04A 2 GHz;11787000;Telefónica Deutschland
+21;05A 2 GHz;11787000;Telefónica Deutschland
+21;06A 2 GHz;10716000;Vodafone
+21;07A 2 GHz;27500000;Vodafone
+21;08A 2 GHz;25000000;1&1 Drillisch
+21;09A 2 GHz (2026);8837000;1&1 Drillisch
+21;10A 2 GHz (2026);9720000;Telefónica Deutschland
+21;11A 2 GHz (2026);23750000;1&1 Drillisch
+21;12A 2 GHz (2026);26125000;Vodafone
+21;01K 3,6 GHz;Kein Gebot;Kein Gebot
+21;02A 3,6 GHz;2488000;Vodafone
+21;03A 3,6 GHz;2488000;Vodafone
+21;04A 3,6 GHz;2488000;Vodafone
+21;05A 3,6 GHz;2488000;Vodafone
+21;06A 3,6 GHz;2488000;Telekom
+21;07A 3,6 GHz;2736000;Telekom
+21;08A 3,6 GHz;2736000;Telekom
+21;09A 3,6 GHz;2488000;Telefónica Deutschland
+21;10A 3,6 GHz;2488000;Telekom
+21;11A 3,6 GHz;2488000;Telefónica Deutschland
+21;12A 3,6 GHz;2488000;Telefónica Deutschland
+21;13A 3,6 GHz;2488000;Telefónica Deutschland
+21;14A 3,6 GHz;2488000;Telefónica Deutschland
+21;15A 3,6 GHz;2736000;1&1 Drillisch
+21;16A 3,6 GHz;2736000;1&1 Drillisch
+21;17A 3,6 GHz;2736000;Telekom
+21;18A 3,6 GHz;2736000;Telekom
+21;19A 3,6 GHz;2736000;Telekom
+21;20A 3,6 GHz;2736000;Telekom
+21;21A 3,6 GHz;2488000;1&1 Drillisch
+21;22A 3,6 GHz;2488000;Telefónica Deutschland
+21;23A 3,6 GHz;2488000;Vodafone
+21;24A 3,6 GHz;23870000;Vodafone
+21;25A 3,6 GHz;23870000;Vodafone
+21;26A 3,6 GHz;21700000;1&1 Drillisch
+21;27A 3,6 GHz;21700000;1&1 Drillisch
+21;28A 3,6 GHz;21700000;1&1 Drillisch
+21;29K 3,6 GHz;23870000;Telekom
+22;01A 2 GHz;11787000;Telekom
+22;02A 2 GHz;11787000;Vodafone
+22;03A 2 GHz;11787000;1&1 Drillisch
+22;04A 2 GHz;11787000;Telefónica Deutschland
+22;05A 2 GHz;11787000;Telefónica Deutschland
+22;06A 2 GHz;11787000;Telekom
+22;07A 2 GHz;27500000;Vodafone
+22;08A 2 GHz;25000000;1&1 Drillisch
+22;09A 2 GHz (2026);9720000;Telefónica Deutschland
+22;10A 2 GHz (2026);9720000;Telefónica Deutschland
+22;11A 2 GHz (2026);23750000;1&1 Drillisch
+22;12A 2 GHz (2026);26125000;Vodafone
+22;01K 3,6 GHz;Kein Gebot;Kein Gebot
+22;02A 3,6 GHz;2488000;Vodafone
+22;03A 3,6 GHz;2488000;Vodafone
+22;04A 3,6 GHz;2488000;Vodafone
+22;05A 3,6 GHz;2488000;Vodafone
+22;06A 3,6 GHz;2488000;Telekom
+22;07A 3,6 GHz;2736000;Telekom
+22;08A 3,6 GHz;2736000;Telekom
+22;09A 3,6 GHz;2488000;Telefónica Deutschland
+22;10A 3,6 GHz;2736000;Telefónica Deutschland
+22;11A 3,6 GHz;2488000;Telefónica Deutschland
+22;12A 3,6 GHz;2488000;Telefónica Deutschland
+22;13A 3,6 GHz;2488000;Telefónica Deutschland
+22;14A 3,6 GHz;2488000;Telefónica Deutschland
+22;15A 3,6 GHz;2736000;1&1 Drillisch
+22;16A 3,6 GHz;2736000;1&1 Drillisch
+22;17A 3,6 GHz;2736000;Telekom
+22;18A 3,6 GHz;2736000;Telekom
+22;19A 3,6 GHz;2736000;Telekom
+22;20A 3,6 GHz;2736000;Telekom
+22;21A 3,6 GHz;2736000;Telekom
+22;22A 3,6 GHz;2736000;Vodafone
+22;23A 3,6 GHz;2736000;Telefónica Deutschland
+22;24A 3,6 GHz;23870000;Vodafone
+22;25A 3,6 GHz;23870000;Vodafone
+22;26A 3,6 GHz;21700000;1&1 Drillisch
+22;27A 3,6 GHz;21700000;1&1 Drillisch
+22;28A 3,6 GHz;21700000;1&1 Drillisch
+22;29K 3,6 GHz;23870000;Telekom
+23;01A 2 GHz;11787000;Telekom
+23;02A 2 GHz;11787000;Vodafone
+23;03A 2 GHz;12965000;Vodafone
+23;04A 2 GHz;12965000;Telekom
+23;05A 2 GHz;11787000;Telefónica Deutschland
+23;06A 2 GHz;11787000;Telekom
+23;07A 2 GHz;27500000;Vodafone
+23;08A 2 GHz;25000000;1&1 Drillisch
+23;09A 2 GHz (2026);9720000;Telefónica Deutschland
+23;10A 2 GHz (2026);10692000;1&1 Drillisch
+23;11A 2 GHz (2026);23750000;1&1 Drillisch
+23;12A 2 GHz (2026);26125000;Vodafone
+23;01K 3,6 GHz;Kein Gebot;Kein Gebot
+23;02A 3,6 GHz;2488000;Vodafone
+23;03A 3,6 GHz;2488000;Vodafone
+23;04A 3,6 GHz;2488000;Vodafone
+23;05A 3,6 GHz;2736000;Telefónica Deutschland
+23;06A 3,6 GHz;2736000;Telefónica Deutschland
+23;07A 3,6 GHz;2736000;Telekom
+23;08A 3,6 GHz;2736000;Telekom
+23;09A 3,6 GHz;2736000;Vodafone
+23;10A 3,6 GHz;2736000;Telefónica Deutschland
+23;11A 3,6 GHz;2736000;Vodafone
+23;12A 3,6 GHz;2488000;Telefónica Deutschland
+23;13A 3,6 GHz;2488000;Telefónica Deutschland
+23;14A 3,6 GHz;2736000;1&1 Drillisch
+23;15A 3,6 GHz;2736000;1&1 Drillisch
+23;16A 3,6 GHz;2736000;1&1 Drillisch
+23;17A 3,6 GHz;2736000;Telekom
+23;18A 3,6 GHz;2736000;Telekom
+23;19A 3,6 GHz;2736000;Telekom
+23;20A 3,6 GHz;2736000;Telekom
+23;21A 3,6 GHz;2736000;Telekom
+23;22A 3,6 GHz;2736000;Vodafone
+23;23A 3,6 GHz;2736000;Telefónica Deutschland
+23;24A 3,6 GHz;23870000;Vodafone
+23;25A 3,6 GHz;23870000;Vodafone
+23;26A 3,6 GHz;21700000;1&1 Drillisch
+23;27A 3,6 GHz;21700000;1&1 Drillisch
+23;28A 3,6 GHz;21700000;1&1 Drillisch
+23;29K 3,6 GHz;23870000;Telekom
+24;01A 2 GHz;11787000;Telekom
+24;02A 2 GHz;12965000;1&1 Drillisch
+24;03A 2 GHz;12965000;Vodafone
+24;04A 2 GHz;12965000;Telekom
+24;05A 2 GHz;12965000;Telekom
+24;06A 2 GHz;12965000;Telefónica Deutschland
+24;07A 2 GHz;27500000;Vodafone
+24;08A 2 GHz;25000000;1&1 Drillisch
+24;09A 2 GHz (2026);9720000;Telefónica Deutschland
+24;10A 2 GHz (2026);11761000;Telefónica Deutschland
+24;11A 2 GHz (2026);23750000;1&1 Drillisch
+24;12A 2 GHz (2026);26125000;Vodafone
+24;01K 3,6 GHz;Kein Gebot;Kein Gebot
+24;02A 3,6 GHz;2736000;Telefónica Deutschland
+24;03A 3,6 GHz;2736000;Telefónica Deutschland
+24;04A 3,6 GHz;2736000;Telefónica Deutschland
+24;05A 3,6 GHz;2736000;Telefónica Deutschland
+24;06A 3,6 GHz;2736000;Telefónica Deutschland
+24;07A 3,6 GHz;2736000;Telekom
+24;08A 3,6 GHz;2736000;Telekom
+24;09A 3,6 GHz;2736000;Vodafone
+24;10A 3,6 GHz;2736000;Telefónica Deutschland
+24;11A 3,6 GHz;2736000;Vodafone
+24;12A 3,6 GHz;2736000;Vodafone
+24;13A 3,6 GHz;2736000;Telekom
+24;14A 3,6 GHz;2736000;1&1 Drillisch
+24;15A 3,6 GHz;2736000;1&1 Drillisch
+24;16A 3,6 GHz;2736000;1&1 Drillisch
+24;17A 3,6 GHz;2736000;Telekom
+24;18A 3,6 GHz;2736000;Telekom
+24;19A 3,6 GHz;2736000;Telekom
+24;20A 3,6 GHz;2736000;Telekom
+24;21A 3,6 GHz;2736000;Telekom
+24;22A 3,6 GHz;2736000;Vodafone
+24;23A 3,6 GHz;2736000;Telefónica Deutschland
+24;24A 3,6 GHz;23870000;Vodafone
+24;25A 3,6 GHz;23870000;Vodafone
+24;26A 3,6 GHz;21700000;1&1 Drillisch
+24;27A 3,6 GHz;21700000;1&1 Drillisch
+24;28A 3,6 GHz;21700000;1&1 Drillisch
+24;29K 3,6 GHz;23870000;Telekom
+25;01A 2 GHz;12965000;Telefónica Deutschland
+25;02A 2 GHz;12965000;1&1 Drillisch
+25;03A 2 GHz;12965000;Vodafone
+25;04A 2 GHz;12965000;Telekom
+25;05A 2 GHz;12965000;Telekom
+25;06A 2 GHz;14261000;Telekom
+25;07A 2 GHz;27500000;Vodafone
+25;08A 2 GHz;25000000;1&1 Drillisch
+25;09A 2 GHz (2026);10692000;1&1 Drillisch
+25;10A 2 GHz (2026);11761000;Telefónica Deutschland
+25;11A 2 GHz (2026);23750000;1&1 Drillisch
+25;12A 2 GHz (2026);26125000;Vodafone
+25;01K 3,6 GHz;Kein Gebot;Kein Gebot
+25;02A 3,6 GHz;3009000;Vodafone
+25;03A 3,6 GHz;3009000;Vodafone
+25;04A 3,6 GHz;3009000;Vodafone
+25;05A 3,6 GHz;2736000;Telefónica Deutschland
+25;06A 3,6 GHz;2736000;Telefónica Deutschland
+25;07A 3,6 GHz;2736000;Telekom
+25;08A 3,6 GHz;2736000;Telekom
+25;09A 3,6 GHz;2736000;Vodafone
+25;10A 3,6 GHz;2736000;Telefónica Deutschland
+25;11A 3,6 GHz;2736000;Vodafone
+25;12A 3,6 GHz;2736000;Vodafone
+25;13A 3,6 GHz;2736000;Telekom
+25;14A 3,6 GHz;3009000;Telefónica Deutschland
+25;15A 3,6 GHz;3009000;Telefónica Deutschland
+25;16A 3,6 GHz;2736000;1&1 Drillisch
+25;17A 3,6 GHz;2736000;Telekom
+25;18A 3,6 GHz;2736000;Telekom
+25;19A 3,6 GHz;2736000;Telekom
+25;20A 3,6 GHz;2736000;Telekom
+25;21A 3,6 GHz;2736000;Telekom
+25;22A 3,6 GHz;2736000;Vodafone
+25;23A 3,6 GHz;2736000;Telefónica Deutschland
+25;24A 3,6 GHz;23870000;Vodafone
+25;25A 3,6 GHz;23870000;Vodafone
+25;26A 3,6 GHz;21700000;1&1 Drillisch
+25;27A 3,6 GHz;21700000;1&1 Drillisch
+25;28A 3,6 GHz;21700000;1&1 Drillisch
+25;29K 3,6 GHz;23870000;Telekom
+26;01A 2 GHz;12965000;Telefónica Deutschland
+26;02A 2 GHz;14261000;Vodafone
+26;03A 2 GHz;12965000;Vodafone
+26;04A 2 GHz;12965000;Telekom
+26;05A 2 GHz;12965000;Telekom
+26;06A 2 GHz;14261000;Telekom
+26;07A 2 GHz;27500000;Vodafone
+26;08A 2 GHz;25000000;1&1 Drillisch
+26;09A 2 GHz (2026);11761000;Telefónica Deutschland
+26;10A 2 GHz (2026);11761000;Telefónica Deutschland
+26;11A 2 GHz (2026);23750000;1&1 Drillisch
+26;12A 2 GHz (2026);26125000;Vodafone
+26;01K 3,6 GHz;Kein Gebot;Kein Gebot
+26;02A 3,6 GHz;3009000;Vodafone
+26;03A 3,6 GHz;3009000;Vodafone
+26;04A 3,6 GHz;3009000;Vodafone
+26;05A 3,6 GHz;2736000;Telefónica Deutschland
+26;06A 3,6 GHz;3009000;Telekom
+26;07A 3,6 GHz;2736000;Telekom
+26;08A 3,6 GHz;2736000;Telekom
+26;09A 3,6 GHz;2736000;Vodafone
+26;10A 3,6 GHz;2736000;Telefónica Deutschland
+26;11A 3,6 GHz;2736000;Vodafone
+26;12A 3,6 GHz;3009000;1&1 Drillisch
+26;13A 3,6 GHz;3009000;1&1 Drillisch
+26;14A 3,6 GHz;3009000;Telefónica Deutschland
+26;15A 3,6 GHz;3009000;Telefónica Deutschland
+26;16A 3,6 GHz;3009000;Telefónica Deutschland
+26;17A 3,6 GHz;2736000;Telekom
+26;18A 3,6 GHz;2736000;Telekom
+26;19A 3,6 GHz;2736000;Telekom
+26;20A 3,6 GHz;2736000;Telekom
+26;21A 3,6 GHz;2736000;Telekom
+26;22A 3,6 GHz;2736000;Vodafone
+26;23A 3,6 GHz;2736000;Telefónica Deutschland
+26;24A 3,6 GHz;23870000;Vodafone
+26;25A 3,6 GHz;23870000;Vodafone
+26;26A 3,6 GHz;21700000;1&1 Drillisch
+26;27A 3,6 GHz;21700000;1&1 Drillisch
+26;28A 3,6 GHz;21700000;1&1 Drillisch
+26;29K 3,6 GHz;23870000;Telekom
+27;01A 2 GHz;14261000;1&1 Drillisch
+27;02A 2 GHz;14261000;Vodafone
+27;03A 2 GHz;14261000;Telefónica Deutschland
+27;04A 2 GHz;12965000;Telekom
+27;05A 2 GHz;12965000;Telekom
+27;06A 2 GHz;14261000;Telekom
+27;07A 2 GHz;27500000;Vodafone
+27;08A 2 GHz;25000000;1&1 Drillisch
+27;09A 2 GHz (2026);11761000;Telefónica Deutschland
+27;10A 2 GHz (2026);12937000;1&1 Drillisch
+27;11A 2 GHz (2026);23750000;1&1 Drillisch
+27;12A 2 GHz (2026);26125000;Vodafone
+27;01K 3,6 GHz;Kein Gebot;Kein Gebot
+27;02A 3,6 GHz;3009000;Vodafone
+27;03A 3,6 GHz;3009000;Vodafone
+27;04A 3,6 GHz;3009000;Vodafone
+27;05A 3,6 GHz;3009000;Vodafone
+27;06A 3,6 GHz;3009000;Telekom
+27;07A 3,6 GHz;3009000;Telefónica Deutschland
+27;08A 3,6 GHz;3009000;Telefónica Deutschland
+27;09A 3,6 GHz;3009000;Telefónica Deutschland
+27;10A 3,6 GHz;2736000;Telefónica Deutschland
+27;11A 3,6 GHz;3009000;1&1 Drillisch
+27;12A 3,6 GHz;3009000;1&1 Drillisch
+27;13A 3,6 GHz;3009000;1&1 Drillisch
+27;14A 3,6 GHz;3009000;Telefónica Deutschland
+27;15A 3,6 GHz;3009000;Telefónica Deutschland
+27;16A 3,6 GHz;3009000;Telefónica Deutschland
+27;17A 3,6 GHz;2736000;Telekom
+27;18A 3,6 GHz;2736000;Telekom
+27;19A 3,6 GHz;2736000;Telekom
+27;20A 3,6 GHz;2736000;Telekom
+27;21A 3,6 GHz;2736000;Telekom
+27;22A 3,6 GHz;2736000;Vodafone
+27;23A 3,6 GHz;2736000;Telefónica Deutschland
+27;24A 3,6 GHz;23870000;Vodafone
+27;25A 3,6 GHz;23870000;Vodafone
+27;26A 3,6 GHz;21700000;1&1 Drillisch
+27;27A 3,6 GHz;21700000;1&1 Drillisch
+27;28A 3,6 GHz;21700000;1&1 Drillisch
+27;29K 3,6 GHz;23870000;Telekom
+28;01A 2 GHz;15687000;Telekom
+28;02A 2 GHz;14261000;Vodafone
+28;03A 2 GHz;14261000;Telefónica Deutschland
+28;04A 2 GHz;14261000;Vodafone
+28;05A 2 GHz;12965000;Telekom
+28;06A 2 GHz;14261000;Telekom
+28;07A 2 GHz;27500000;Vodafone
+28;08A 2 GHz;25000000;1&1 Drillisch
+28;09A 2 GHz (2026);11761000;Telefónica Deutschland
+28;10A 2 GHz (2026);14230000;Telefónica Deutschland
+28;11A 2 GHz (2026);23750000;1&1 Drillisch
+28;12A 2 GHz (2026);26125000;Vodafone
+28;01K 3,6 GHz;Kein Gebot;Kein Gebot
+28;02A 3,6 GHz;3009000;Vodafone
+28;03A 3,6 GHz;3009000;Vodafone
+28;04A 3,6 GHz;3009000;Vodafone
+28;05A 3,6 GHz;3009000;Vodafone
+28;06A 3,6 GHz;3009000;Telekom
+28;07A 3,6 GHz;3009000;Telefónica Deutschland
+28;08A 3,6 GHz;3009000;Telefónica Deutschland
+28;09A 3,6 GHz;3009000;Telefónica Deutschland
+28;10A 3,6 GHz;3009000;Vodafone
+28;11A 3,6 GHz;3009000;1&1 Drillisch
+28;12A 3,6 GHz;3009000;1&1 Drillisch
+28;13A 3,6 GHz;3009000;1&1 Drillisch
+28;14A 3,6 GHz;3009000;Telefónica Deutschland
+28;15A 3,6 GHz;3009000;Telefónica Deutschland
+28;16A 3,6 GHz;3009000;Telefónica Deutschland
+28;17A 3,6 GHz;3009000;Telefónica Deutschland
+28;18A 3,6 GHz;2736000;Telekom
+28;19A 3,6 GHz;2736000;Telekom
+28;20A 3,6 GHz;2736000;Telekom
+28;21A 3,6 GHz;2736000;Telekom
+28;22A 3,6 GHz;3009000;Telekom
+28;23A 3,6 GHz;3009000;Vodafone
+28;24A 3,6 GHz;23870000;Vodafone
+28;25A 3,6 GHz;23870000;Vodafone
+28;26A 3,6 GHz;21700000;1&1 Drillisch
+28;27A 3,6 GHz;21700000;1&1 Drillisch
+28;28A 3,6 GHz;21700000;1&1 Drillisch
+28;29K 3,6 GHz;23870000;Telekom
+29;01A 2 GHz;15687000;Telekom
+29;02A 2 GHz;14261000;Vodafone
+29;03A 2 GHz;15687000;Telekom
+29;04A 2 GHz;14261000;Vodafone
+29;05A 2 GHz;14261000;Telefónica Deutschland
+29;06A 2 GHz;14261000;Telekom
+29;07A 2 GHz;27500000;Vodafone
+29;08A 2 GHz;25000000;1&1 Drillisch
+29;09A 2 GHz (2026);12937000;1&1 Drillisch
+29;10A 2 GHz (2026);14230000;Telefónica Deutschland
+29;11A 2 GHz (2026);23750000;1&1 Drillisch
+29;12A 2 GHz (2026);26125000;Vodafone
+29;01K 3,6 GHz;Kein Gebot;Kein Gebot
+29;02A 3,6 GHz;3009000;Vodafone
+29;03A 3,6 GHz;3009000;Vodafone
+29;04A 3,6 GHz;3009000;Vodafone
+29;05A 3,6 GHz;3009000;Vodafone
+29;06A 3,6 GHz;3009000;Telekom
+29;07A 3,6 GHz;3009000;Telefónica Deutschland
+29;08A 3,6 GHz;3009000;Telefónica Deutschland
+29;09A 3,6 GHz;3009000;Telefónica Deutschland
+29;10A 3,6 GHz;3009000;Vodafone
+29;11A 3,6 GHz;3009000;1&1 Drillisch
+29;12A 3,6 GHz;3309000;Telekom
+29;13A 3,6 GHz;3309000;Telekom
+29;14A 3,6 GHz;3309000;Telekom
+29;15A 3,6 GHz;3009000;Telefónica Deutschland
+29;16A 3,6 GHz;3009000;Telefónica Deutschland
+29;17A 3,6 GHz;3009000;Telefónica Deutschland
+29;18A 3,6 GHz;3009000;Telefónica Deutschland
+29;19A 3,6 GHz;3009000;Telefónica Deutschland
+29;20A 3,6 GHz;2736000;Telekom
+29;21A 3,6 GHz;2736000;Telekom
+29;22A 3,6 GHz;3009000;Telekom
+29;23A 3,6 GHz;3009000;Vodafone
+29;24A 3,6 GHz;23870000;Vodafone
+29;25A 3,6 GHz;23870000;Vodafone
+29;26A 3,6 GHz;21700000;1&1 Drillisch
+29;27A 3,6 GHz;21700000;1&1 Drillisch
+29;28A 3,6 GHz;21700000;1&1 Drillisch
+29;29K 3,6 GHz;23870000;Telekom
+30;01A 2 GHz;15687000;Telekom
+30;02A 2 GHz;14261000;Vodafone
+30;03A 2 GHz;15687000;Telekom
+30;04A 2 GHz;15687000;Telefónica Deutschland
+30;05A 2 GHz;15687000;Telekom
+30;06A 2 GHz;15687000;1&1 Drillisch
+30;07A 2 GHz;27500000;Vodafone
+30;08A 2 GHz;25000000;1&1 Drillisch
+30;09A 2 GHz (2026);14230000;Telefónica Deutschland
+30;10A 2 GHz (2026);14230000;Telefónica Deutschland
+30;11A 2 GHz (2026);23750000;1&1 Drillisch
+30;12A 2 GHz (2026);26125000;Vodafone
+30;01K 3,6 GHz;Kein Gebot;Kein Gebot
+30;02A 3,6 GHz;3009000;Vodafone
+30;03A 3,6 GHz;3009000;Vodafone
+30;04A 3,6 GHz;3009000;Vodafone
+30;05A 3,6 GHz;3009000;Vodafone
+30;06A 3,6 GHz;3009000;Telekom
+30;07A 3,6 GHz;3009000;Telefónica Deutschland
+30;08A 3,6 GHz;3009000;Telefónica Deutschland
+30;09A 3,6 GHz;3009000;Telefónica Deutschland
+30;10A 3,6 GHz;3009000;Vodafone
+30;11A 3,6 GHz;3309000;Telekom
+30;12A 3,6 GHz;3309000;Telekom
+30;13A 3,6 GHz;3309000;Telekom
+30;14A 3,6 GHz;3309000;Telekom
+30;15A 3,6 GHz;3309000;Telekom
+30;16A 3,6 GHz;3009000;Telefónica Deutschland
+30;17A 3,6 GHz;3009000;Telefónica Deutschland
+30;18A 3,6 GHz;3009000;Telefónica Deutschland
+30;19A 3,6 GHz;3009000;Telefónica Deutschland
+30;20A 3,6 GHz;3009000;1&1 Drillisch
+30;21A 3,6 GHz;3009000;1&1 Drillisch
+30;22A 3,6 GHz;3009000;Telekom
+30;23A 3,6 GHz;3009000;Vodafone
+30;24A 3,6 GHz;23870000;Vodafone
+30;25A 3,6 GHz;23870000;Vodafone
+30;26A 3,6 GHz;21700000;1&1 Drillisch
+30;27A 3,6 GHz;21700000;1&1 Drillisch
+30;28A 3,6 GHz;21700000;1&1 Drillisch
+30;29K 3,6 GHz;23870000;Telekom
+31;01A 2 GHz;15687000;Telekom
+31;02A 2 GHz;15687000;Telefónica Deutschland
+31;03A 2 GHz;15687000;Telekom
+31;04A 2 GHz;15687000;Telefónica Deutschland
+31;05A 2 GHz;15687000;Telekom
+31;06A 2 GHz;17255000;Vodafone
+31;07A 2 GHz;27500000;Vodafone
+31;08A 2 GHz;25000000;1&1 Drillisch
+31;09A 2 GHz (2026);14230000;Telefónica Deutschland
+31;10A 2 GHz (2026);15653000;1&1 Drillisch
+31;11A 2 GHz (2026);23750000;1&1 Drillisch
+31;12A 2 GHz (2026);26125000;Vodafone
+31;01K 3,6 GHz;Kein Gebot;Kein Gebot
+31;02A 3,6 GHz;3009000;Vodafone
+31;03A 3,6 GHz;3009000;Vodafone
+31;04A 3,6 GHz;3009000;Vodafone
+31;05A 3,6 GHz;3009000;Vodafone
+31;06A 3,6 GHz;3009000;Telekom
+31;07A 3,6 GHz;3309000;Vodafone
+31;08A 3,6 GHz;3009000;Telefónica Deutschland
+31;09A 3,6 GHz;3009000;Telefónica Deutschland
+31;10A 3,6 GHz;3309000;1&1 Drillisch
+31;11A 3,6 GHz;3309000;Telekom
+31;12A 3,6 GHz;3309000;Telekom
+31;13A 3,6 GHz;3309000;Telekom
+31;14A 3,6 GHz;3309000;Telekom
+31;15A 3,6 GHz;3309000;Telekom
+31;16A 3,6 GHz;3009000;Telefónica Deutschland
+31;17A 3,6 GHz;3009000;Telefónica Deutschland
+31;18A 3,6 GHz;3009000;Telefónica Deutschland
+31;19A 3,6 GHz;3309000;Telekom
+31;20A 3,6 GHz;3309000;Telefónica Deutschland
+31;21A 3,6 GHz;3309000;Telefónica Deutschland
+31;22A 3,6 GHz;3009000;Telekom
+31;23A 3,6 GHz;3009000;Vodafone
+31;24A 3,6 GHz;23870000;Vodafone
+31;25A 3,6 GHz;23870000;Vodafone
+31;26A 3,6 GHz;21700000;1&1 Drillisch
+31;27A 3,6 GHz;21700000;1&1 Drillisch
+31;28A 3,6 GHz;21700000;1&1 Drillisch
+31;29K 3,6 GHz;23870000;Telekom
+32;01A 2 GHz;15687000;Telekom
+32;02A 2 GHz;17255000;Vodafone
+32;03A 2 GHz;15687000;Telekom
+32;04A 2 GHz;15687000;Telefónica Deutschland
+32;05A 2 GHz;17255000;1&1 Drillisch
+32;06A 2 GHz;17255000;Vodafone
+32;07A 2 GHz;27500000;Vodafone
+32;08A 2 GHz;25000000;1&1 Drillisch
+32;09A 2 GHz (2026);14230000;Telefónica Deutschland
+32;10A 2 GHz (2026);15653000;1&1 Drillisch
+32;11A 2 GHz (2026);23750000;1&1 Drillisch
+32;12A 2 GHz (2026);26125000;Vodafone
+32;01K 3,6 GHz;Kein Gebot;Kein Gebot
+32;02A 3,6 GHz;3009000;Vodafone
+32;03A 3,6 GHz;3009000;Vodafone
+32;04A 3,6 GHz;3009000;Vodafone
+32;05A 3,6 GHz;3009000;Vodafone
+32;06A 3,6 GHz;3009000;Telekom
+32;07A 3,6 GHz;3309000;Vodafone
+32;08A 3,6 GHz;3309000;1&1 Drillisch
+32;09A 3,6 GHz;3309000;1&1 Drillisch
+32;10A 3,6 GHz;3309000;1&1 Drillisch
+32;11A 3,6 GHz;3309000;Telekom
+32;12A 3,6 GHz;3309000;Telekom
+32;13A 3,6 GHz;3309000;Telekom
+32;14A 3,6 GHz;3309000;Telekom
+32;15A 3,6 GHz;3309000;Telekom
+32;16A 3,6 GHz;3309000;Telekom
+32;17A 3,6 GHz;3009000;Telefónica Deutschland
+32;18A 3,6 GHz;3009000;Telefónica Deutschland
+32;19A 3,6 GHz;3309000;Telekom
+32;20A 3,6 GHz;3309000;Telefónica Deutschland
+32;21A 3,6 GHz;3309000;Telefónica Deutschland
+32;22A 3,6 GHz;3309000;Telefónica Deutschland
+32;23A 3,6 GHz;3309000;Telefónica Deutschland
+32;24A 3,6 GHz;23870000;Vodafone
+32;25A 3,6 GHz;23870000;Vodafone
+32;26A 3,6 GHz;21700000;1&1 Drillisch
+32;27A 3,6 GHz;21700000;1&1 Drillisch
+32;28A 3,6 GHz;21700000;1&1 Drillisch
+32;29K 3,6 GHz;23870000;Telekom
+33;01A 2 GHz;17255000;Telefónica Deutschland
+33;02A 2 GHz;17255000;Vodafone
+33;03A 2 GHz;17255000;Telefónica Deutschland
+33;04A 2 GHz;17255000;Telekom
+33;05A 2 GHz;18980000;Telekom
+33;06A 2 GHz;17255000;Vodafone
+33;07A 2 GHz;27500000;Vodafone
+33;08A 2 GHz;25000000;1&1 Drillisch
+33;09A 2 GHz (2026);14230000;Telefónica Deutschland
+33;10A 2 GHz (2026);15653000;1&1 Drillisch
+33;11A 2 GHz (2026);23750000;1&1 Drillisch
+33;12A 2 GHz (2026);26125000;Vodafone
+33;01K 3,6 GHz;Kein Gebot;Kein Gebot
+33;02A 3,6 GHz;3009000;Vodafone
+33;03A 3,6 GHz;3009000;Vodafone
+33;04A 3,6 GHz;3309000;Telefónica Deutschland
+33;05A 3,6 GHz;3309000;Telefónica Deutschland
+33;06A 3,6 GHz;3309000;Telefónica Deutschland
+33;07A 3,6 GHz;3309000;Vodafone
+33;08A 3,6 GHz;3309000;1&1 Drillisch
+33;09A 3,6 GHz;3309000;1&1 Drillisch
+33;10A 3,6 GHz;3309000;1&1 Drillisch
+33;11A 3,6 GHz;3309000;Telekom
+33;12A 3,6 GHz;3309000;Telekom
+33;13A 3,6 GHz;3309000;Telekom
+33;14A 3,6 GHz;3309000;Telekom
+33;15A 3,6 GHz;3309000;Telekom
+33;16A 3,6 GHz;3309000;Telekom
+33;17A 3,6 GHz;3309000;Vodafone
+33;18A 3,6 GHz;3309000;Vodafone
+33;19A 3,6 GHz;3309000;Telekom
+33;20A 3,6 GHz;3309000;Telefónica Deutschland
+33;21A 3,6 GHz;3309000;Telefónica Deutschland
+33;22A 3,6 GHz;3309000;Telefónica Deutschland
+33;23A 3,6 GHz;3309000;Telefónica Deutschland
+33;24A 3,6 GHz;23870000;Vodafone
+33;25A 3,6 GHz;23870000;Vodafone
+33;26A 3,6 GHz;21700000;1&1 Drillisch
+33;27A 3,6 GHz;21700000;1&1 Drillisch
+33;28A 3,6 GHz;21700000;1&1 Drillisch
+33;29K 3,6 GHz;23870000;Telekom
+34;01A 2 GHz;18980000;Telekom
+34;02A 2 GHz;18980000;Telefónica Deutschland
+34;03A 2 GHz;18980000;Telekom
+34;04A 2 GHz;18980000;1&1 Drillisch
+34;05A 2 GHz;18980000;Telekom
+34;06A 2 GHz;17255000;Vodafone
+34;07A 2 GHz;27500000;Vodafone
+34;08A 2 GHz;25000000;1&1 Drillisch
+34;09A 2 GHz (2026);14230000;Telefónica Deutschland
+34;10A 2 GHz (2026);15653000;1&1 Drillisch
+34;11A 2 GHz (2026);23750000;1&1 Drillisch
+34;12A 2 GHz (2026);26125000;Vodafone
+34;01K 3,6 GHz;Kein Gebot;Kein Gebot
+34;02A 3,6 GHz;3309000;Telefónica Deutschland
+34;03A 3,6 GHz;3309000;Telefónica Deutschland
+34;04A 3,6 GHz;3639000;Vodafone
+34;05A 3,6 GHz;3639000;Vodafone
+34;06A 3,6 GHz;3309000;Telefónica Deutschland
+34;07A 3,6 GHz;3309000;Vodafone
+34;08A 3,6 GHz;3309000;1&1 Drillisch
+34;09A 3,6 GHz;3309000;1&1 Drillisch
+34;10A 3,6 GHz;3309000;1&1 Drillisch
+34;11A 3,6 GHz;3309000;Telekom
+34;12A 3,6 GHz;3309000;Telekom
+34;13A 3,6 GHz;3309000;Telekom
+34;14A 3,6 GHz;3309000;Telekom
+34;15A 3,6 GHz;3309000;Telekom
+34;16A 3,6 GHz;3309000;Telekom
+34;17A 3,6 GHz;3309000;Vodafone
+34;18A 3,6 GHz;3309000;Vodafone
+34;19A 3,6 GHz;3309000;Telekom
+34;20A 3,6 GHz;3309000;Telefónica Deutschland
+34;21A 3,6 GHz;3309000;Telefónica Deutschland
+34;22A 3,6 GHz;3309000;Telefónica Deutschland
+34;23A 3,6 GHz;3309000;Telefónica Deutschland
+34;24A 3,6 GHz;23870000;Vodafone
+34;25A 3,6 GHz;23870000;Vodafone
+34;26A 3,6 GHz;21700000;1&1 Drillisch
+34;27A 3,6 GHz;21700000;1&1 Drillisch
+34;28A 3,6 GHz;21700000;1&1 Drillisch
+34;29K 3,6 GHz;23870000;Telekom
+35;01A 2 GHz;18980000;Telekom
+35;02A 2 GHz;18980000;Telefónica Deutschland
+35;03A 2 GHz;18980000;Telekom
+35;04A 2 GHz;20878000;Telefónica Deutschland
+35;05A 2 GHz;18980000;Telekom
+35;06A 2 GHz;18980000;Telefónica Deutschland
+35;07A 2 GHz;27500000;Vodafone
+35;08A 2 GHz;25000000;1&1 Drillisch
+35;09A 2 GHz (2026);14230000;Telefónica Deutschland
+35;10A 2 GHz (2026);15653000;1&1 Drillisch
+35;11A 2 GHz (2026);23750000;1&1 Drillisch
+35;12A 2 GHz (2026);26125000;Vodafone
+35;01K 3,6 GHz;Kein Gebot;Kein Gebot
+35;02A 3,6 GHz;3639000;Vodafone
+35;03A 3,6 GHz;3639000;Vodafone
+35;04A 3,6 GHz;3639000;Vodafone
+35;05A 3,6 GHz;3639000;Vodafone
+35;06A 3,6 GHz;3639000;Telekom
+35;07A 3,6 GHz;3309000;Vodafone
+35;08A 3,6 GHz;3639000;Telefónica Deutschland
+35;09A 3,6 GHz;3639000;Telefónica Deutschland
+35;10A 3,6 GHz;3639000;Telekom
+35;11A 3,6 GHz;3309000;Telekom
+35;12A 3,6 GHz;3309000;Telekom
+35;13A 3,6 GHz;3309000;Telekom
+35;14A 3,6 GHz;3309000;Telekom
+35;15A 3,6 GHz;3309000;Telekom
+35;16A 3,6 GHz;3309000;Telekom
+35;17A 3,6 GHz;3309000;Vodafone
+35;18A 3,6 GHz;3309000;Vodafone
+35;19A 3,6 GHz;3309000;Telekom
+35;20A 3,6 GHz;3309000;Telefónica Deutschland
+35;21A 3,6 GHz;3309000;Telefónica Deutschland
+35;22A 3,6 GHz;3309000;Telefónica Deutschland
+35;23A 3,6 GHz;3309000;Telefónica Deutschland
+35;24A 3,6 GHz;23870000;Vodafone
+35;25A 3,6 GHz;23870000;Vodafone
+35;26A 3,6 GHz;21700000;1&1 Drillisch
+35;27A 3,6 GHz;21700000;1&1 Drillisch
+35;28A 3,6 GHz;21700000;1&1 Drillisch
+35;29K 3,6 GHz;23870000;Telekom
+36;01A 2 GHz;18980000;Telekom
+36;02A 2 GHz;20878000;Vodafone
+36;03A 2 GHz;18980000;Telekom
+36;04A 2 GHz;20878000;Telefónica Deutschland
+36;05A 2 GHz;18980000;Telekom
+36;06A 2 GHz;25878000;1&1 Drillisch
+36;07A 2 GHz;27500000;Vodafone
+36;08A 2 GHz;25000000;1&1 Drillisch
+36;09A 2 GHz (2026);14230000;Telefónica Deutschland
+36;10A 2 GHz (2026);22218000;1&1 Drillisch
+36;11A 2 GHz (2026);23750000;1&1 Drillisch
+36;12A 2 GHz (2026);26125000;Vodafone
+36;01K 3,6 GHz;Kein Gebot;Kein Gebot
+36;02A 3,6 GHz;3639000;Vodafone
+36;03A 3,6 GHz;3639000;Vodafone
+36;04A 3,6 GHz;3639000;Vodafone
+36;05A 3,6 GHz;3639000;Vodafone
+36;06A 3,6 GHz;3639000;Telekom
+36;07A 3,6 GHz;3309000;Vodafone
+36;08A 3,6 GHz;3639000;Telefónica Deutschland
+36;09A 3,6 GHz;3639000;Telefónica Deutschland
+36;10A 3,6 GHz;3639000;Telekom
+36;11A 3,6 GHz;3309000;Telekom
+36;12A 3,6 GHz;3309000;Telekom
+36;13A 3,6 GHz;3309000;Telekom
+36;14A 3,6 GHz;3309000;Telekom
+36;15A 3,6 GHz;3309000;Telekom
+36;16A 3,6 GHz;3309000;Telekom
+36;17A 3,6 GHz;3639000;Telefónica Deutschland
+36;18A 3,6 GHz;3639000;Telefónica Deutschland
+36;19A 3,6 GHz;3639000;Telefónica Deutschland
+36;20A 3,6 GHz;3309000;Telefónica Deutschland
+36;21A 3,6 GHz;23639000;1&1 Drillisch
+36;22A 3,6 GHz;23639000;1&1 Drillisch
+36;23A 3,6 GHz;23639000;1&1 Drillisch
+36;24A 3,6 GHz;23870000;Vodafone
+36;25A 3,6 GHz;23870000;Vodafone
+36;26A 3,6 GHz;21700000;1&1 Drillisch
+36;27A 3,6 GHz;21700000;1&1 Drillisch
+36;28A 3,6 GHz;21700000;1&1 Drillisch
+36;29K 3,6 GHz;23870000;Telekom
+37;01A 2 GHz;20878000;Vodafone
+37;02A 2 GHz;20878000;Vodafone
+37;03A 2 GHz;20878000;Telefónica Deutschland
+37;04A 2 GHz;22965000;Telekom
+37;05A 2 GHz;20878000;Telefónica Deutschland
+37;06A 2 GHz;25878000;1&1 Drillisch
+37;07A 2 GHz;27500000;Vodafone
+37;08A 2 GHz;25000000;1&1 Drillisch
+37;09A 2 GHz (2026);14230000;Telefónica Deutschland
+37;10A 2 GHz (2026);22218000;1&1 Drillisch
+37;11A 2 GHz (2026);23750000;1&1 Drillisch
+37;12A 2 GHz (2026);26125000;Vodafone
+37;01K 3,6 GHz;Kein Gebot;Kein Gebot
+37;02A 3,6 GHz;3639000;Vodafone
+37;03A 3,6 GHz;3639000;Vodafone
+37;04A 3,6 GHz;3639000;Vodafone
+37;05A 3,6 GHz;3639000;Vodafone
+37;06A 3,6 GHz;3639000;Telekom
+37;07A 3,6 GHz;3639000;Telefónica Deutschland
+37;08A 3,6 GHz;3639000;Telefónica Deutschland
+37;09A 3,6 GHz;3639000;Telefónica Deutschland
+37;10A 3,6 GHz;3639000;Telekom
+37;11A 3,6 GHz;3639000;Vodafone
+37;12A 3,6 GHz;3309000;Telekom
+37;13A 3,6 GHz;3309000;Telekom
+37;14A 3,6 GHz;3309000;Telekom
+37;15A 3,6 GHz;3639000;Telefónica Deutschland
+37;16A 3,6 GHz;3639000;Telefónica Deutschland
+37;17A 3,6 GHz;3639000;Telefónica Deutschland
+37;18A 3,6 GHz;3639000;Telefónica Deutschland
+37;19A 3,6 GHz;3639000;Telefónica Deutschland
+37;20A 3,6 GHz;3639000;Vodafone
+37;21A 3,6 GHz;23639000;1&1 Drillisch
+37;22A 3,6 GHz;23639000;1&1 Drillisch
+37;23A 3,6 GHz;23639000;1&1 Drillisch
+37;24A 3,6 GHz;23870000;Vodafone
+37;25A 3,6 GHz;23870000;Vodafone
+37;26A 3,6 GHz;21700000;1&1 Drillisch
+37;27A 3,6 GHz;21700000;1&1 Drillisch
+37;28A 3,6 GHz;21700000;1&1 Drillisch
+37;29K 3,6 GHz;23870000;Telekom
+38;01A 2 GHz;20878000;Vodafone
+38;02A 2 GHz;22965000;Telefónica Deutschland
+38;03A 2 GHz;22965000;Telekom
+38;04A 2 GHz;22965000;Telekom
+38;05A 2 GHz;22965000;Telekom
+38;06A 2 GHz;25878000;1&1 Drillisch
+38;07A 2 GHz;27500000;Vodafone
+38;08A 2 GHz;25000000;1&1 Drillisch
+38;09A 2 GHz (2026);14230000;Telefónica Deutschland
+38;10A 2 GHz (2026);22218000;1&1 Drillisch
+38;11A 2 GHz (2026);23750000;1&1 Drillisch
+38;12A 2 GHz (2026);26125000;Vodafone
+38;01K 3,6 GHz;Kein Gebot;Kein Gebot
+38;02A 3,6 GHz;3639000;Vodafone
+38;03A 3,6 GHz;3639000;Vodafone
+38;04A 3,6 GHz;3639000;Vodafone
+38;05A 3,6 GHz;3639000;Vodafone
+38;06A 3,6 GHz;3639000;Telekom
+38;07A 3,6 GHz;3639000;Telefónica Deutschland
+38;08A 3,6 GHz;3639000;Telefónica Deutschland
+38;09A 3,6 GHz;3639000;Telefónica Deutschland
+38;10A 3,6 GHz;3639000;Telekom
+38;11A 3,6 GHz;3639000;Vodafone
+38;12A 3,6 GHz;3639000;Vodafone
+38;13A 3,6 GHz;3309000;Telekom
+38;14A 3,6 GHz;3639000;Telefónica Deutschland
+38;15A 3,6 GHz;4002000;Telekom
+38;16A 3,6 GHz;4002000;Telekom
+38;17A 3,6 GHz;4002000;Telekom
+38;18A 3,6 GHz;4002000;Telekom
+38;19A 3,6 GHz;3639000;Telefónica Deutschland
+38;20A 3,6 GHz;3639000;Vodafone
+38;21A 3,6 GHz;23639000;1&1 Drillisch
+38;22A 3,6 GHz;23639000;1&1 Drillisch
+38;23A 3,6 GHz;23639000;1&1 Drillisch
+38;24A 3,6 GHz;23870000;Vodafone
+38;25A 3,6 GHz;23870000;Vodafone
+38;26A 3,6 GHz;21700000;1&1 Drillisch
+38;27A 3,6 GHz;21700000;1&1 Drillisch
+38;28A 3,6 GHz;21700000;1&1 Drillisch
+38;29K 3,6 GHz;23870000;Telekom
+39;01A 2 GHz;22965000;Telefónica Deutschland
+39;02A 2 GHz;25261000;Vodafone
+39;03A 2 GHz;25261000;Telefónica Deutschland
+39;04A 2 GHz;22965000;Telekom
+39;05A 2 GHz;22965000;Telekom
+39;06A 2 GHz;25878000;1&1 Drillisch
+39;07A 2 GHz;27500000;Vodafone
+39;08A 2 GHz;25000000;1&1 Drillisch
+39;09A 2 GHz (2026);14230000;Telefónica Deutschland
+39;10A 2 GHz (2026);22218000;1&1 Drillisch
+39;11A 2 GHz (2026);23750000;1&1 Drillisch
+39;12A 2 GHz (2026);26125000;Vodafone
+39;01K 3,6 GHz;Kein Gebot;Kein Gebot
+39;02A 3,6 GHz;3639000;Vodafone
+39;03A 3,6 GHz;3639000;Vodafone
+39;04A 3,6 GHz;3639000;Vodafone
+39;05A 3,6 GHz;3639000;Vodafone
+39;06A 3,6 GHz;3639000;Telekom
+39;07A 3,6 GHz;4002000;Telekom
+39;08A 3,6 GHz;4002000;Telekom
+39;09A 3,6 GHz;3639000;Telefónica Deutschland
+39;10A 3,6 GHz;4002000;Telefónica Deutschland
+39;11A 3,6 GHz;4002000;Telefónica Deutschland
+39;12A 3,6 GHz;4002000;Telefónica Deutschland
+39;13A 3,6 GHz;3639000;Telefónica Deutschland
+39;14A 3,6 GHz;3639000;Telefónica Deutschland
+39;15A 3,6 GHz;4002000;Telekom
+39;16A 3,6 GHz;4002000;Telekom
+39;17A 3,6 GHz;4002000;Telekom
+39;18A 3,6 GHz;4002000;Telekom
+39;19A 3,6 GHz;3639000;Telefónica Deutschland
+39;20A 3,6 GHz;3639000;Vodafone
+39;21A 3,6 GHz;23639000;1&1 Drillisch
+39;22A 3,6 GHz;23639000;1&1 Drillisch
+39;23A 3,6 GHz;23639000;1&1 Drillisch
+39;24A 3,6 GHz;23870000;Vodafone
+39;25A 3,6 GHz;23870000;Vodafone
+39;26A 3,6 GHz;21700000;1&1 Drillisch
+39;27A 3,6 GHz;21700000;1&1 Drillisch
+39;28A 3,6 GHz;21700000;1&1 Drillisch
+39;29K 3,6 GHz;23870000;Telekom
+40;01A 2 GHz;25261000;Vodafone
+40;02A 2 GHz;25261000;Vodafone
+40;03A 2 GHz;25261000;Telefónica Deutschland
+40;04A 2 GHz;25261000;Telefónica Deutschland
+40;05A 2 GHz;22965000;Telekom
+40;06A 2 GHz;25878000;1&1 Drillisch
+40;07A 2 GHz;27500000;Vodafone
+40;08A 2 GHz;27500000;Telekom
+40;09A 2 GHz (2026);14230000;Telefónica Deutschland
+40;10A 2 GHz (2026);22218000;1&1 Drillisch
+40;11A 2 GHz (2026);23750000;1&1 Drillisch
+40;12A 2 GHz (2026);26125000;Vodafone
+40;01K 3,6 GHz;Kein Gebot;Kein Gebot
+40;02A 3,6 GHz;4002000;Telefónica Deutschland
+40;03A 3,6 GHz;4002000;Telefónica Deutschland
+40;04A 3,6 GHz;3639000;Vodafone
+40;05A 3,6 GHz;3639000;Vodafone
+40;06A 3,6 GHz;3639000;Telekom
+40;07A 3,6 GHz;4002000;Telekom
+40;08A 3,6 GHz;4002000;Telekom
+40;09A 3,6 GHz;4002000;Vodafone
+40;10A 3,6 GHz;4002000;Telefónica Deutschland
+40;11A 3,6 GHz;4002000;Telefónica Deutschland
+40;12A 3,6 GHz;4002000;Telefónica Deutschland
+40;13A 3,6 GHz;4002000;Vodafone
+40;14A 3,6 GHz;4002000;Telekom
+40;15A 3,6 GHz;4002000;Telekom
+40;16A 3,6 GHz;4002000;Telekom
+40;17A 3,6 GHz;4002000;Telekom
+40;18A 3,6 GHz;4002000;Telekom
+40;19A 3,6 GHz;3639000;Telefónica Deutschland
+40;20A 3,6 GHz;3639000;Vodafone
+40;21A 3,6 GHz;23639000;1&1 Drillisch
+40;22A 3,6 GHz;23639000;1&1 Drillisch
+40;23A 3,6 GHz;23639000;1&1 Drillisch
+40;24A 3,6 GHz;23870000;Vodafone
+40;25A 3,6 GHz;23870000;Vodafone
+40;26A 3,6 GHz;21700000;1&1 Drillisch
+40;27A 3,6 GHz;21700000;1&1 Drillisch
+40;28A 3,6 GHz;21700000;1&1 Drillisch
+40;29K 3,6 GHz;23870000;Telekom
+41;01A 2 GHz;25261000;Vodafone
+41;02A 2 GHz;25261000;Vodafone
+41;03A 2 GHz;27787000;Telekom
+41;04A 2 GHz;27787000;Telekom
+41;05A 2 GHz;25261000;1&1 Drillisch
+41;06A 2 GHz;25878000;1&1 Drillisch
+41;07A 2 GHz;27500000;Vodafone
+41;08A 2 GHz;27500000;Telekom
+41;09A 2 GHz (2026);14230000;Telefónica Deutschland
+41;10A 2 GHz (2026);22218000;1&1 Drillisch
+41;11A 2 GHz (2026);23750000;1&1 Drillisch
+41;12A 2 GHz (2026);26125000;Vodafone
+41;01K 3,6 GHz;Kein Gebot;Kein Gebot
+41;02A 3,6 GHz;4002000;Telefónica Deutschland
+41;03A 3,6 GHz;4002000;Telefónica Deutschland
+41;04A 3,6 GHz;4002000;Telefónica Deutschland
+41;05A 3,6 GHz;4002000;Telefónica Deutschland
+41;06A 3,6 GHz;4002000;Vodafone
+41;07A 3,6 GHz;4002000;Telekom
+41;08A 3,6 GHz;4002000;Telekom
+41;09A 3,6 GHz;4002000;Vodafone
+41;10A 3,6 GHz;4002000;Telefónica Deutschland
+41;11A 3,6 GHz;4002000;Telefónica Deutschland
+41;12A 3,6 GHz;4002000;Telefónica Deutschland
+41;13A 3,6 GHz;4002000;Vodafone
+41;14A 3,6 GHz;4002000;Telekom
+41;15A 3,6 GHz;4002000;Telekom
+41;16A 3,6 GHz;4002000;Telekom
+41;17A 3,6 GHz;4002000;Telekom
+41;18A 3,6 GHz;4002000;Telekom
+41;19A 3,6 GHz;4002000;Vodafone
+41;20A 3,6 GHz;3639000;Vodafone
+41;21A 3,6 GHz;23639000;1&1 Drillisch
+41;22A 3,6 GHz;23639000;1&1 Drillisch
+41;23A 3,6 GHz;23639000;1&1 Drillisch
+41;24A 3,6 GHz;23870000;Vodafone
+41;25A 3,6 GHz;23870000;Vodafone
+41;26A 3,6 GHz;21700000;1&1 Drillisch
+41;27A 3,6 GHz;21700000;1&1 Drillisch
+41;28A 3,6 GHz;21700000;1&1 Drillisch
+41;29K 3,6 GHz;23870000;Telekom
+42;01A 2 GHz;25261000;Vodafone
+42;02A 2 GHz;25261000;Vodafone
+42;03A 2 GHz;27787000;Telekom
+42;04A 2 GHz;27787000;Telekom
+42;05A 2 GHz;27787000;Telefónica Deutschland
+42;06A 2 GHz;25878000;1&1 Drillisch
+42;07A 2 GHz;27500000;Vodafone
+42;08A 2 GHz;27500000;Telekom
+42;09A 2 GHz (2026);14230000;Telefónica Deutschland
+42;10A 2 GHz (2026);24439000;Telefónica Deutschland
+42;11A 2 GHz (2026);26125000;Telefónica Deutschland
+42;12A 2 GHz (2026);26125000;Vodafone
+42;01K 3,6 GHz;Kein Gebot;Kein Gebot
+42;02A 3,6 GHz;4402000;Vodafone
+42;03A 3,6 GHz;4402000;Vodafone
+42;04A 3,6 GHz;Kein Gebot;Kein Gebot
+42;05A 3,6 GHz;4422000;Telefónica Deutschland
+42;06A 3,6 GHz;4422000;Telefónica Deutschland
+42;07A 3,6 GHz;4422000;Telefónica Deutschland
+42;08A 3,6 GHz;4422000;Telefónica Deutschland
+42;09A 3,6 GHz;4422000;Telefónica Deutschland
+42;10A 3,6 GHz;Kein Gebot;Kein Gebot
+42;11A 3,6 GHz;Kein Gebot;Kein Gebot
+42;12A 3,6 GHz;4402000;Telekom
+42;13A 3,6 GHz;4002000;Vodafone
+42;14A 3,6 GHz;4002000;Telekom
+42;15A 3,6 GHz;4002000;Telekom
+42;16A 3,6 GHz;4002000;Telekom
+42;17A 3,6 GHz;4002000;Telekom
+42;18A 3,6 GHz;4002000;Telekom
+42;19A 3,6 GHz;4002000;Vodafone
+42;20A 3,6 GHz;4002000;Telekom
+42;21A 3,6 GHz;23639000;1&1 Drillisch
+42;22A 3,6 GHz;23639000;1&1 Drillisch
+42;23A 3,6 GHz;23639000;1&1 Drillisch
+42;24A 3,6 GHz;23870000;Vodafone
+42;25A 3,6 GHz;23870000;Vodafone
+42;26A 3,6 GHz;23890000;Telefónica Deutschland
+42;27A 3,6 GHz;23890000;Telefónica Deutschland
+42;28A 3,6 GHz;23890000;Telefónica Deutschland
+42;29K 3,6 GHz;23870000;Telekom
+43;01A 2 GHz;27797000;1&1 Drillisch
+43;02A 2 GHz;27797000;1&1 Drillisch
+43;03A 2 GHz;27787000;Telekom
+43;04A 2 GHz;27787000;Telekom
+43;05A 2 GHz;27787000;Telefónica Deutschland
+43;06A 2 GHz;28465000;Telekom
+43;07A 2 GHz;27500000;Vodafone
+43;08A 2 GHz;27500000;Telekom
+43;09A 2 GHz (2026);14230000;Telefónica Deutschland
+43;10A 2 GHz (2026);24439000;Telefónica Deutschland
+43;11A 2 GHz (2026);26125000;Telefónica Deutschland
+43;12A 2 GHz (2026);26125000;Vodafone
+43;01K 3,6 GHz;2000000;1&1 Drillisch
+43;02A 3,6 GHz;4402000;Vodafone
+43;03A 3,6 GHz;4402000;Vodafone
+43;04A 3,6 GHz;4402000;Vodafone
+43;05A 3,6 GHz;4864000;Vodafone
+43;06A 3,6 GHz;4422000;Telefónica Deutschland
+43;07A 3,6 GHz;4422000;Telefónica Deutschland
+43;08A 3,6 GHz;4422000;Telefónica Deutschland
+43;09A 3,6 GHz;4422000;Telefónica Deutschland
+43;10A 3,6 GHz;4402000;Telekom
+43;11A 3,6 GHz;4402000;Telekom
+43;12A 3,6 GHz;4402000;Telekom
+43;13A 3,6 GHz;4002000;Vodafone
+43;14A 3,6 GHz;4002000;Telekom
+43;15A 3,6 GHz;4002000;Telekom
+43;16A 3,6 GHz;4002000;Telekom
+43;17A 3,6 GHz;4002000;Telekom
+43;18A 3,6 GHz;4002000;Telekom
+43;19A 3,6 GHz;24402000;1&1 Drillisch
+43;20A 3,6 GHz;24402000;1&1 Drillisch
+43;21A 3,6 GHz;23639000;1&1 Drillisch
+43;22A 3,6 GHz;23639000;1&1 Drillisch
+43;23A 3,6 GHz;23639000;1&1 Drillisch
+43;24A 3,6 GHz;23870000;Vodafone
+43;25A 3,6 GHz;23870000;Vodafone
+43;26A 3,6 GHz;23890000;Telefónica Deutschland
+43;27A 3,6 GHz;23890000;Telefónica Deutschland
+43;28A 3,6 GHz;23890000;Telefónica Deutschland
+43;29K 3,6 GHz;23870000;Telekom
+44;01A 2 GHz;30576000;Vodafone
+44;02A 2 GHz;30576000;Vodafone
+44;03A 2 GHz;27787000;Telekom
+44;04A 2 GHz;27787000;Telekom
+44;05A 2 GHz;30585000;Telefónica Deutschland
+44;06A 2 GHz;28465000;Telekom
+44;07A 2 GHz;27500000;Vodafone
+44;08A 2 GHz;27500000;Telekom
+44;09A 2 GHz (2026);14230000;Telefónica Deutschland
+44;10A 2 GHz (2026);24439000;Telefónica Deutschland
+44;11A 2 GHz (2026);26125000;Telefónica Deutschland
+44;12A 2 GHz (2026);26125000;Vodafone
+44;01K 3,6 GHz;2000000;1&1 Drillisch
+44;02A 3,6 GHz;4402000;Vodafone
+44;03A 3,6 GHz;4402000;Vodafone
+44;04A 3,6 GHz;4402000;Vodafone
+44;05A 3,6 GHz;4864000;Vodafone
+44;06A 3,6 GHz;4422000;Telefónica Deutschland
+44;07A 3,6 GHz;4422000;Telefónica Deutschland
+44;08A 3,6 GHz;4422000;Telefónica Deutschland
+44;09A 3,6 GHz;4422000;Telefónica Deutschland
+44;10A 3,6 GHz;4402000;Telekom
+44;11A 3,6 GHz;4402000;Telekom
+44;12A 3,6 GHz;4402000;Telekom
+44;13A 3,6 GHz;4402000;Telekom
+44;14A 3,6 GHz;4002000;Telekom
+44;15A 3,6 GHz;4402000;Telefónica Deutschland
+44;16A 3,6 GHz;4002000;Telekom
+44;17A 3,6 GHz;4002000;Telekom
+44;18A 3,6 GHz;4002000;Telekom
+44;19A 3,6 GHz;24402000;1&1 Drillisch
+44;20A 3,6 GHz;24402000;1&1 Drillisch
+44;21A 3,6 GHz;23639000;1&1 Drillisch
+44;22A 3,6 GHz;23639000;1&1 Drillisch
+44;23A 3,6 GHz;26002000;Vodafone
+44;24A 3,6 GHz;23870000;Vodafone
+44;25A 3,6 GHz;23870000;Vodafone
+44;26A 3,6 GHz;23890000;Telefónica Deutschland
+44;27A 3,6 GHz;23890000;Telefónica Deutschland
+44;28A 3,6 GHz;23890000;Telefónica Deutschland
+44;29K 3,6 GHz;23870000;Telekom
+45;01A 2 GHz;30576000;Vodafone
+45;02A 2 GHz;30576000;Vodafone
+45;03A 2 GHz;27787000;Telekom
+45;04A 2 GHz;27787000;Telekom
+45;05A 2 GHz;30585000;Telefónica Deutschland
+45;06A 2 GHz;28465000;Telekom
+45;07A 2 GHz;27500000;Vodafone
+45;08A 2 GHz;27500000;Telekom
+45;09A 2 GHz (2026);14230000;Telefónica Deutschland
+45;10A 2 GHz (2026);24439000;Telefónica Deutschland
+45;11A 2 GHz (2026);28747000;1&1 Drillisch
+45;12A 2 GHz (2026);28747000;1&1 Drillisch
+45;01K 3,6 GHz;2000000;1&1 Drillisch
+45;02A 3,6 GHz;4402000;Vodafone
+45;03A 3,6 GHz;4402000;Vodafone
+45;04A 3,6 GHz;4402000;Vodafone
+45;05A 3,6 GHz;4864000;Vodafone
+45;06A 3,6 GHz;4422000;Telefónica Deutschland
+45;07A 3,6 GHz;4422000;Telefónica Deutschland
+45;08A 3,6 GHz;4422000;Telefónica Deutschland
+45;09A 3,6 GHz;4422000;Telefónica Deutschland
+45;10A 3,6 GHz;4402000;Telekom
+45;11A 3,6 GHz;4402000;Telekom
+45;12A 3,6 GHz;4402000;Telekom
+45;13A 3,6 GHz;4402000;Telekom
+45;14A 3,6 GHz;4402000;Vodafone
+45;15A 3,6 GHz;4842000;Telekom
+45;16A 3,6 GHz;4002000;Telekom
+45;17A 3,6 GHz;4002000;Telekom
+45;18A 3,6 GHz;24402000;1&1 Drillisch
+45;19A 3,6 GHz;24402000;1&1 Drillisch
+45;20A 3,6 GHz;24402000;1&1 Drillisch
+45;21A 3,6 GHz;23639000;1&1 Drillisch
+45;22A 3,6 GHz;23639000;1&1 Drillisch
+45;23A 3,6 GHz;26002000;Vodafone
+45;24A 3,6 GHz;23870000;Vodafone
+45;25A 3,6 GHz;23870000;Vodafone
+45;26A 3,6 GHz;23890000;Telefónica Deutschland
+45;27A 3,6 GHz;23890000;Telefónica Deutschland
+45;28A 3,6 GHz;23890000;Telefónica Deutschland
+45;29K 3,6 GHz;23870000;Telekom
+46;01A 2 GHz;30576000;Vodafone
+46;02A 2 GHz;30576000;Vodafone
+46;03A 2 GHz;27787000;Telekom
+46;04A 2 GHz;27787000;Telekom
+46;05A 2 GHz;30585000;Telefónica Deutschland
+46;06A 2 GHz;28465000;Telekom
+46;07A 2 GHz;27500000;Vodafone
+46;08A 2 GHz;30250000;Telefónica Deutschland
+46;09A 2 GHz (2026);14230000;Telefónica Deutschland
+46;10A 2 GHz (2026);24439000;Telefónica Deutschland
+46;11A 2 GHz (2026);28747000;1&1 Drillisch
+46;12A 2 GHz (2026);31621000;Vodafone
+46;01K 3,6 GHz;2000000;1&1 Drillisch
+46;02A 3,6 GHz;4402000;Vodafone
+46;03A 3,6 GHz;4842000;Telekom
+46;04A 3,6 GHz;4402000;Vodafone
+46;05A 3,6 GHz;4864000;Vodafone
+46;06A 3,6 GHz;4422000;Telefónica Deutschland
+46;07A 3,6 GHz;4422000;Telefónica Deutschland
+46;08A 3,6 GHz;4422000;Telefónica Deutschland
+46;09A 3,6 GHz;4422000;Telefónica Deutschland
+46;10A 3,6 GHz;4402000;Telekom
+46;11A 3,6 GHz;4402000;Telekom
+46;12A 3,6 GHz;4402000;Telekom
+46;13A 3,6 GHz;4402000;Telekom
+46;14A 3,6 GHz;4842000;Telekom
+46;15A 3,6 GHz;4842000;Telekom
+46;16A 3,6 GHz;4402000;Telefónica Deutschland
+46;17A 3,6 GHz;4002000;Telekom
+46;18A 3,6 GHz;24402000;1&1 Drillisch
+46;19A 3,6 GHz;24402000;1&1 Drillisch
+46;20A 3,6 GHz;24402000;1&1 Drillisch
+46;21A 3,6 GHz;23639000;1&1 Drillisch
+46;22A 3,6 GHz;23639000;1&1 Drillisch
+46;23A 3,6 GHz;26002000;Vodafone
+46;24A 3,6 GHz;23870000;Vodafone
+46;25A 3,6 GHz;23870000;Vodafone
+46;26A 3,6 GHz;23890000;Telefónica Deutschland
+46;27A 3,6 GHz;23890000;Telefónica Deutschland
+46;28A 3,6 GHz;23890000;Telefónica Deutschland
+46;29K 3,6 GHz;23870000;Telekom
+47;01A 2 GHz;30576000;Vodafone
+47;02A 2 GHz;30576000;Vodafone
+47;03A 2 GHz;27787000;Telekom
+47;04A 2 GHz;27787000;Telekom
+47;05A 2 GHz;30585000;Telefónica Deutschland
+47;06A 2 GHz;28465000;Telekom
+47;07A 2 GHz;30250000;Telekom
+47;08A 2 GHz;30250000;Telefónica Deutschland
+47;09A 2 GHz (2026);14230000;Telefónica Deutschland
+47;10A 2 GHz (2026);24439000;Telefónica Deutschland
+47;11A 2 GHz (2026);28747000;1&1 Drillisch
+47;12A 2 GHz (2026);34783000;1&1 Drillisch
+47;01K 3,6 GHz;2000000;1&1 Drillisch
+47;02A 3,6 GHz;4402000;Vodafone
+47;03A 3,6 GHz;4842000;Telekom
+47;04A 3,6 GHz;4402000;Vodafone
+47;05A 3,6 GHz;4864000;Vodafone
+47;06A 3,6 GHz;4422000;Telefónica Deutschland
+47;07A 3,6 GHz;4422000;Telefónica Deutschland
+47;08A 3,6 GHz;4422000;Telefónica Deutschland
+47;09A 3,6 GHz;4422000;Telefónica Deutschland
+47;10A 3,6 GHz;4402000;Telekom
+47;11A 3,6 GHz;4402000;Telekom
+47;12A 3,6 GHz;4402000;Telekom
+47;13A 3,6 GHz;4402000;Telekom
+47;14A 3,6 GHz;4842000;Telekom
+47;15A 3,6 GHz;4842000;Telekom
+47;16A 3,6 GHz;4842000;Vodafone
+47;17A 3,6 GHz;4402000;Vodafone
+47;18A 3,6 GHz;24402000;1&1 Drillisch
+47;19A 3,6 GHz;24402000;1&1 Drillisch
+47;20A 3,6 GHz;24402000;1&1 Drillisch
+47;21A 3,6 GHz;23639000;1&1 Drillisch
+47;22A 3,6 GHz;23639000;1&1 Drillisch
+47;23A 3,6 GHz;26002000;Vodafone
+47;24A 3,6 GHz;23870000;Vodafone
+47;25A 3,6 GHz;23870000;Vodafone
+47;26A 3,6 GHz;23890000;Telefónica Deutschland
+47;27A 3,6 GHz;23890000;Telefónica Deutschland
+47;28A 3,6 GHz;23890000;Telefónica Deutschland
+47;29K 3,6 GHz;23870000;Telekom
+48;01A 2 GHz;30576000;Vodafone
+48;02A 2 GHz;30576000;Vodafone
+48;03A 2 GHz;30565000;Vodafone
+48;04A 2 GHz;27787000;Telekom
+48;05A 2 GHz;30585000;Telefónica Deutschland
+48;06A 2 GHz;28465000;Telekom
+48;07A 2 GHz;30250000;Telekom
+48;08A 2 GHz;30250000;Telefónica Deutschland
+48;09A 2 GHz (2026);15653000;Vodafone
+48;10A 2 GHz (2026);24439000;Telefónica Deutschland
+48;11A 2 GHz (2026);28747000;1&1 Drillisch
+48;12A 2 GHz (2026);34783000;1&1 Drillisch
+48;01K 3,6 GHz;2000000;1&1 Drillisch
+48;02A 3,6 GHz;4842000;Telekom
+48;03A 3,6 GHz;4842000;Telekom
+48;04A 3,6 GHz;4842000;Telekom
+48;05A 3,6 GHz;4864000;Vodafone
+48;06A 3,6 GHz;4422000;Telefónica Deutschland
+48;07A 3,6 GHz;4422000;Telefónica Deutschland
+48;08A 3,6 GHz;4422000;Telefónica Deutschland
+48;09A 3,6 GHz;4422000;Telefónica Deutschland
+48;10A 3,6 GHz;4842000;Telefónica Deutschland
+48;11A 3,6 GHz;4402000;Telekom
+48;12A 3,6 GHz;4402000;Telekom
+48;13A 3,6 GHz;4402000;Telekom
+48;14A 3,6 GHz;4842000;Telekom
+48;15A 3,6 GHz;4842000;Telekom
+48;16A 3,6 GHz;4842000;Vodafone
+48;17A 3,6 GHz;4402000;Vodafone
+48;18A 3,6 GHz;24402000;1&1 Drillisch
+48;19A 3,6 GHz;24402000;1&1 Drillisch
+48;20A 3,6 GHz;24402000;1&1 Drillisch
+48;21A 3,6 GHz;23639000;1&1 Drillisch
+48;22A 3,6 GHz;23639000;1&1 Drillisch
+48;23A 3,6 GHz;26002000;Vodafone
+48;24A 3,6 GHz;23870000;Vodafone
+48;25A 3,6 GHz;23870000;Vodafone
+48;26A 3,6 GHz;23890000;Telefónica Deutschland
+48;27A 3,6 GHz;23890000;Telefónica Deutschland
+48;28A 3,6 GHz;23890000;Telefónica Deutschland
+48;29K 3,6 GHz;23870000;Telekom
+49;01A 2 GHz;30576000;Vodafone
+49;02A 2 GHz;30576000;Vodafone
+49;03A 2 GHz;30565000;Vodafone
+49;04A 2 GHz;30565000;Telefónica Deutschland
+49;05A 2 GHz;30585000;Telefónica Deutschland
+49;06A 2 GHz;28465000;Telekom
+49;07A 2 GHz;30250000;Telekom
+49;08A 2 GHz;33275000;Telekom
+49;09A 2 GHz (2026);15653000;Vodafone
+49;10A 2 GHz (2026);24439000;Telefónica Deutschland
+49;11A 2 GHz (2026);28747000;1&1 Drillisch
+49;12A 2 GHz (2026);34783000;1&1 Drillisch
+49;01K 3,6 GHz;2000000;1&1 Drillisch
+49;02A 3,6 GHz;4842000;Telekom
+49;03A 3,6 GHz;4842000;Telekom
+49;04A 3,6 GHz;4842000;Telekom
+49;05A 3,6 GHz;4864000;Vodafone
+49;06A 3,6 GHz;4422000;Telefónica Deutschland
+49;07A 3,6 GHz;4422000;Telefónica Deutschland
+49;08A 3,6 GHz;4422000;Telefónica Deutschland
+49;09A 3,6 GHz;4422000;Telefónica Deutschland
+49;10A 3,6 GHz;4842000;Telefónica Deutschland
+49;11A 3,6 GHz;4842000;Vodafone
+49;12A 3,6 GHz;4842000;Vodafone
+49;13A 3,6 GHz;4402000;Telekom
+49;14A 3,6 GHz;4842000;Telekom
+49;15A 3,6 GHz;4842000;Telekom
+49;16A 3,6 GHz;4842000;Vodafone
+49;17A 3,6 GHz;4842000;Telekom
+49;18A 3,6 GHz;24402000;1&1 Drillisch
+49;19A 3,6 GHz;24402000;1&1 Drillisch
+49;20A 3,6 GHz;24402000;1&1 Drillisch
+49;21A 3,6 GHz;23639000;1&1 Drillisch
+49;22A 3,6 GHz;23639000;1&1 Drillisch
+49;23A 3,6 GHz;26002000;Vodafone
+49;24A 3,6 GHz;23870000;Vodafone
+49;25A 3,6 GHz;23870000;Vodafone
+49;26A 3,6 GHz;23890000;Telefónica Deutschland
+49;27A 3,6 GHz;23890000;Telefónica Deutschland
+49;28A 3,6 GHz;23890000;Telefónica Deutschland
+49;29K 3,6 GHz;23870000;Telekom
+50;01A 2 GHz;30576000;Vodafone
+50;02A 2 GHz;30576000;Vodafone
+50;03A 2 GHz;30565000;Vodafone
+50;04A 2 GHz;33621000;Telekom
+50;05A 2 GHz;30585000;Telefónica Deutschland
+50;06A 2 GHz;31311000;Telefónica Deutschland
+50;07A 2 GHz;30250000;Telekom
+50;08A 2 GHz;33275000;Telekom
+50;09A 2 GHz (2026);15653000;Vodafone
+50;10A 2 GHz (2026);24439000;Telefónica Deutschland
+50;11A 2 GHz (2026);28747000;1&1 Drillisch
+50;12A 2 GHz (2026);34783000;1&1 Drillisch
+50;01K 3,6 GHz;2000000;1&1 Drillisch
+50;02A 3,6 GHz;4842000;Telekom
+50;03A 3,6 GHz;4842000;Telekom
+50;04A 3,6 GHz;4842000;Telekom
+50;05A 3,6 GHz;4864000;Vodafone
+50;06A 3,6 GHz;4864000;Telekom
+50;07A 3,6 GHz;4864000;Telekom
+50;08A 3,6 GHz;4422000;Telefónica Deutschland
+50;09A 3,6 GHz;4422000;Telefónica Deutschland
+50;10A 3,6 GHz;4842000;Telefónica Deutschland
+50;11A 3,6 GHz;4842000;Vodafone
+50;12A 3,6 GHz;4842000;Vodafone
+50;13A 3,6 GHz;4842000;Vodafone
+50;14A 3,6 GHz;4842000;Telekom
+50;15A 3,6 GHz;4842000;Telekom
+50;16A 3,6 GHz;4842000;Vodafone
+50;17A 3,6 GHz;4842000;Telekom
+50;18A 3,6 GHz;24402000;1&1 Drillisch
+50;19A 3,6 GHz;24402000;1&1 Drillisch
+50;20A 3,6 GHz;24402000;1&1 Drillisch
+50;21A 3,6 GHz;23639000;1&1 Drillisch
+50;22A 3,6 GHz;23639000;1&1 Drillisch
+50;23A 3,6 GHz;26002000;Vodafone
+50;24A 3,6 GHz;23870000;Vodafone
+50;25A 3,6 GHz;23870000;Vodafone
+50;26A 3,6 GHz;23890000;Telefónica Deutschland
+50;27A 3,6 GHz;23890000;Telefónica Deutschland
+50;28A 3,6 GHz;23890000;Telefónica Deutschland
+50;29K 3,6 GHz;23870000;Telekom
+51;01A 2 GHz;30576000;Vodafone
+51;02A 2 GHz;30576000;Vodafone
+51;03A 2 GHz;33621000;Telekom
+51;04A 2 GHz;33621000;Telekom
+51;05A 2 GHz;30585000;Telefónica Deutschland
+51;06A 2 GHz;31311000;Telefónica Deutschland
+51;07A 2 GHz;33275000;Telefónica Deutschland
+51;08A 2 GHz;33275000;Telekom
+51;09A 2 GHz (2026);15653000;Vodafone
+51;10A 2 GHz (2026);24439000;Telefónica Deutschland
+51;11A 2 GHz (2026);28747000;1&1 Drillisch
+51;12A 2 GHz (2026);34783000;1&1 Drillisch
+51;01K 3,6 GHz;2000000;1&1 Drillisch
+51;02A 3,6 GHz;5326000;Telefónica Deutschland
+51;03A 3,6 GHz;5326000;Telefónica Deutschland
+51;04A 3,6 GHz;4842000;Telekom
+51;05A 3,6 GHz;4864000;Vodafone
+51;06A 3,6 GHz;4864000;Telekom
+51;07A 3,6 GHz;4864000;Telekom
+51;08A 3,6 GHz;4864000;Telekom
+51;09A 3,6 GHz;4422000;Telefónica Deutschland
+51;10A 3,6 GHz;4842000;Telefónica Deutschland
+51;11A 3,6 GHz;4842000;Vodafone
+51;12A 3,6 GHz;4842000;Vodafone
+51;13A 3,6 GHz;4842000;Vodafone
+51;14A 3,6 GHz;4842000;Telekom
+51;15A 3,6 GHz;4842000;Telekom
+51;16A 3,6 GHz;4842000;Vodafone
+51;17A 3,6 GHz;4842000;Telekom
+51;18A 3,6 GHz;24402000;1&1 Drillisch
+51;19A 3,6 GHz;24402000;1&1 Drillisch
+51;20A 3,6 GHz;24402000;1&1 Drillisch
+51;21A 3,6 GHz;23639000;1&1 Drillisch
+51;22A 3,6 GHz;23639000;1&1 Drillisch
+51;23A 3,6 GHz;26002000;Vodafone
+51;24A 3,6 GHz;23870000;Vodafone
+51;25A 3,6 GHz;23870000;Vodafone
+51;26A 3,6 GHz;23890000;Telefónica Deutschland
+51;27A 3,6 GHz;23890000;Telefónica Deutschland
+51;28A 3,6 GHz;23890000;Telefónica Deutschland
+51;29K 3,6 GHz;23870000;Telekom
+52;01A 2 GHz;30576000;Vodafone
+52;02A 2 GHz;33633000;Telekom
+52;03A 2 GHz;33621000;Telekom
+52;04A 2 GHz;33621000;Telekom
+52;05A 2 GHz;33643000;Vodafone
+52;06A 2 GHz;31311000;Telefónica Deutschland
+52;07A 2 GHz;33275000;Telefónica Deutschland
+52;08A 2 GHz;33275000;Telekom
+52;09A 2 GHz (2026);15653000;Vodafone
+52;10A 2 GHz (2026);24439000;Telefónica Deutschland
+52;11A 2 GHz (2026);28747000;1&1 Drillisch
+52;12A 2 GHz (2026);34783000;1&1 Drillisch
+52;01K 3,6 GHz;2000000;1&1 Drillisch
+52;02A 3,6 GHz;5326000;Telefónica Deutschland
+52;03A 3,6 GHz;5326000;Telefónica Deutschland
+52;04A 3,6 GHz;5326000;Telefónica Deutschland
+52;05A 3,6 GHz;4864000;Vodafone
+52;06A 3,6 GHz;4864000;Telekom
+52;07A 3,6 GHz;4864000;Telekom
+52;08A 3,6 GHz;4864000;Telekom
+52;09A 3,6 GHz;4864000;Telekom
+52;10A 3,6 GHz;5326000;Telekom
+52;11A 3,6 GHz;4842000;Vodafone
+52;12A 3,6 GHz;4842000;Vodafone
+52;13A 3,6 GHz;4842000;Vodafone
+52;14A 3,6 GHz;4842000;Telekom
+52;15A 3,6 GHz;4842000;Telekom
+52;16A 3,6 GHz;4842000;Vodafone
+52;17A 3,6 GHz;4842000;Telekom
+52;18A 3,6 GHz;24402000;1&1 Drillisch
+52;19A 3,6 GHz;24402000;1&1 Drillisch
+52;20A 3,6 GHz;24402000;1&1 Drillisch
+52;21A 3,6 GHz;23639000;1&1 Drillisch
+52;22A 3,6 GHz;23639000;1&1 Drillisch
+52;23A 3,6 GHz;26002000;Vodafone
+52;24A 3,6 GHz;23870000;Vodafone
+52;25A 3,6 GHz;23870000;Vodafone
+52;26A 3,6 GHz;23890000;Telefónica Deutschland
+52;27A 3,6 GHz;23890000;Telefónica Deutschland
+52;28A 3,6 GHz;23890000;Telefónica Deutschland
+52;29K 3,6 GHz;23870000;Telekom
+53;01A 2 GHz;33633000;Telefónica Deutschland
+53;02A 2 GHz;33633000;Telekom
+53;03A 2 GHz;33621000;Telekom
+53;04A 2 GHz;33621000;Telekom
+53;05A 2 GHz;33643000;Vodafone
+53;06A 2 GHz;34442000;Vodafone
+53;07A 2 GHz;33275000;Telefónica Deutschland
+53;08A 2 GHz;33275000;Telekom
+53;09A 2 GHz (2026);15653000;Vodafone
+53;10A 2 GHz (2026);24439000;Telefónica Deutschland
+53;11A 2 GHz (2026);28747000;1&1 Drillisch
+53;12A 2 GHz (2026);34783000;1&1 Drillisch
+53;01K 3,6 GHz;2000000;1&1 Drillisch
+53;02A 3,6 GHz;5326000;Telefónica Deutschland
+53;03A 3,6 GHz;5326000;Telefónica Deutschland
+53;04A 3,6 GHz;5326000;Telefónica Deutschland
+53;05A 3,6 GHz;4864000;Vodafone
+53;06A 3,6 GHz;4864000;Telekom
+53;07A 3,6 GHz;4864000;Telekom
+53;08A 3,6 GHz;4864000;Telekom
+53;09A 3,6 GHz;4864000;Telekom
+53;10A 3,6 GHz;5326000;Telekom
+53;11A 3,6 GHz;4842000;Vodafone
+53;12A 3,6 GHz;4842000;Vodafone
+53;13A 3,6 GHz;4842000;Vodafone
+53;14A 3,6 GHz;5326000;Telefónica Deutschland
+53;15A 3,6 GHz;5326000;Telefónica Deutschland
+53;16A 3,6 GHz;5326000;Telekom
+53;17A 3,6 GHz;4842000;Telekom
+53;18A 3,6 GHz;24402000;1&1 Drillisch
+53;19A 3,6 GHz;24402000;1&1 Drillisch
+53;20A 3,6 GHz;24402000;1&1 Drillisch
+53;21A 3,6 GHz;23639000;1&1 Drillisch
+53;22A 3,6 GHz;23639000;1&1 Drillisch
+53;23A 3,6 GHz;26002000;Vodafone
+53;24A 3,6 GHz;23870000;Vodafone
+53;25A 3,6 GHz;23870000;Vodafone
+53;26A 3,6 GHz;23890000;Telefónica Deutschland
+53;27A 3,6 GHz;23890000;Telefónica Deutschland
+53;28A 3,6 GHz;23890000;Telefónica Deutschland
+53;29K 3,6 GHz;23870000;Telekom
+54;01A 2 GHz;33633000;Telefónica Deutschland
+54;02A 2 GHz;33633000;Telekom
+54;03A 2 GHz;36983000;Telefónica Deutschland
+54;04A 2 GHz;33621000;Telekom
+54;05A 2 GHz;33643000;Vodafone
+54;06A 2 GHz;34442000;Vodafone
+54;07A 2 GHz;36602000;Vodafone
+54;08A 2 GHz;33275000;Telekom
+54;09A 2 GHz (2026);15653000;Vodafone
+54;10A 2 GHz (2026);24439000;Telefónica Deutschland
+54;11A 2 GHz (2026);28747000;1&1 Drillisch
+54;12A 2 GHz (2026);34783000;1&1 Drillisch
+54;01K 3,6 GHz;2000000;1&1 Drillisch
+54;02A 3,6 GHz;5326000;Telefónica Deutschland
+54;03A 3,6 GHz;5326000;Telefónica Deutschland
+54;04A 3,6 GHz;5326000;Telefónica Deutschland
+54;05A 3,6 GHz;4864000;Vodafone
+54;06A 3,6 GHz;4864000;Telekom
+54;07A 3,6 GHz;4864000;Telekom
+54;08A 3,6 GHz;4864000;Telekom
+54;09A 3,6 GHz;4864000;Telekom
+54;10A 3,6 GHz;5326000;Telekom
+54;11A 3,6 GHz;5326000;Telekom
+54;12A 3,6 GHz;5326000;Telekom
+54;13A 3,6 GHz;4842000;Vodafone
+54;14A 3,6 GHz;5326000;Telefónica Deutschland
+54;15A 3,6 GHz;5326000;Telefónica Deutschland
+54;16A 3,6 GHz;5326000;Telekom
+54;17A 3,6 GHz;5326000;Vodafone
+54;18A 3,6 GHz;24402000;1&1 Drillisch
+54;19A 3,6 GHz;24402000;1&1 Drillisch
+54;20A 3,6 GHz;24402000;1&1 Drillisch
+54;21A 3,6 GHz;23639000;1&1 Drillisch
+54;22A 3,6 GHz;23639000;1&1 Drillisch
+54;23A 3,6 GHz;26002000;Vodafone
+54;24A 3,6 GHz;23870000;Vodafone
+54;25A 3,6 GHz;23870000;Vodafone
+54;26A 3,6 GHz;23890000;Telefónica Deutschland
+54;27A 3,6 GHz;23890000;Telefónica Deutschland
+54;28A 3,6 GHz;23890000;Telefónica Deutschland
+54;29K 3,6 GHz;23870000;Telekom
+55;01A 2 GHz;36996000;Telekom
+55;02A 2 GHz;33633000;Telekom
+55;03A 2 GHz;36983000;Telefónica Deutschland
+55;04A 2 GHz;33621000;Telekom
+55;05A 2 GHz;33643000;Vodafone
+55;06A 2 GHz;34442000;Vodafone
+55;07A 2 GHz;36602000;Vodafone
+55;08A 2 GHz;36602000;Telefónica Deutschland
+55;09A 2 GHz (2026);15653000;Vodafone
+55;10A 2 GHz (2026);24439000;Telefónica Deutschland
+55;11A 2 GHz (2026);28747000;1&1 Drillisch
+55;12A 2 GHz (2026);34783000;1&1 Drillisch
+55;01K 3,6 GHz;2000000;1&1 Drillisch
+55;02A 3,6 GHz;5326000;Telefónica Deutschland
+55;03A 3,6 GHz;5326000;Telefónica Deutschland
+55;04A 3,6 GHz;5326000;Telefónica Deutschland
+55;05A 3,6 GHz;4864000;Vodafone
+55;06A 3,6 GHz;5350000;Vodafone
+55;07A 3,6 GHz;5350000;Vodafone
+55;08A 3,6 GHz;4864000;Telekom
+55;09A 3,6 GHz;4864000;Telekom
+55;10A 3,6 GHz;5326000;Telekom
+55;11A 3,6 GHz;5326000;Telekom
+55;12A 3,6 GHz;5326000;Telekom
+55;13A 3,6 GHz;5326000;Telekom
+55;14A 3,6 GHz;5326000;Telefónica Deutschland
+55;15A 3,6 GHz;5326000;Telefónica Deutschland
+55;16A 3,6 GHz;5326000;Telekom
+55;17A 3,6 GHz;5326000;Vodafone
+55;18A 3,6 GHz;24402000;1&1 Drillisch
+55;19A 3,6 GHz;24402000;1&1 Drillisch
+55;20A 3,6 GHz;24402000;1&1 Drillisch
+55;21A 3,6 GHz;23639000;1&1 Drillisch
+55;22A 3,6 GHz;23639000;1&1 Drillisch
+55;23A 3,6 GHz;26002000;Vodafone
+55;24A 3,6 GHz;23870000;Vodafone
+55;25A 3,6 GHz;23870000;Vodafone
+55;26A 3,6 GHz;23890000;Telefónica Deutschland
+55;27A 3,6 GHz;23890000;Telefónica Deutschland
+55;28A 3,6 GHz;23890000;Telefónica Deutschland
+55;29K 3,6 GHz;23870000;Telekom
+56;01A 2 GHz;36996000;Telekom
+56;02A 2 GHz;33633000;Telekom
+56;03A 2 GHz;36983000;Telefónica Deutschland
+56;04A 2 GHz;36983000;Telefónica Deutschland
+56;05A 2 GHz;37007000;Telekom
+56;06A 2 GHz;34442000;Vodafone
+56;07A 2 GHz;36602000;Vodafone
+56;08A 2 GHz;36602000;Telefónica Deutschland
+56;09A 2 GHz (2026);15653000;Vodafone
+56;10A 2 GHz (2026);24439000;Telefónica Deutschland
+56;11A 2 GHz (2026);28747000;1&1 Drillisch
+56;12A 2 GHz (2026);34783000;1&1 Drillisch
+56;01K 3,6 GHz;2000000;1&1 Drillisch
+56;02A 3,6 GHz;5326000;Telefónica Deutschland
+56;03A 3,6 GHz;5326000;Telefónica Deutschland
+56;04A 3,6 GHz;5326000;Telefónica Deutschland
+56;05A 3,6 GHz;5350000;Telekom
+56;06A 3,6 GHz;5350000;Vodafone
+56;07A 3,6 GHz;5350000;Vodafone
+56;08A 3,6 GHz;5350000;Vodafone
+56;09A 3,6 GHz;4864000;Telekom
+56;10A 3,6 GHz;5326000;Telekom
+56;11A 3,6 GHz;5326000;Telekom
+56;12A 3,6 GHz;5326000;Telekom
+56;13A 3,6 GHz;5326000;Telekom
+56;14A 3,6 GHz;5858000;Telekom
+56;15A 3,6 GHz;5326000;Telefónica Deutschland
+56;16A 3,6 GHz;5326000;Telekom
+56;17A 3,6 GHz;5326000;Vodafone
+56;18A 3,6 GHz;24402000;1&1 Drillisch
+56;19A 3,6 GHz;24402000;1&1 Drillisch
+56;20A 3,6 GHz;24402000;1&1 Drillisch
+56;21A 3,6 GHz;23639000;1&1 Drillisch
+56;22A 3,6 GHz;23639000;1&1 Drillisch
+56;23A 3,6 GHz;26002000;Vodafone
+56;24A 3,6 GHz;23870000;Vodafone
+56;25A 3,6 GHz;23870000;Vodafone
+56;26A 3,6 GHz;23890000;Telefónica Deutschland
+56;27A 3,6 GHz;23890000;Telefónica Deutschland
+56;28A 3,6 GHz;23890000;Telefónica Deutschland
+56;29K 3,6 GHz;23870000;Telekom
+57;01A 2 GHz;36996000;Telekom
+57;02A 2 GHz;36996000;Vodafone
+57;03A 2 GHz;36983000;Telefónica Deutschland
+57;04A 2 GHz;36983000;Telefónica Deutschland
+57;05A 2 GHz;37007000;Telekom
+57;06A 2 GHz;37886000;Telekom
+57;07A 2 GHz;36602000;Vodafone
+57;08A 2 GHz;36602000;Telefónica Deutschland
+57;09A 2 GHz (2026);15653000;Vodafone
+57;10A 2 GHz (2026);24439000;Telefónica Deutschland
+57;11A 2 GHz (2026);28747000;1&1 Drillisch
+57;12A 2 GHz (2026);34783000;1&1 Drillisch
+57;01K 3,6 GHz;2000000;1&1 Drillisch
+57;02A 3,6 GHz;5326000;Telefónica Deutschland
+57;03A 3,6 GHz;5326000;Telefónica Deutschland
+57;04A 3,6 GHz;5326000;Telefónica Deutschland
+57;05A 3,6 GHz;5350000;Telekom
+57;06A 3,6 GHz;5350000;Vodafone
+57;07A 3,6 GHz;5350000;Vodafone
+57;08A 3,6 GHz;5350000;Vodafone
+57;09A 3,6 GHz;5350000;Vodafone
+57;10A 3,6 GHz;5326000;Telekom
+57;11A 3,6 GHz;5326000;Telekom
+57;12A 3,6 GHz;5326000;Telekom
+57;13A 3,6 GHz;5326000;Telekom
+57;14A 3,6 GHz;5858000;Telekom
+57;15A 3,6 GHz;5858000;Telekom
+57;16A 3,6 GHz;5326000;Telekom
+57;17A 3,6 GHz;5326000;Vodafone
+57;18A 3,6 GHz;24402000;1&1 Drillisch
+57;19A 3,6 GHz;24402000;1&1 Drillisch
+57;20A 3,6 GHz;24402000;1&1 Drillisch
+57;21A 3,6 GHz;23639000;1&1 Drillisch
+57;22A 3,6 GHz;23639000;1&1 Drillisch
+57;23A 3,6 GHz;26002000;Vodafone
+57;24A 3,6 GHz;23870000;Vodafone
+57;25A 3,6 GHz;23870000;Vodafone
+57;26A 3,6 GHz;23890000;Telefónica Deutschland
+57;27A 3,6 GHz;23890000;Telefónica Deutschland
+57;28A 3,6 GHz;23890000;Telefónica Deutschland
+57;29K 3,6 GHz;23870000;Telekom
+58;01A 2 GHz;36996000;Telekom
+58;02A 2 GHz;36996000;Vodafone
+58;03A 2 GHz;36983000;Telefónica Deutschland
+58;04A 2 GHz;36983000;Telefónica Deutschland
+58;05A 2 GHz;37007000;Telekom
+58;06A 2 GHz;37886000;Telekom
+58;07A 2 GHz;36602000;Vodafone
+58;08A 2 GHz;40262000;Vodafone
+58;09A 2 GHz (2026);15653000;Vodafone
+58;10A 2 GHz (2026);24439000;Telefónica Deutschland
+58;11A 2 GHz (2026);28747000;1&1 Drillisch
+58;12A 2 GHz (2026);34783000;1&1 Drillisch
+58;01K 3,6 GHz;2000000;1&1 Drillisch
+58;02A 3,6 GHz;5326000;Telefónica Deutschland
+58;03A 3,6 GHz;5326000;Telefónica Deutschland
+58;04A 3,6 GHz;5858000;Telekom
+58;05A 3,6 GHz;5350000;Telekom
+58;06A 3,6 GHz;5350000;Vodafone
+58;07A 3,6 GHz;5350000;Vodafone
+58;08A 3,6 GHz;5350000;Vodafone
+58;09A 3,6 GHz;5350000;Vodafone
+58;10A 3,6 GHz;5858000;Telefónica Deutschland
+58;11A 3,6 GHz;5858000;Telefónica Deutschland
+58;12A 3,6 GHz;5326000;Telekom
+58;13A 3,6 GHz;5326000;Telekom
+58;14A 3,6 GHz;5858000;Telekom
+58;15A 3,6 GHz;5858000;Telekom
+58;16A 3,6 GHz;5326000;Telekom
+58;17A 3,6 GHz;5326000;Vodafone
+58;18A 3,6 GHz;24402000;1&1 Drillisch
+58;19A 3,6 GHz;24402000;1&1 Drillisch
+58;20A 3,6 GHz;24402000;1&1 Drillisch
+58;21A 3,6 GHz;23639000;1&1 Drillisch
+58;22A 3,6 GHz;23639000;1&1 Drillisch
+58;23A 3,6 GHz;26002000;Vodafone
+58;24A 3,6 GHz;23870000;Vodafone
+58;25A 3,6 GHz;23870000;Vodafone
+58;26A 3,6 GHz;23890000;Telefónica Deutschland
+58;27A 3,6 GHz;23890000;Telefónica Deutschland
+58;28A 3,6 GHz;23890000;Telefónica Deutschland
+58;29K 3,6 GHz;23870000;Telekom
+59;01A 2 GHz;40695000;Telefónica Deutschland
+59;02A 2 GHz;36996000;Vodafone
+59;03A 2 GHz;36983000;Telefónica Deutschland
+59;04A 2 GHz;36983000;Telefónica Deutschland
+59;05A 2 GHz;37007000;Telekom
+59;06A 2 GHz;37886000;Telekom
+59;07A 2 GHz;40262000;Telekom
+59;08A 2 GHz;40262000;Vodafone
+59;09A 2 GHz (2026);15653000;Vodafone
+59;10A 2 GHz (2026);24439000;Telefónica Deutschland
+59;11A 2 GHz (2026);28747000;1&1 Drillisch
+59;12A 2 GHz (2026);34783000;1&1 Drillisch
+59;01K 3,6 GHz;2000000;1&1 Drillisch
+59;02A 3,6 GHz;5858000;Telekom
+59;03A 3,6 GHz;5858000;Telekom
+59;04A 3,6 GHz;5858000;Telekom
+59;05A 3,6 GHz;5350000;Telekom
+59;06A 3,6 GHz;5350000;Vodafone
+59;07A 3,6 GHz;5350000;Vodafone
+59;08A 3,6 GHz;5350000;Vodafone
+59;09A 3,6 GHz;5350000;Vodafone
+59;10A 3,6 GHz;5858000;Telefónica Deutschland
+59;11A 3,6 GHz;5858000;Telefónica Deutschland
+59;12A 3,6 GHz;5858000;Telefónica Deutschland
+59;13A 3,6 GHz;5326000;Telekom
+59;14A 3,6 GHz;5858000;Telekom
+59;15A 3,6 GHz;5858000;Telekom
+59;16A 3,6 GHz;5326000;Telekom
+59;17A 3,6 GHz;5326000;Vodafone
+59;18A 3,6 GHz;24402000;1&1 Drillisch
+59;19A 3,6 GHz;24402000;1&1 Drillisch
+59;20A 3,6 GHz;24402000;1&1 Drillisch
+59;21A 3,6 GHz;23639000;1&1 Drillisch
+59;22A 3,6 GHz;23639000;1&1 Drillisch
+59;23A 3,6 GHz;26002000;Vodafone
+59;24A 3,6 GHz;23870000;Vodafone
+59;25A 3,6 GHz;23870000;Vodafone
+59;26A 3,6 GHz;23890000;Telefónica Deutschland
+59;27A 3,6 GHz;23890000;Telefónica Deutschland
+59;28A 3,6 GHz;23890000;Telefónica Deutschland
+59;29K 3,6 GHz;23870000;Telekom
+60;01A 2 GHz;40695000;Telefónica Deutschland
+60;02A 2 GHz;36996000;Vodafone
+60;03A 2 GHz;40681000;Vodafone
+60;04A 2 GHz;40681000;Telekom
+60;05A 2 GHz;37007000;Telekom
+60;06A 2 GHz;37886000;Telekom
+60;07A 2 GHz;40262000;Telekom
+60;08A 2 GHz;40262000;Vodafone
+60;09A 2 GHz (2026);15653000;Vodafone
+60;10A 2 GHz (2026);24439000;Telefónica Deutschland
+60;11A 2 GHz (2026);28747000;1&1 Drillisch
+60;12A 2 GHz (2026);34783000;1&1 Drillisch
+60;01K 3,6 GHz;2000000;1&1 Drillisch
+60;02A 3,6 GHz;5858000;Telekom
+60;03A 3,6 GHz;5858000;Telekom
+60;04A 3,6 GHz;5858000;Telekom
+60;05A 3,6 GHz;5350000;Telekom
+60;06A 3,6 GHz;5350000;Vodafone
+60;07A 3,6 GHz;5350000;Vodafone
+60;08A 3,6 GHz;5350000;Vodafone
+60;09A 3,6 GHz;5350000;Vodafone
+60;10A 3,6 GHz;5858000;Telefónica Deutschland
+60;11A 3,6 GHz;5858000;Telefónica Deutschland
+60;12A 3,6 GHz;5858000;Telefónica Deutschland
+60;13A 3,6 GHz;5858000;Telefónica Deutschland
+60;14A 3,6 GHz;5858000;Telekom
+60;15A 3,6 GHz;5858000;Telekom
+60;16A 3,6 GHz;5858000;Telefónica Deutschland
+60;17A 3,6 GHz;5858000;Telekom
+60;18A 3,6 GHz;24402000;1&1 Drillisch
+60;19A 3,6 GHz;24402000;1&1 Drillisch
+60;20A 3,6 GHz;24402000;1&1 Drillisch
+60;21A 3,6 GHz;23639000;1&1 Drillisch
+60;22A 3,6 GHz;23639000;1&1 Drillisch
+60;23A 3,6 GHz;26002000;Vodafone
+60;24A 3,6 GHz;23870000;Vodafone
+60;25A 3,6 GHz;23870000;Vodafone
+60;26A 3,6 GHz;23890000;Telefónica Deutschland
+60;27A 3,6 GHz;23890000;Telefónica Deutschland
+60;28A 3,6 GHz;23890000;Telefónica Deutschland
+60;29K 3,6 GHz;23870000;Telekom
+61;01A 2 GHz;40695000;Telefónica Deutschland
+61;02A 2 GHz;40695000;Telefónica Deutschland
+61;03A 2 GHz;40681000;Vodafone
+61;04A 2 GHz;40681000;Telekom
+61;05A 2 GHz;40707000;Telefónica Deutschland
+61;06A 2 GHz;37886000;Telekom
+61;07A 2 GHz;40262000;Telekom
+61;08A 2 GHz;40262000;Vodafone
+61;09A 2 GHz (2026);15653000;Vodafone
+61;10A 2 GHz (2026);24439000;Telefónica Deutschland
+61;11A 2 GHz (2026);28747000;1&1 Drillisch
+61;12A 2 GHz (2026);34783000;1&1 Drillisch
+61;01K 3,6 GHz;2000000;1&1 Drillisch
+61;02A 3,6 GHz;5858000;Telekom
+61;03A 3,6 GHz;5858000;Telekom
+61;04A 3,6 GHz;5858000;Telekom
+61;05A 3,6 GHz;5885000;Vodafone
+61;06A 3,6 GHz;5885000;Telekom
+61;07A 3,6 GHz;5885000;Telekom
+61;08A 3,6 GHz;5350000;Vodafone
+61;09A 3,6 GHz;5350000;Vodafone
+61;10A 3,6 GHz;5858000;Telefónica Deutschland
+61;11A 3,6 GHz;5858000;Telefónica Deutschland
+61;12A 3,6 GHz;5858000;Telefónica Deutschland
+61;13A 3,6 GHz;5858000;Telefónica Deutschland
+61;14A 3,6 GHz;5858000;Telekom
+61;15A 3,6 GHz;5858000;Telekom
+61;16A 3,6 GHz;5858000;Telefónica Deutschland
+61;17A 3,6 GHz;5858000;Telekom
+61;18A 3,6 GHz;24402000;1&1 Drillisch
+61;19A 3,6 GHz;24402000;1&1 Drillisch
+61;20A 3,6 GHz;24402000;1&1 Drillisch
+61;21A 3,6 GHz;23639000;1&1 Drillisch
+61;22A 3,6 GHz;23639000;1&1 Drillisch
+61;23A 3,6 GHz;26002000;Vodafone
+61;24A 3,6 GHz;23870000;Vodafone
+61;25A 3,6 GHz;23870000;Vodafone
+61;26A 3,6 GHz;23890000;Telefónica Deutschland
+61;27A 3,6 GHz;23890000;Telefónica Deutschland
+61;28A 3,6 GHz;23890000;Telefónica Deutschland
+61;29K 3,6 GHz;23870000;Telekom
+62;01A 2 GHz;40695000;Telefónica Deutschland
+62;02A 2 GHz;40695000;Telefónica Deutschland
+62;03A 2 GHz;40681000;Vodafone
+62;04A 2 GHz;40681000;Telekom
+62;05A 2 GHz;40707000;Telefónica Deutschland
+62;06A 2 GHz;41674000;Vodafone
+62;07A 2 GHz;40262000;Telekom
+62;08A 2 GHz;44288000;Telekom
+62;09A 2 GHz (2026);15653000;Vodafone
+62;10A 2 GHz (2026);24439000;Telefónica Deutschland
+62;11A 2 GHz (2026);28747000;1&1 Drillisch
+62;12A 2 GHz (2026);34783000;1&1 Drillisch
+62;01K 3,6 GHz;2000000;1&1 Drillisch
+62;02A 3,6 GHz;5858000;Telekom
+62;03A 3,6 GHz;5858000;Telekom
+62;04A 3,6 GHz;5858000;Telekom
+62;05A 3,6 GHz;5885000;Vodafone
+62;06A 3,6 GHz;5885000;Telekom
+62;07A 3,6 GHz;5885000;Telekom
+62;08A 3,6 GHz;5885000;Telekom
+62;09A 3,6 GHz;5350000;Vodafone
+62;10A 3,6 GHz;6443000;Vodafone
+62;11A 3,6 GHz;6443000;Vodafone
+62;12A 3,6 GHz;5858000;Telefónica Deutschland
+62;13A 3,6 GHz;5858000;Telefónica Deutschland
+62;14A 3,6 GHz;5858000;Telekom
+62;15A 3,6 GHz;5858000;Telekom
+62;16A 3,6 GHz;5858000;Telefónica Deutschland
+62;17A 3,6 GHz;5858000;Telekom
+62;18A 3,6 GHz;24402000;1&1 Drillisch
+62;19A 3,6 GHz;24402000;1&1 Drillisch
+62;20A 3,6 GHz;24402000;1&1 Drillisch
+62;21A 3,6 GHz;23639000;1&1 Drillisch
+62;22A 3,6 GHz;23639000;1&1 Drillisch
+62;23A 3,6 GHz;26002000;Vodafone
+62;24A 3,6 GHz;23870000;Vodafone
+62;25A 3,6 GHz;23870000;Vodafone
+62;26A 3,6 GHz;23890000;Telefónica Deutschland
+62;27A 3,6 GHz;23890000;Telefónica Deutschland
+62;28A 3,6 GHz;23890000;Telefónica Deutschland
+62;29K 3,6 GHz;23870000;Telekom
+63;01A 2 GHz;40695000;Telefónica Deutschland
+63;02A 2 GHz;40695000;Telefónica Deutschland
+63;03A 2 GHz;44749000;Telekom
+63;04A 2 GHz;40681000;Telekom
+63;05A 2 GHz;40707000;Telefónica Deutschland
+63;06A 2 GHz;41674000;Vodafone
+63;07A 2 GHz;44288000;Vodafone
+63;08A 2 GHz;44288000;Telekom
+63;09A 2 GHz (2026);15653000;Vodafone
+63;10A 2 GHz (2026);24439000;Telefónica Deutschland
+63;11A 2 GHz (2026);28747000;1&1 Drillisch
+63;12A 2 GHz (2026);34783000;1&1 Drillisch
+63;01K 3,6 GHz;2000000;1&1 Drillisch
+63;02A 3,6 GHz;5858000;Telekom
+63;03A 3,6 GHz;5858000;Telekom
+63;04A 3,6 GHz;5858000;Telekom
+63;05A 3,6 GHz;6473000;Telefónica Deutschland
+63;06A 3,6 GHz;5885000;Telekom
+63;07A 3,6 GHz;5885000;Telekom
+63;08A 3,6 GHz;5885000;Telekom
+63;09A 3,6 GHz;5885000;Telefónica Deutschland
+63;10A 3,6 GHz;6443000;Vodafone
+63;11A 3,6 GHz;6443000;Vodafone
+63;12A 3,6 GHz;6443000;Vodafone
+63;13A 3,6 GHz;5858000;Telefónica Deutschland
+63;14A 3,6 GHz;5858000;Telekom
+63;15A 3,6 GHz;5858000;Telekom
+63;16A 3,6 GHz;Kein Gebot;Kein Gebot
+63;17A 3,6 GHz;6463000;Telefónica Deutschland
+63;18A 3,6 GHz;24402000;1&1 Drillisch
+63;19A 3,6 GHz;24402000;1&1 Drillisch
+63;20A 3,6 GHz;24402000;1&1 Drillisch
+63;21A 3,6 GHz;23639000;1&1 Drillisch
+63;22A 3,6 GHz;23639000;1&1 Drillisch
+63;23A 3,6 GHz;26002000;Vodafone
+63;24A 3,6 GHz;23870000;Vodafone
+63;25A 3,6 GHz;23870000;Vodafone
+63;26A 3,6 GHz;23890000;Telefónica Deutschland
+63;27A 3,6 GHz;23890000;Telefónica Deutschland
+63;28A 3,6 GHz;23890000;Telefónica Deutschland
+63;29K 3,6 GHz;23870000;Telekom
+64;01A 2 GHz;40695000;Telefónica Deutschland
+64;02A 2 GHz;44764000;Telekom
+64;03A 2 GHz;44749000;Telekom
+64;04A 2 GHz;44749000;Vodafone
+64;05A 2 GHz;40707000;Telefónica Deutschland
+64;06A 2 GHz;41674000;Vodafone
+64;07A 2 GHz;44288000;Vodafone
+64;08A 2 GHz;44288000;Telekom
+64;09A 2 GHz (2026);15653000;Vodafone
+64;10A 2 GHz (2026);24439000;Telefónica Deutschland
+64;11A 2 GHz (2026);28747000;1&1 Drillisch
+64;12A 2 GHz (2026);34783000;1&1 Drillisch
+64;01K 3,6 GHz;2000000;1&1 Drillisch
+64;02A 3,6 GHz;5858000;Telekom
+64;03A 3,6 GHz;5858000;Telekom
+64;04A 3,6 GHz;5858000;Telekom
+64;05A 3,6 GHz;6473000;Telefónica Deutschland
+64;06A 3,6 GHz;5885000;Telekom
+64;07A 3,6 GHz;5885000;Telekom
+64;08A 3,6 GHz;5885000;Telekom
+64;09A 3,6 GHz;5885000;Telefónica Deutschland
+64;10A 3,6 GHz;6443000;Vodafone
+64;11A 3,6 GHz;6443000;Vodafone
+64;12A 3,6 GHz;6443000;Vodafone
+64;13A 3,6 GHz;5858000;Telefónica Deutschland
+64;14A 3,6 GHz;6443000;Telefónica Deutschland
+64;15A 3,6 GHz;5858000;Telekom
+64;16A 3,6 GHz;6443000;Vodafone
+64;17A 3,6 GHz;6463000;Telefónica Deutschland
+64;18A 3,6 GHz;24402000;1&1 Drillisch
+64;19A 3,6 GHz;24402000;1&1 Drillisch
+64;20A 3,6 GHz;24402000;1&1 Drillisch
+64;21A 3,6 GHz;23639000;1&1 Drillisch
+64;22A 3,6 GHz;26002000;Vodafone
+64;23A 3,6 GHz;26002000;Vodafone
+64;24A 3,6 GHz;23870000;Vodafone
+64;25A 3,6 GHz;23870000;Vodafone
+64;26A 3,6 GHz;23890000;Telefónica Deutschland
+64;27A 3,6 GHz;23890000;Telefónica Deutschland
+64;28A 3,6 GHz;23890000;Telefónica Deutschland
+64;29K 3,6 GHz;23870000;Telekom
+65;01A 2 GHz;44764000;Telekom
+65;02A 2 GHz;44764000;Telekom
+65;03A 2 GHz;44749000;Telekom
+65;04A 2 GHz;44749000;Vodafone
+65;05A 2 GHz;40707000;Telefónica Deutschland
+65;06A 2 GHz;45841000;Telefónica Deutschland
+65;07A 2 GHz;44288000;Vodafone
+65;08A 2 GHz;44288000;Telekom
+65;09A 2 GHz (2026);15653000;Vodafone
+65;10A 2 GHz (2026);24439000;Telefónica Deutschland
+65;11A 2 GHz (2026);28747000;1&1 Drillisch
+65;12A 2 GHz (2026);34783000;1&1 Drillisch
+65;01K 3,6 GHz;2000000;1&1 Drillisch
+65;02A 3,6 GHz;5858000;Telekom
+65;03A 3,6 GHz;5858000;Telekom
+65;04A 3,6 GHz;5858000;Telekom
+65;05A 3,6 GHz;6473000;Telefónica Deutschland
+65;06A 3,6 GHz;5885000;Telekom
+65;07A 3,6 GHz;5885000;Telekom
+65;08A 3,6 GHz;5885000;Telekom
+65;09A 3,6 GHz;6473000;Telekom
+65;10A 3,6 GHz;6443000;Vodafone
+65;11A 3,6 GHz;6443000;Vodafone
+65;12A 3,6 GHz;6443000;Vodafone
+65;13A 3,6 GHz;6443000;Telekom
+65;14A 3,6 GHz;6443000;Telefónica Deutschland
+65;15A 3,6 GHz;5858000;Telekom
+65;16A 3,6 GHz;6443000;Vodafone
+65;17A 3,6 GHz;27109000;1&1 Drillisch
+65;18A 3,6 GHz;24402000;1&1 Drillisch
+65;19A 3,6 GHz;24402000;1&1 Drillisch
+65;20A 3,6 GHz;24402000;1&1 Drillisch
+65;21A 3,6 GHz;23639000;1&1 Drillisch
+65;22A 3,6 GHz;26002000;Vodafone
+65;23A 3,6 GHz;26002000;Vodafone
+65;24A 3,6 GHz;23870000;Vodafone
+65;25A 3,6 GHz;23870000;Vodafone
+65;26A 3,6 GHz;23890000;Telefónica Deutschland
+65;27A 3,6 GHz;23890000;Telefónica Deutschland
+65;28A 3,6 GHz;23890000;Telefónica Deutschland
+65;29K 3,6 GHz;23870000;Telekom
+66;01A 2 GHz;44764000;Telekom
+66;02A 2 GHz;44764000;Telekom
+66;03A 2 GHz;44749000;Telekom
+66;04A 2 GHz;44749000;Vodafone
+66;05A 2 GHz;44777000;Vodafone
+66;06A 2 GHz;45841000;Telefónica Deutschland
+66;07A 2 GHz;44288000;Vodafone
+66;08A 2 GHz;48716000;Telefónica Deutschland
+66;09A 2 GHz (2026);15653000;Vodafone
+66;10A 2 GHz (2026);24439000;Telefónica Deutschland
+66;11A 2 GHz (2026);28747000;1&1 Drillisch
+66;12A 2 GHz (2026);34783000;1&1 Drillisch
+66;01K 3,6 GHz;2000000;1&1 Drillisch
+66;02A 3,6 GHz;6443000;Telefónica Deutschland
+66;03A 3,6 GHz;6443000;Telefónica Deutschland
+66;04A 3,6 GHz;6443000;Telefónica Deutschland
+66;05A 3,6 GHz;6473000;Telefónica Deutschland
+66;06A 3,6 GHz;5885000;Telekom
+66;07A 3,6 GHz;5885000;Telekom
+66;08A 3,6 GHz;5885000;Telekom
+66;09A 3,6 GHz;6473000;Telekom
+66;10A 3,6 GHz;6443000;Vodafone
+66;11A 3,6 GHz;6443000;Vodafone
+66;12A 3,6 GHz;6443000;Vodafone
+66;13A 3,6 GHz;6443000;Telekom
+66;14A 3,6 GHz;Kein Gebot;Kein Gebot
+66;15A 3,6 GHz;6463000;Telefónica Deutschland
+66;16A 3,6 GHz;6443000;Vodafone
+66;17A 3,6 GHz;27109000;1&1 Drillisch
+66;18A 3,6 GHz;24402000;1&1 Drillisch
+66;19A 3,6 GHz;24402000;1&1 Drillisch
+66;20A 3,6 GHz;24402000;1&1 Drillisch
+66;21A 3,6 GHz;23639000;1&1 Drillisch
+66;22A 3,6 GHz;26002000;Vodafone
+66;23A 3,6 GHz;26002000;Vodafone
+66;24A 3,6 GHz;23870000;Vodafone
+66;25A 3,6 GHz;23870000;Vodafone
+66;26A 3,6 GHz;23890000;Telefónica Deutschland
+66;27A 3,6 GHz;23890000;Telefónica Deutschland
+66;28A 3,6 GHz;23890000;Telefónica Deutschland
+66;29K 3,6 GHz;23870000;Telekom
+67;01A 2 GHz;44764000;Telekom
+67;02A 2 GHz;44764000;Telekom
+67;03A 2 GHz;44749000;Telekom
+67;04A 2 GHz;44749000;Vodafone
+67;05A 2 GHz;44777000;Vodafone
+67;06A 2 GHz;45841000;Telefónica Deutschland
+67;07A 2 GHz;48716000;Telefónica Deutschland
+67;08A 2 GHz;48716000;Telefónica Deutschland
+67;09A 2 GHz (2026);15653000;Vodafone
+67;10A 2 GHz (2026);24439000;Telefónica Deutschland
+67;11A 2 GHz (2026);28747000;1&1 Drillisch
+67;12A 2 GHz (2026);34783000;1&1 Drillisch
+67;01K 3,6 GHz;2000000;1&1 Drillisch
+67;02A 3,6 GHz;7087000;Telekom
+67;03A 3,6 GHz;7087000;Telekom
+67;04A 3,6 GHz;7087000;Telekom
+67;05A 3,6 GHz;6473000;Telefónica Deutschland
+67;06A 3,6 GHz;5885000;Telekom
+67;07A 3,6 GHz;5885000;Telekom
+67;08A 3,6 GHz;5885000;Telekom
+67;09A 3,6 GHz;6473000;Telekom
+67;10A 3,6 GHz;6443000;Vodafone
+67;11A 3,6 GHz;6443000;Vodafone
+67;12A 3,6 GHz;6443000;Vodafone
+67;13A 3,6 GHz;7107000;Telefónica Deutschland
+67;14A 3,6 GHz;7087000;Telekom
+67;15A 3,6 GHz;Kein Gebot;Kein Gebot
+67;16A 3,6 GHz;6443000;Vodafone
+67;17A 3,6 GHz;27109000;1&1 Drillisch
+67;18A 3,6 GHz;24402000;1&1 Drillisch
+67;19A 3,6 GHz;24402000;1&1 Drillisch
+67;20A 3,6 GHz;24402000;1&1 Drillisch
+67;21A 3,6 GHz;23639000;1&1 Drillisch
+67;22A 3,6 GHz;26002000;Vodafone
+67;23A 3,6 GHz;26002000;Vodafone
+67;24A 3,6 GHz;23870000;Vodafone
+67;25A 3,6 GHz;23870000;Vodafone
+67;26A 3,6 GHz;23890000;Telefónica Deutschland
+67;27A 3,6 GHz;23890000;Telefónica Deutschland
+67;28A 3,6 GHz;23890000;Telefónica Deutschland
+67;29K 3,6 GHz;23870000;Telekom
+68;01A 2 GHz;44764000;Telekom
+68;02A 2 GHz;44764000;Telekom
+68;03A 2 GHz;49223000;Vodafone
+68;04A 2 GHz;49223000;Telekom
+68;05A 2 GHz;44777000;Vodafone
+68;06A 2 GHz;45841000;Telefónica Deutschland
+68;07A 2 GHz;48716000;Telefónica Deutschland
+68;08A 2 GHz;48716000;Telefónica Deutschland
+68;09A 2 GHz (2026);15653000;Vodafone
+68;10A 2 GHz (2026);24439000;Telefónica Deutschland
+68;11A 2 GHz (2026);28747000;1&1 Drillisch
+68;12A 2 GHz (2026);34783000;1&1 Drillisch
+68;01K 3,6 GHz;2000000;1&1 Drillisch
+68;02A 3,6 GHz;7087000;Telekom
+68;03A 3,6 GHz;7087000;Telekom
+68;04A 3,6 GHz;7087000;Telekom
+68;05A 3,6 GHz;6473000;Telefónica Deutschland
+68;06A 3,6 GHz;6473000;Telefónica Deutschland
+68;07A 3,6 GHz;6473000;Telefónica Deutschland
+68;08A 3,6 GHz;6473000;Telefónica Deutschland
+68;09A 3,6 GHz;7140000;Telefónica Deutschland
+68;10A 3,6 GHz;7087000;Telekom
+68;11A 3,6 GHz;6443000;Vodafone
+68;12A 3,6 GHz;6443000;Vodafone
+68;13A 3,6 GHz;Kein Gebot;Kein Gebot
+68;14A 3,6 GHz;7087000;Telekom
+68;15A 3,6 GHz;Kein Gebot;Kein Gebot
+68;16A 3,6 GHz;6443000;Vodafone
+68;17A 3,6 GHz;27109000;1&1 Drillisch
+68;18A 3,6 GHz;24402000;1&1 Drillisch
+68;19A 3,6 GHz;24402000;1&1 Drillisch
+68;20A 3,6 GHz;24402000;1&1 Drillisch
+68;21A 3,6 GHz;23639000;1&1 Drillisch
+68;22A 3,6 GHz;26002000;Vodafone
+68;23A 3,6 GHz;26002000;Vodafone
+68;24A 3,6 GHz;23870000;Vodafone
+68;25A 3,6 GHz;23870000;Vodafone
+68;26A 3,6 GHz;23890000;Telefónica Deutschland
+68;27A 3,6 GHz;23890000;Telefónica Deutschland
+68;28A 3,6 GHz;23890000;Telefónica Deutschland
+68;29K 3,6 GHz;23870000;Telekom
+69;01A 2 GHz;49240000;Vodafone
+69;02A 2 GHz;44764000;Telekom
+69;03A 2 GHz;49223000;Vodafone
+69;04A 2 GHz;49223000;Telekom
+69;05A 2 GHz;49254000;Telekom
+69;06A 2 GHz;45841000;Telefónica Deutschland
+69;07A 2 GHz;48716000;Telefónica Deutschland
+69;08A 2 GHz;48716000;Telefónica Deutschland
+69;09A 2 GHz (2026);15653000;Vodafone
+69;10A 2 GHz (2026);24439000;Telefónica Deutschland
+69;11A 2 GHz (2026);28747000;1&1 Drillisch
+69;12A 2 GHz (2026);34783000;1&1 Drillisch
+69;01K 3,6 GHz;2000000;1&1 Drillisch
+69;02A 3,6 GHz;7087000;Telekom
+69;03A 3,6 GHz;7087000;Telekom
+69;04A 3,6 GHz;7087000;Telekom
+69;05A 3,6 GHz;6473000;Telefónica Deutschland
+69;06A 3,6 GHz;6473000;Telefónica Deutschland
+69;07A 3,6 GHz;6473000;Telefónica Deutschland
+69;08A 3,6 GHz;6473000;Telefónica Deutschland
+69;09A 3,6 GHz;7140000;Telefónica Deutschland
+69;10A 3,6 GHz;7087000;Telekom
+69;11A 3,6 GHz;7087000;Telekom
+69;12A 3,6 GHz;7087000;Telekom
+69;13A 3,6 GHz;Kein Gebot;Kein Gebot
+69;14A 3,6 GHz;7087000;Telekom
+69;15A 3,6 GHz;7109000;Vodafone
+69;16A 3,6 GHz;7087000;Telekom
+69;17A 3,6 GHz;27109000;1&1 Drillisch
+69;18A 3,6 GHz;24402000;1&1 Drillisch
+69;19A 3,6 GHz;24402000;1&1 Drillisch
+69;20A 3,6 GHz;24402000;1&1 Drillisch
+69;21A 3,6 GHz;23639000;1&1 Drillisch
+69;22A 3,6 GHz;26002000;Vodafone
+69;23A 3,6 GHz;26002000;Vodafone
+69;24A 3,6 GHz;23870000;Vodafone
+69;25A 3,6 GHz;23870000;Vodafone
+69;26A 3,6 GHz;23890000;Telefónica Deutschland
+69;27A 3,6 GHz;23890000;Telefónica Deutschland
+69;28A 3,6 GHz;23890000;Telefónica Deutschland
+69;29K 3,6 GHz;23870000;Telekom
+70;01A 2 GHz;49240000;Vodafone
+70;02A 2 GHz;49240000;Vodafone
+70;03A 2 GHz;49223000;Vodafone
+70;04A 2 GHz;49223000;Telekom
+70;05A 2 GHz;49254000;Telekom
+70;06A 2 GHz;50445000;Telefónica Deutschland
+70;07A 2 GHz;Kein Gebot;Kein Gebot
+70;08A 2 GHz;Kein Gebot;Kein Gebot
+70;09A 2 GHz (2026);15653000;Vodafone
+70;10A 2 GHz (2026);24439000;Telefónica Deutschland
+70;11A 2 GHz (2026);31621000;Telefónica Deutschland
+70;12A 2 GHz (2026);38261000;Telefónica Deutschland
+70;01K 3,6 GHz;2000000;1&1 Drillisch
+70;02A 3,6 GHz;7087000;Telekom
+70;03A 3,6 GHz;7087000;Telekom
+70;04A 3,6 GHz;7087000;Telekom
+70;05A 3,6 GHz;7120000;Vodafone
+70;06A 3,6 GHz;7120000;Vodafone
+70;07A 3,6 GHz;7120000;Vodafone
+70;08A 3,6 GHz;Kein Gebot;Kein Gebot
+70;09A 3,6 GHz;7874000;Telefónica Deutschland
+70;10A 3,6 GHz;7087000;Telekom
+70;11A 3,6 GHz;7087000;Telekom
+70;12A 3,6 GHz;7087000;Telekom
+70;13A 3,6 GHz;7837000;Telefónica Deutschland
+70;14A 3,6 GHz;7815000;Telefónica Deutschland
+70;15A 3,6 GHz;7839000;Telefónica Deutschland
+70;16A 3,6 GHz;7087000;Telekom
+70;17A 3,6 GHz;27109000;1&1 Drillisch
+70;18A 3,6 GHz;24402000;1&1 Drillisch
+70;19A 3,6 GHz;24402000;1&1 Drillisch
+70;20A 3,6 GHz;26842000;Telefónica Deutschland
+70;21A 3,6 GHz;26002000;Telefónica Deutschland
+70;22A 3,6 GHz;26002000;Vodafone
+70;23A 3,6 GHz;26002000;Vodafone
+70;24A 3,6 GHz;23870000;Vodafone
+70;25A 3,6 GHz;23870000;Vodafone
+70;26A 3,6 GHz;23890000;Telefónica Deutschland
+70;27A 3,6 GHz;Kein Gebot;Kein Gebot
+70;28A 3,6 GHz;Kein Gebot;Kein Gebot
+70;29K 3,6 GHz;23870000;Telekom
+71;01A 2 GHz;49240000;Vodafone
+71;02A 2 GHz;49240000;Vodafone
+71;03A 2 GHz;49223000;Vodafone
+71;04A 2 GHz;49223000;Telekom
+71;05A 2 GHz;49254000;Telekom
+71;06A 2 GHz;50445000;Telefónica Deutschland
+71;07A 2 GHz;53597000;1&1 Drillisch
+71;08A 2 GHz;53597000;1&1 Drillisch
+71;09A 2 GHz (2026);15653000;Vodafone
+71;10A 2 GHz (2026);24439000;Telefónica Deutschland
+71;11A 2 GHz (2026);31621000;Telefónica Deutschland
+71;12A 2 GHz (2026);38261000;Telefónica Deutschland
+71;01K 3,6 GHz;2000000;1&1 Drillisch
+71;02A 3,6 GHz;7805000;1&1 Drillisch
+71;03A 3,6 GHz;7805000;1&1 Drillisch
+71;04A 3,6 GHz;7805000;1&1 Drillisch
+71;05A 3,6 GHz;7842000;1&1 Drillisch
+71;06A 3,6 GHz;7842000;1&1 Drillisch
+71;07A 3,6 GHz;7120000;Vodafone
+71;08A 3,6 GHz;7120000;Vodafone
+71;09A 3,6 GHz;7874000;Telefónica Deutschland
+71;10A 3,6 GHz;7087000;Telekom
+71;11A 3,6 GHz;7087000;Telekom
+71;12A 3,6 GHz;7087000;Telekom
+71;13A 3,6 GHz;7837000;Telefónica Deutschland
+71;14A 3,6 GHz;7815000;Telefónica Deutschland
+71;15A 3,6 GHz;7839000;Telefónica Deutschland
+71;16A 3,6 GHz;7087000;Telekom
+71;17A 3,6 GHz;Kein Gebot;Kein Gebot
+71;18A 3,6 GHz;Kein Gebot;Kein Gebot
+71;19A 3,6 GHz;Kein Gebot;Kein Gebot
+71;20A 3,6 GHz;26842000;Telefónica Deutschland
+71;21A 3,6 GHz;26002000;Telefónica Deutschland
+71;22A 3,6 GHz;26002000;Vodafone
+71;23A 3,6 GHz;26002000;Vodafone
+71;24A 3,6 GHz;23870000;Vodafone
+71;25A 3,6 GHz;23870000;Vodafone
+71;26A 3,6 GHz;23890000;Telefónica Deutschland
+71;27A 3,6 GHz;26279000;Telekom
+71;28A 3,6 GHz;26279000;Telekom
+71;29K 3,6 GHz;23870000;Telekom
+72;01A 2 GHz;49240000;Vodafone
+72;02A 2 GHz;54164000;Telekom
+72;03A 2 GHz;54145000;Telekom
+72;04A 2 GHz;49223000;Telekom
+72;05A 2 GHz;49254000;Telekom
+72;06A 2 GHz;50445000;Telefónica Deutschland
+72;07A 2 GHz;53597000;1&1 Drillisch
+72;08A 2 GHz;53597000;1&1 Drillisch
+72;09A 2 GHz (2026);15653000;Vodafone
+72;10A 2 GHz (2026);24439000;Telefónica Deutschland
+72;11A 2 GHz (2026);31621000;Telefónica Deutschland
+72;12A 2 GHz (2026);38261000;Telefónica Deutschland
+72;01K 3,6 GHz;2000000;1&1 Drillisch
+72;02A 3,6 GHz;8585000;Telekom
+72;03A 3,6 GHz;7805000;1&1 Drillisch
+72;04A 3,6 GHz;7805000;1&1 Drillisch
+72;05A 3,6 GHz;7842000;1&1 Drillisch
+72;06A 3,6 GHz;7842000;1&1 Drillisch
+72;07A 3,6 GHz;7832000;Telekom
+72;08A 3,6 GHz;7832000;Telekom
+72;09A 3,6 GHz;7874000;Telefónica Deutschland
+72;10A 3,6 GHz;7795000;Vodafone
+72;11A 3,6 GHz;7795000;Vodafone
+72;12A 3,6 GHz;7087000;Telekom
+72;13A 3,6 GHz;7837000;Telefónica Deutschland
+72;14A 3,6 GHz;7815000;Telefónica Deutschland
+72;15A 3,6 GHz;7839000;Telefónica Deutschland
+72;16A 3,6 GHz;7087000;Telekom
+72;17A 3,6 GHz;Kein Gebot;Kein Gebot
+72;18A 3,6 GHz;Kein Gebot;Kein Gebot
+72;19A 3,6 GHz;Kein Gebot;Kein Gebot
+72;20A 3,6 GHz;26842000;Telefónica Deutschland
+72;21A 3,6 GHz;26002000;Telefónica Deutschland
+72;22A 3,6 GHz;26002000;Vodafone
+72;23A 3,6 GHz;26002000;Vodafone
+72;24A 3,6 GHz;23870000;Vodafone
+72;25A 3,6 GHz;23870000;Vodafone
+72;26A 3,6 GHz;23890000;Telefónica Deutschland
+72;27A 3,6 GHz;26279000;Telekom
+72;28A 3,6 GHz;26279000;Telekom
+72;29K 3,6 GHz;23870000;Telekom
+73;01A 2 GHz;49240000;Vodafone
+73;02A 2 GHz;54164000;Telekom
+73;03A 2 GHz;54145000;Telekom
+73;04A 2 GHz;54145000;Vodafone
+73;05A 2 GHz;54179000;Vodafone
+73;06A 2 GHz;50445000;Telefónica Deutschland
+73;07A 2 GHz;53597000;1&1 Drillisch
+73;08A 2 GHz;53597000;1&1 Drillisch
+73;09A 2 GHz (2026);15653000;Vodafone
+73;10A 2 GHz (2026);24439000;Telefónica Deutschland
+73;11A 2 GHz (2026);31621000;Telefónica Deutschland
+73;12A 2 GHz (2026);38261000;Telefónica Deutschland
+73;01K 3,6 GHz;2000000;1&1 Drillisch
+73;02A 3,6 GHz;8585000;Telekom
+73;03A 3,6 GHz;7805000;1&1 Drillisch
+73;04A 3,6 GHz;7805000;1&1 Drillisch
+73;05A 3,6 GHz;7842000;1&1 Drillisch
+73;06A 3,6 GHz;7842000;1&1 Drillisch
+73;07A 3,6 GHz;7832000;Telekom
+73;08A 3,6 GHz;7832000;Telekom
+73;09A 3,6 GHz;7874000;Telefónica Deutschland
+73;10A 3,6 GHz;8574000;Telekom
+73;11A 3,6 GHz;8574000;Telekom
+73;12A 3,6 GHz;7795000;1&1 Drillisch
+73;13A 3,6 GHz;7837000;Telefónica Deutschland
+73;14A 3,6 GHz;7815000;Telefónica Deutschland
+73;15A 3,6 GHz;7839000;Telefónica Deutschland
+73;16A 3,6 GHz;7795000;Vodafone
+73;17A 3,6 GHz;Kein Gebot;Kein Gebot
+73;18A 3,6 GHz;Kein Gebot;Kein Gebot
+73;19A 3,6 GHz;Kein Gebot;Kein Gebot
+73;20A 3,6 GHz;26842000;Telefónica Deutschland
+73;21A 3,6 GHz;26002000;Telefónica Deutschland
+73;22A 3,6 GHz;26002000;Vodafone
+73;23A 3,6 GHz;26002000;Vodafone
+73;24A 3,6 GHz;23870000;Vodafone
+73;25A 3,6 GHz;23870000;Vodafone
+73;26A 3,6 GHz;23890000;Telefónica Deutschland
+73;27A 3,6 GHz;26279000;Telekom
+73;28A 3,6 GHz;26279000;Telekom
+73;29K 3,6 GHz;23870000;Telekom
+74;01A 2 GHz;54164000;Telekom
+74;02A 2 GHz;54164000;Telekom
+74;03A 2 GHz;54145000;Telekom
+74;04A 2 GHz;54145000;Vodafone
+74;05A 2 GHz;54179000;Vodafone
+74;06A 2 GHz;55489000;Telekom
+74;07A 2 GHz;53597000;1&1 Drillisch
+74;08A 2 GHz;53597000;1&1 Drillisch
+74;09A 2 GHz (2026);15653000;Vodafone
+74;10A 2 GHz (2026);24439000;Telefónica Deutschland
+74;11A 2 GHz (2026);31621000;Telefónica Deutschland
+74;12A 2 GHz (2026);38261000;Telefónica Deutschland
+74;01K 3,6 GHz;2000000;1&1 Drillisch
+74;02A 3,6 GHz;8585000;Telekom
+74;03A 3,6 GHz;8585000;Vodafone
+74;04A 3,6 GHz;8585000;Vodafone
+74;05A 3,6 GHz;7842000;1&1 Drillisch
+74;06A 3,6 GHz;7842000;1&1 Drillisch
+74;07A 3,6 GHz;7832000;Telekom
+74;08A 3,6 GHz;7832000;Telekom
+74;09A 3,6 GHz;7874000;Telefónica Deutschland
+74;10A 3,6 GHz;8574000;Telekom
+74;11A 3,6 GHz;8574000;Telekom
+74;12A 3,6 GHz;8574000;Vodafone
+74;13A 3,6 GHz;7837000;Telefónica Deutschland
+74;14A 3,6 GHz;7815000;Telefónica Deutschland
+74;15A 3,6 GHz;7839000;Telefónica Deutschland
+74;16A 3,6 GHz;8574000;Telekom
+74;17A 3,6 GHz;Kein Gebot;Kein Gebot
+74;18A 3,6 GHz;Kein Gebot;Kein Gebot
+74;19A 3,6 GHz;Kein Gebot;Kein Gebot
+74;20A 3,6 GHz;26842000;Telefónica Deutschland
+74;21A 3,6 GHz;26002000;Telefónica Deutschland
+74;22A 3,6 GHz;26002000;Vodafone
+74;23A 3,6 GHz;26002000;Vodafone
+74;24A 3,6 GHz;23870000;Vodafone
+74;25A 3,6 GHz;23870000;Vodafone
+74;26A 3,6 GHz;23890000;Telefónica Deutschland
+74;27A 3,6 GHz;26279000;Telekom
+74;28A 3,6 GHz;26279000;Telekom
+74;29K 3,6 GHz;23870000;Telekom
+75;01A 2 GHz;54164000;Telekom
+75;02A 2 GHz;54164000;Telekom
+75;03A 2 GHz;54145000;Telekom
+75;04A 2 GHz;54145000;Vodafone
+75;05A 2 GHz;54179000;Vodafone
+75;06A 2 GHz;55489000;Telekom
+75;07A 2 GHz;58956000;Vodafone
+75;08A 2 GHz;53597000;1&1 Drillisch
+75;09A 2 GHz (2026);15653000;Vodafone
+75;10A 2 GHz (2026);24439000;Telefónica Deutschland
+75;11A 2 GHz (2026);31621000;Telefónica Deutschland
+75;12A 2 GHz (2026);38261000;Telefónica Deutschland
+75;01K 3,6 GHz;2000000;1&1 Drillisch
+75;02A 3,6 GHz;8585000;Telekom
+75;03A 3,6 GHz;8585000;Vodafone
+75;04A 3,6 GHz;8585000;Vodafone
+75;05A 3,6 GHz;7842000;1&1 Drillisch
+75;06A 3,6 GHz;7842000;1&1 Drillisch
+75;07A 3,6 GHz;8615000;1&1 Drillisch
+75;08A 3,6 GHz;13615000;Telefónica Deutschland
+75;09A 3,6 GHz;13661000;Telefónica Deutschland
+75;10A 3,6 GHz;8574000;Telekom
+75;11A 3,6 GHz;8574000;Telekom
+75;12A 3,6 GHz;8574000;Vodafone
+75;13A 3,6 GHz;13620000;Telefónica Deutschland
+75;14A 3,6 GHz;13596000;Telefónica Deutschland
+75;15A 3,6 GHz;13622000;Telefónica Deutschland
+75;16A 3,6 GHz;8574000;Telekom
+75;17A 3,6 GHz;Kein Gebot;Kein Gebot
+75;18A 3,6 GHz;Kein Gebot;Kein Gebot
+75;19A 3,6 GHz;Kein Gebot;Kein Gebot
+75;20A 3,6 GHz;26842000;Telefónica Deutschland
+75;21A 3,6 GHz;26002000;Telefónica Deutschland
+75;22A 3,6 GHz;26002000;Vodafone
+75;23A 3,6 GHz;26002000;Vodafone
+75;24A 3,6 GHz;23870000;Vodafone
+75;25A 3,6 GHz;23870000;Vodafone
+75;26A 3,6 GHz;23890000;Telefónica Deutschland
+75;27A 3,6 GHz;26279000;Telekom
+75;28A 3,6 GHz;26279000;Telekom
+75;29K 3,6 GHz;23870000;Telekom
+76;01A 2 GHz;54164000;Telekom
+76;02A 2 GHz;54164000;Telekom
+76;03A 2 GHz;59559000;1&1 Drillisch
+76;04A 2 GHz;54145000;Vodafone
+76;05A 2 GHz;54179000;Vodafone
+76;06A 2 GHz;55489000;Telekom
+76;07A 2 GHz;58956000;Vodafone
+76;08A 2 GHz;58956000;Telefónica Deutschland
+76;09A 2 GHz (2026);17218000;1&1 Drillisch
+76;10A 2 GHz (2026);26882000;1&1 Drillisch
+76;11A 2 GHz (2026);31621000;Telefónica Deutschland
+76;12A 2 GHz (2026);38261000;Telefónica Deutschland
+76;01K 3,6 GHz;Kein Gebot;Kein Gebot
+76;02A 3,6 GHz;8585000;Telekom
+76;03A 3,6 GHz;8585000;Vodafone
+76;04A 3,6 GHz;8585000;Vodafone
+76;05A 3,6 GHz;8626000;Vodafone
+76;06A 3,6 GHz;8626000;Telekom
+76;07A 3,6 GHz;8615000;1&1 Drillisch
+76;08A 3,6 GHz;13615000;Telefónica Deutschland
+76;09A 3,6 GHz;13661000;Telefónica Deutschland
+76;10A 3,6 GHz;9431000;1&1 Drillisch
+76;11A 3,6 GHz;9431000;1&1 Drillisch
+76;12A 3,6 GHz;9431000;1&1 Drillisch
+76;13A 3,6 GHz;13620000;Telefónica Deutschland
+76;14A 3,6 GHz;13596000;Telefónica Deutschland
+76;15A 3,6 GHz;13622000;Telefónica Deutschland
+76;16A 3,6 GHz;8574000;Telekom
+76;17A 3,6 GHz;Kein Gebot;Kein Gebot
+76;18A 3,6 GHz;Kein Gebot;Kein Gebot
+76;19A 3,6 GHz;Kein Gebot;Kein Gebot
+76;20A 3,6 GHz;26842000;Telefónica Deutschland
+76;21A 3,6 GHz;26002000;Telefónica Deutschland
+76;22A 3,6 GHz;26002000;Vodafone
+76;23A 3,6 GHz;26002000;Vodafone
+76;24A 3,6 GHz;23870000;Vodafone
+76;25A 3,6 GHz;23870000;Vodafone
+76;26A 3,6 GHz;23890000;Telefónica Deutschland
+76;27A 3,6 GHz;26279000;Telekom
+76;28A 3,6 GHz;26279000;Telekom
+76;29K 3,6 GHz;23870000;Telekom
+77;01A 2 GHz;54164000;Telekom
+77;02A 2 GHz;54164000;Telekom
+77;03A 2 GHz;59559000;1&1 Drillisch
+77;04A 2 GHz;59559000;1&1 Drillisch
+77;05A 2 GHz;54179000;Vodafone
+77;06A 2 GHz;55489000;Telekom
+77;07A 2 GHz;58956000;Vodafone
+77;08A 2 GHz;58956000;Telefónica Deutschland
+77;09A 2 GHz (2026);18939000;Telefónica Deutschland
+77;10A 2 GHz (2026);26882000;1&1 Drillisch
+77;11A 2 GHz (2026);31621000;Telefónica Deutschland
+77;12A 2 GHz (2026);38261000;Telefónica Deutschland
+77;01K 3,6 GHz;Kein Gebot;Kein Gebot
+77;02A 3,6 GHz;8585000;Telekom
+77;03A 3,6 GHz;9443000;Telekom
+77;04A 3,6 GHz;9443000;1&1 Drillisch
+77;05A 3,6 GHz;9488000;Telekom
+77;06A 3,6 GHz;8626000;Telekom
+77;07A 3,6 GHz;9476000;Telekom
+77;08A 3,6 GHz;13615000;Telefónica Deutschland
+77;09A 3,6 GHz;13661000;Telefónica Deutschland
+77;10A 3,6 GHz;9431000;1&1 Drillisch
+77;11A 3,6 GHz;9431000;1&1 Drillisch
+77;12A 3,6 GHz;9431000;1&1 Drillisch
+77;13A 3,6 GHz;13620000;Telefónica Deutschland
+77;14A 3,6 GHz;13596000;Telefónica Deutschland
+77;15A 3,6 GHz;13622000;Telefónica Deutschland
+77;16A 3,6 GHz;9431000;1&1 Drillisch
+77;17A 3,6 GHz;Kein Gebot;Kein Gebot
+77;18A 3,6 GHz;Kein Gebot;Kein Gebot
+77;19A 3,6 GHz;Kein Gebot;Kein Gebot
+77;20A 3,6 GHz;26842000;Telefónica Deutschland
+77;21A 3,6 GHz;26002000;Telefónica Deutschland
+77;22A 3,6 GHz;26002000;Vodafone
+77;23A 3,6 GHz;26002000;Vodafone
+77;24A 3,6 GHz;23870000;Vodafone
+77;25A 3,6 GHz;23870000;Vodafone
+77;26A 3,6 GHz;23890000;Telefónica Deutschland
+77;27A 3,6 GHz;26279000;Telekom
+77;28A 3,6 GHz;26279000;Telekom
+77;29K 3,6 GHz;23870000;Telekom
+78;01A 2 GHz;59580000;Vodafone
+78;02A 2 GHz;54164000;Telekom
+78;03A 2 GHz;59559000;1&1 Drillisch
+78;04A 2 GHz;59559000;1&1 Drillisch
+78;05A 2 GHz;59596000;Telekom
+78;06A 2 GHz;55489000;Telekom
+78;07A 2 GHz;58956000;Vodafone
+78;08A 2 GHz;58956000;Telefónica Deutschland
+78;09A 2 GHz (2026);20832000;1&1 Drillisch
+78;10A 2 GHz (2026);26882000;1&1 Drillisch
+78;11A 2 GHz (2026);31621000;Telefónica Deutschland
+78;12A 2 GHz (2026);38261000;Telefónica Deutschland
+78;01K 3,6 GHz;Kein Gebot;Kein Gebot
+78;02A 3,6 GHz;9443000;1&1 Drillisch
+78;03A 3,6 GHz;9443000;Telekom
+78;04A 3,6 GHz;9443000;1&1 Drillisch
+78;05A 3,6 GHz;9488000;Telekom
+78;06A 3,6 GHz;9488000;Vodafone
+78;07A 3,6 GHz;9476000;Telekom
+78;08A 3,6 GHz;13615000;Telefónica Deutschland
+78;09A 3,6 GHz;13661000;Telefónica Deutschland
+78;10A 3,6 GHz;10374000;Vodafone
+78;11A 3,6 GHz;10374000;Vodafone
+78;12A 3,6 GHz;9431000;1&1 Drillisch
+78;13A 3,6 GHz;13620000;Telefónica Deutschland
+78;14A 3,6 GHz;13596000;Telefónica Deutschland
+78;15A 3,6 GHz;13622000;Telefónica Deutschland
+78;16A 3,6 GHz;9431000;1&1 Drillisch
+78;17A 3,6 GHz;Kein Gebot;Kein Gebot
+78;18A 3,6 GHz;Kein Gebot;Kein Gebot
+78;19A 3,6 GHz;Kein Gebot;Kein Gebot
+78;20A 3,6 GHz;26842000;Telefónica Deutschland
+78;21A 3,6 GHz;26002000;Telefónica Deutschland
+78;22A 3,6 GHz;26002000;Vodafone
+78;23A 3,6 GHz;26002000;Vodafone
+78;24A 3,6 GHz;23870000;Vodafone
+78;25A 3,6 GHz;23870000;Vodafone
+78;26A 3,6 GHz;23890000;Telefónica Deutschland
+78;27A 3,6 GHz;26279000;Telekom
+78;28A 3,6 GHz;26279000;Telekom
+78;29K 3,6 GHz;23870000;Telekom
+79;01A 2 GHz;59580000;Vodafone
+79;02A 2 GHz;59580000;Vodafone
+79;03A 2 GHz;59559000;1&1 Drillisch
+79;04A 2 GHz;59559000;1&1 Drillisch
+79;05A 2 GHz;59596000;Telekom
+79;06A 2 GHz;55489000;Telekom
+79;07A 2 GHz;58956000;Vodafone
+79;08A 2 GHz;64851000;Telekom
+79;09A 2 GHz (2026);22915000;Telefónica Deutschland
+79;10A 2 GHz (2026);26882000;1&1 Drillisch
+79;11A 2 GHz (2026);31621000;Telefónica Deutschland
+79;12A 2 GHz (2026);38261000;Telefónica Deutschland
+79;01K 3,6 GHz;Kein Gebot;Kein Gebot
+79;02A 3,6 GHz;10387000;Telekom
+79;03A 3,6 GHz;10387000;1&1 Drillisch
+79;04A 3,6 GHz;10387000;Telekom
+79;05A 3,6 GHz;9488000;Telekom
+79;06A 3,6 GHz;9488000;Vodafone
+79;07A 3,6 GHz;10423000;1&1 Drillisch
+79;08A 3,6 GHz;13615000;Telefónica Deutschland
+79;09A 3,6 GHz;13661000;Telefónica Deutschland
+79;10A 3,6 GHz;10374000;Vodafone
+79;11A 3,6 GHz;10374000;Vodafone
+79;12A 3,6 GHz;10374000;Vodafone
+79;13A 3,6 GHz;13620000;Telefónica Deutschland
+79;14A 3,6 GHz;13596000;Telefónica Deutschland
+79;15A 3,6 GHz;13622000;Telefónica Deutschland
+79;16A 3,6 GHz;10374000;Telekom
+79;17A 3,6 GHz;Kein Gebot;Kein Gebot
+79;18A 3,6 GHz;Kein Gebot;Kein Gebot
+79;19A 3,6 GHz;Kein Gebot;Kein Gebot
+79;20A 3,6 GHz;26842000;Telefónica Deutschland
+79;21A 3,6 GHz;26002000;Telefónica Deutschland
+79;22A 3,6 GHz;26002000;Vodafone
+79;23A 3,6 GHz;26002000;Vodafone
+79;24A 3,6 GHz;23870000;Vodafone
+79;25A 3,6 GHz;23870000;Vodafone
+79;26A 3,6 GHz;23890000;Telefónica Deutschland
+79;27A 3,6 GHz;26279000;Telekom
+79;28A 3,6 GHz;26279000;Telekom
+79;29K 3,6 GHz;23870000;Telekom
+80;01A 2 GHz;59580000;Vodafone
+80;02A 2 GHz;59580000;Vodafone
+80;03A 2 GHz;59559000;1&1 Drillisch
+80;04A 2 GHz;59559000;1&1 Drillisch
+80;05A 2 GHz;59596000;Telekom
+80;06A 2 GHz;61037000;Telefónica Deutschland
+80;07A 2 GHz;64851000;Telekom
+80;08A 2 GHz;64851000;Telekom
+80;09A 2 GHz (2026);25206000;1&1 Drillisch
+80;10A 2 GHz (2026);26882000;1&1 Drillisch
+80;11A 2 GHz (2026);31621000;Telefónica Deutschland
+80;12A 2 GHz (2026);38261000;Telefónica Deutschland
+80;01K 3,6 GHz;Kein Gebot;Kein Gebot
+80;02A 3,6 GHz;10387000;Telekom
+80;03A 3,6 GHz;10387000;1&1 Drillisch
+80;04A 3,6 GHz;10387000;Telekom
+80;05A 3,6 GHz;10436000;1&1 Drillisch
+80;06A 3,6 GHz;10436000;1&1 Drillisch
+80;07A 3,6 GHz;10423000;1&1 Drillisch
+80;08A 3,6 GHz;13615000;Telefónica Deutschland
+80;09A 3,6 GHz;13661000;Telefónica Deutschland
+80;10A 3,6 GHz;11411000;1&1 Drillisch
+80;11A 3,6 GHz;11411000;1&1 Drillisch
+80;12A 3,6 GHz;10374000;Vodafone
+80;13A 3,6 GHz;13620000;Telefónica Deutschland
+80;14A 3,6 GHz;13596000;Telefónica Deutschland
+80;15A 3,6 GHz;13622000;Telefónica Deutschland
+80;16A 3,6 GHz;10374000;Telekom
+80;17A 3,6 GHz;Kein Gebot;Kein Gebot
+80;18A 3,6 GHz;Kein Gebot;Kein Gebot
+80;19A 3,6 GHz;Kein Gebot;Kein Gebot
+80;20A 3,6 GHz;26842000;Telefónica Deutschland
+80;21A 3,6 GHz;26002000;Telefónica Deutschland
+80;22A 3,6 GHz;26002000;Vodafone
+80;23A 3,6 GHz;26002000;Vodafone
+80;24A 3,6 GHz;23870000;Vodafone
+80;25A 3,6 GHz;23870000;Vodafone
+80;26A 3,6 GHz;23890000;Telefónica Deutschland
+80;27A 3,6 GHz;26279000;Telekom
+80;28A 3,6 GHz;26279000;Telekom
+80;29K 3,6 GHz;23870000;Telekom
+81;01A 2 GHz;59580000;Vodafone
+81;02A 2 GHz;59580000;Vodafone
+81;03A 2 GHz;65514000;Vodafone
+81;04A 2 GHz;59559000;1&1 Drillisch
+81;05A 2 GHz;59596000;Telekom
+81;06A 2 GHz;61037000;Telefónica Deutschland
+81;07A 2 GHz;64851000;Telekom
+81;08A 2 GHz;64851000;Telekom
+81;09A 2 GHz (2026);27726000;Telefónica Deutschland
+81;10A 2 GHz (2026);26882000;1&1 Drillisch
+81;11A 2 GHz (2026);31621000;Telefónica Deutschland
+81;12A 2 GHz (2026);38261000;Telefónica Deutschland
+81;01K 3,6 GHz;Kein Gebot;Kein Gebot
+81;02A 3,6 GHz;11425000;Vodafone
+81;03A 3,6 GHz;11425000;Vodafone
+81;04A 3,6 GHz;10387000;Telekom
+81;05A 3,6 GHz;11479000;Telekom
+81;06A 3,6 GHz;10436000;1&1 Drillisch
+81;07A 3,6 GHz;11465000;Telekom
+81;08A 3,6 GHz;13615000;Telefónica Deutschland
+81;09A 3,6 GHz;13661000;Telefónica Deutschland
+81;10A 3,6 GHz;11411000;1&1 Drillisch
+81;11A 3,6 GHz;11411000;1&1 Drillisch
+81;12A 3,6 GHz;11411000;Telekom
+81;13A 3,6 GHz;13620000;Telefónica Deutschland
+81;14A 3,6 GHz;13596000;Telefónica Deutschland
+81;15A 3,6 GHz;13622000;Telefónica Deutschland
+81;16A 3,6 GHz;11411000;Vodafone
+81;17A 3,6 GHz;Kein Gebot;Kein Gebot
+81;18A 3,6 GHz;Kein Gebot;Kein Gebot
+81;19A 3,6 GHz;Kein Gebot;Kein Gebot
+81;20A 3,6 GHz;26842000;Telefónica Deutschland
+81;21A 3,6 GHz;26002000;Telefónica Deutschland
+81;22A 3,6 GHz;26002000;Vodafone
+81;23A 3,6 GHz;26002000;Vodafone
+81;24A 3,6 GHz;23870000;Vodafone
+81;25A 3,6 GHz;23870000;Vodafone
+81;26A 3,6 GHz;23890000;Telefónica Deutschland
+81;27A 3,6 GHz;26279000;Telekom
+81;28A 3,6 GHz;26279000;Telekom
+81;29K 3,6 GHz;23870000;Telekom
+82;01A 2 GHz;59580000;Vodafone
+82;02A 2 GHz;65538000;1&1 Drillisch
+82;03A 2 GHz;65514000;Vodafone
+82;04A 2 GHz;65514000;Telekom
+82;05A 2 GHz;59596000;Telekom
+82;06A 2 GHz;61037000;Telefónica Deutschland
+82;07A 2 GHz;64851000;Telekom
+82;08A 2 GHz;64851000;Telekom
+82;09A 2 GHz (2026);30498000;1&1 Drillisch
+82;10A 2 GHz (2026);29570000;Vodafone
+82;11A 2 GHz (2026);31621000;Telefónica Deutschland
+82;12A 2 GHz (2026);38261000;Telefónica Deutschland
+82;01K 3,6 GHz;Kein Gebot;Kein Gebot
+82;02A 3,6 GHz;11425000;Vodafone
+82;03A 3,6 GHz;11425000;Vodafone
+82;04A 3,6 GHz;11425000;1&1 Drillisch
+82;05A 3,6 GHz;11479000;Telekom
+82;06A 3,6 GHz;11479000;Telekom
+82;07A 3,6 GHz;11465000;Telekom
+82;08A 3,6 GHz;13615000;Telefónica Deutschland
+82;09A 3,6 GHz;13661000;Telefónica Deutschland
+82;10A 3,6 GHz;12552000;Telekom
+82;11A 3,6 GHz;12552000;Telekom
+82;12A 3,6 GHz;12552000;1&1 Drillisch
+82;13A 3,6 GHz;13620000;Telefónica Deutschland
+82;14A 3,6 GHz;13596000;Telefónica Deutschland
+82;15A 3,6 GHz;13622000;Telefónica Deutschland
+82;16A 3,6 GHz;12552000;1&1 Drillisch
+82;17A 3,6 GHz;Kein Gebot;Kein Gebot
+82;18A 3,6 GHz;Kein Gebot;Kein Gebot
+82;19A 3,6 GHz;Kein Gebot;Kein Gebot
+82;20A 3,6 GHz;26842000;Telefónica Deutschland
+82;21A 3,6 GHz;26002000;Telefónica Deutschland
+82;22A 3,6 GHz;26002000;Vodafone
+82;23A 3,6 GHz;26002000;Vodafone
+82;24A 3,6 GHz;23870000;Vodafone
+82;25A 3,6 GHz;23870000;Vodafone
+82;26A 3,6 GHz;23890000;Telefónica Deutschland
+82;27A 3,6 GHz;26279000;Telekom
+82;28A 3,6 GHz;26279000;Telekom
+82;29K 3,6 GHz;23870000;Telekom
+83;01A 2 GHz;65538000;1&1 Drillisch
+83;02A 2 GHz;65538000;1&1 Drillisch
+83;03A 2 GHz;65514000;Vodafone
+83;04A 2 GHz;65514000;Telekom
+83;05A 2 GHz;65555000;Vodafone
+83;06A 2 GHz;61037000;Telefónica Deutschland
+83;07A 2 GHz;64851000;Telekom
+83;08A 2 GHz;64851000;Telekom
+83;09A 2 GHz (2026);30498000;1&1 Drillisch
+83;10A 2 GHz (2026);32527000;1&1 Drillisch
+83;11A 2 GHz (2026);31621000;Telefónica Deutschland
+83;12A 2 GHz (2026);38261000;Telefónica Deutschland
+83;01K 3,6 GHz;Kein Gebot;Kein Gebot
+83;02A 3,6 GHz;12567000;1&1 Drillisch
+83;03A 3,6 GHz;12567000;1&1 Drillisch
+83;04A 3,6 GHz;12567000;Vodafone
+83;05A 3,6 GHz;11479000;Telekom
+83;06A 3,6 GHz;11479000;Telekom
+83;07A 3,6 GHz;12611000;1&1 Drillisch
+83;08A 3,6 GHz;13615000;Telefónica Deutschland
+83;09A 3,6 GHz;13661000;Telefónica Deutschland
+83;10A 3,6 GHz;12552000;Telekom
+83;11A 3,6 GHz;12552000;Telekom
+83;12A 3,6 GHz;12552000;1&1 Drillisch
+83;13A 3,6 GHz;13620000;Telefónica Deutschland
+83;14A 3,6 GHz;13596000;Telefónica Deutschland
+83;15A 3,6 GHz;13622000;Telefónica Deutschland
+83;16A 3,6 GHz;12552000;1&1 Drillisch
+83;17A 3,6 GHz;Kein Gebot;Kein Gebot
+83;18A 3,6 GHz;Kein Gebot;Kein Gebot
+83;19A 3,6 GHz;Kein Gebot;Kein Gebot
+83;20A 3,6 GHz;26842000;Telefónica Deutschland
+83;21A 3,6 GHz;26002000;Telefónica Deutschland
+83;22A 3,6 GHz;26002000;Vodafone
+83;23A 3,6 GHz;26002000;Vodafone
+83;24A 3,6 GHz;23870000;Vodafone
+83;25A 3,6 GHz;23870000;Vodafone
+83;26A 3,6 GHz;23890000;Telefónica Deutschland
+83;27A 3,6 GHz;26279000;Telekom
+83;28A 3,6 GHz;26279000;Telekom
+83;29K 3,6 GHz;23870000;Telekom
+84;01A 2 GHz;65538000;1&1 Drillisch
+84;02A 2 GHz;65538000;1&1 Drillisch
+84;03A 2 GHz;65514000;Vodafone
+84;04A 2 GHz;65514000;Telekom
+84;05A 2 GHz;65555000;Vodafone
+84;06A 2 GHz;67140000;Vodafone
+84;07A 2 GHz;64851000;Telekom
+84;08A 2 GHz;64851000;Telekom
+84;09A 2 GHz (2026);33547000;Telefónica Deutschland
+84;10A 2 GHz (2026);32527000;1&1 Drillisch
+84;11A 2 GHz (2026);31621000;Telefónica Deutschland
+84;12A 2 GHz (2026);38261000;Telefónica Deutschland
+84;01K 3,6 GHz;Kein Gebot;Kein Gebot
+84;02A 3,6 GHz;13823000;Telekom
+84;03A 3,6 GHz;12567000;1&1 Drillisch
+84;04A 3,6 GHz;12567000;Vodafone
+84;05A 3,6 GHz;12626000;1&1 Drillisch
+84;06A 3,6 GHz;12626000;Vodafone
+84;07A 3,6 GHz;12611000;1&1 Drillisch
+84;08A 3,6 GHz;13615000;Telefónica Deutschland
+84;09A 3,6 GHz;13661000;Telefónica Deutschland
+84;10A 3,6 GHz;12552000;Telekom
+84;11A 3,6 GHz;12552000;Telekom
+84;12A 3,6 GHz;13807000;Vodafone
+84;13A 3,6 GHz;13620000;Telefónica Deutschland
+84;14A 3,6 GHz;13596000;Telefónica Deutschland
+84;15A 3,6 GHz;13622000;Telefónica Deutschland
+84;16A 3,6 GHz;13807000;Telekom
+84;17A 3,6 GHz;Kein Gebot;Kein Gebot
+84;18A 3,6 GHz;Kein Gebot;Kein Gebot
+84;19A 3,6 GHz;Kein Gebot;Kein Gebot
+84;20A 3,6 GHz;26842000;Telefónica Deutschland
+84;21A 3,6 GHz;26002000;Telefónica Deutschland
+84;22A 3,6 GHz;26002000;Vodafone
+84;23A 3,6 GHz;26002000;Vodafone
+84;24A 3,6 GHz;23870000;Vodafone
+84;25A 3,6 GHz;23870000;Vodafone
+84;26A 3,6 GHz;23890000;Telefónica Deutschland
+84;27A 3,6 GHz;26279000;Telekom
+84;28A 3,6 GHz;26279000;Telekom
+84;29K 3,6 GHz;23870000;Telekom
+85;01A 2 GHz;65538000;1&1 Drillisch
+85;02A 2 GHz;65538000;1&1 Drillisch
+85;03A 2 GHz;72065000;Telekom
+85;04A 2 GHz;65514000;Telekom
+85;05A 2 GHz;65555000;Vodafone
+85;06A 2 GHz;67140000;Vodafone
+85;07A 2 GHz;71336000;Telefónica Deutschland
+85;08A 2 GHz;64851000;Telekom
+85;09A 2 GHz (2026);33547000;Telefónica Deutschland
+85;10A 2 GHz (2026);32527000;1&1 Drillisch
+85;11A 2 GHz (2026);34783000;1&1 Drillisch
+85;12A 2 GHz (2026);38261000;Telefónica Deutschland
+85;01K 3,6 GHz;Kein Gebot;Kein Gebot
+85;02A 3,6 GHz;13823000;Telekom
+85;03A 3,6 GHz;13823000;Telekom
+85;04A 3,6 GHz;13823000;1&1 Drillisch
+85;05A 3,6 GHz;12626000;1&1 Drillisch
+85;06A 3,6 GHz;12626000;Vodafone
+85;07A 3,6 GHz;13872000;Telekom
+85;08A 3,6 GHz;13615000;Telefónica Deutschland
+85;09A 3,6 GHz;13661000;Telefónica Deutschland
+85;10A 3,6 GHz;13807000;1&1 Drillisch
+85;11A 3,6 GHz;13807000;1&1 Drillisch
+85;12A 3,6 GHz;13807000;Vodafone
+85;13A 3,6 GHz;13620000;Telefónica Deutschland
+85;14A 3,6 GHz;13596000;Telefónica Deutschland
+85;15A 3,6 GHz;13622000;Telefónica Deutschland
+85;16A 3,6 GHz;13807000;Telekom
+85;17A 3,6 GHz;Kein Gebot;Kein Gebot
+85;18A 3,6 GHz;Kein Gebot;Kein Gebot
+85;19A 3,6 GHz;Kein Gebot;Kein Gebot
+85;20A 3,6 GHz;26842000;Telefónica Deutschland
+85;21A 3,6 GHz;26002000;Telefónica Deutschland
+85;22A 3,6 GHz;26002000;Vodafone
+85;23A 3,6 GHz;26002000;Vodafone
+85;24A 3,6 GHz;23870000;Vodafone
+85;25A 3,6 GHz;23870000;Vodafone
+85;26A 3,6 GHz;23890000;Telefónica Deutschland
+85;27A 3,6 GHz;26279000;Telekom
+85;28A 3,6 GHz;26279000;Telekom
+85;29K 3,6 GHz;23870000;Telekom
+86;01A 2 GHz;65538000;1&1 Drillisch
+86;02A 2 GHz;72091000;Telekom
+86;03A 2 GHz;72065000;Telekom
+86;04A 2 GHz;65514000;Telekom
+86;05A 2 GHz;65555000;Vodafone
+86;06A 2 GHz;67140000;Vodafone
+86;07A 2 GHz;71336000;Telefónica Deutschland
+86;08A 2 GHz;71336000;Vodafone
+86;09A 2 GHz (2026);33547000;Telefónica Deutschland
+86;10A 2 GHz (2026);35779000;Vodafone
+86;11A 2 GHz (2026);34783000;1&1 Drillisch
+86;12A 2 GHz (2026);38261000;Telefónica Deutschland
+86;01K 3,6 GHz;Kein Gebot;Kein Gebot
+86;02A 3,6 GHz;13823000;Telekom
+86;03A 3,6 GHz;13823000;Telekom
+86;04A 3,6 GHz;13823000;1&1 Drillisch
+86;05A 3,6 GHz;13888000;Vodafone
+86;06A 3,6 GHz;13888000;1&1 Drillisch
+86;07A 3,6 GHz;13872000;Telekom
+86;08A 3,6 GHz;13615000;Telefónica Deutschland
+86;09A 3,6 GHz;13661000;Telefónica Deutschland
+86;10A 3,6 GHz;13807000;1&1 Drillisch
+86;11A 3,6 GHz;13807000;1&1 Drillisch
+86;12A 3,6 GHz;13807000;Vodafone
+86;13A 3,6 GHz;13620000;Telefónica Deutschland
+86;14A 3,6 GHz;14955000;1&1 Drillisch
+86;15A 3,6 GHz;13622000;Telefónica Deutschland
+86;16A 3,6 GHz;13807000;Telekom
+86;17A 3,6 GHz;Kein Gebot;Kein Gebot
+86;18A 3,6 GHz;Kein Gebot;Kein Gebot
+86;19A 3,6 GHz;Kein Gebot;Kein Gebot
+86;20A 3,6 GHz;26842000;Telefónica Deutschland
+86;21A 3,6 GHz;26002000;Telefónica Deutschland
+86;22A 3,6 GHz;26002000;Vodafone
+86;23A 3,6 GHz;26002000;Vodafone
+86;24A 3,6 GHz;23870000;Vodafone
+86;25A 3,6 GHz;23870000;Vodafone
+86;26A 3,6 GHz;23890000;Telefónica Deutschland
+86;27A 3,6 GHz;26279000;Telekom
+86;28A 3,6 GHz;26279000;Telekom
+86;29K 3,6 GHz;23870000;Telekom
+
+87;01A 2 GHz;72091000;Telekom
+87;02A 2 GHz;72091000;Telekom
+87;03A 2 GHz;72065000;Telekom
+87;04A 2 GHz;72065000;1&1 Drillisch
+87;05A 2 GHz;65555000;Vodafone
+87;06A 2 GHz;67140000;Vodafone
+87;07A 2 GHz;71336000;Telefónica Deutschland
+87;08A 2 GHz;71336000;Vodafone
+87;09A 2 GHz (2026);36901000;1&1 Drillisch
+87;10A 2 GHz (2026);35779000;Vodafone
+87;11A 2 GHz (2026);34783000;1&1 Drillisch
+87;12A 2 GHz (2026);38261000;Telefónica Deutschland
+87;01K 3,6 GHz;Kein Gebot;Kein Gebot
+87;02A 3,6 GHz;13823000;Telekom
+87;03A 3,6 GHz;13823000;Telekom
+87;04A 3,6 GHz;13823000;1&1 Drillisch
+87;05A 3,6 GHz;13888000;Vodafone
+87;06A 3,6 GHz;13888000;1&1 Drillisch
+87;07A 3,6 GHz;13872000;Telekom
+87;08A 3,6 GHz;14976000;1&1 Drillisch
+87;09A 3,6 GHz;13661000;Telefónica Deutschland
+87;10A 3,6 GHz;25187000;Telefónica Deutschland
+87;11A 3,6 GHz;13807000;1&1 Drillisch
+87;12A 3,6 GHz;13807000;Vodafone
+87;13A 3,6 GHz;14982000;Vodafone
+87;14A 3,6 GHz;14955000;1&1 Drillisch
+87;15A 3,6 GHz;14984000;Telekom
+87;16A 3,6 GHz;13807000;Telekom
+87;17A 3,6 GHz;Kein Gebot;Kein Gebot
+87;18A 3,6 GHz;Kein Gebot;Kein Gebot
+87;19A 3,6 GHz;Kein Gebot;Kein Gebot
+87;20A 3,6 GHz;26842000;Telefónica Deutschland
+87;21A 3,6 GHz;26002000;Telefónica Deutschland
+87;22A 3,6 GHz;26002000;Vodafone
+87;23A 3,6 GHz;26002000;Vodafone
+87;24A 3,6 GHz;23870000;Vodafone
+87;25A 3,6 GHz;23870000;Vodafone
+87;26A 3,6 GHz;23890000;Telefónica Deutschland
+87;27A 3,6 GHz;26279000;Telekom
+87;28A 3,6 GHz;26279000;Telekom
+87;29K 3,6 GHz;23870000;Telekom
+88;01A 2 GHz;72091000;Telekom
+88;02A 2 GHz;72091000;Telekom
+88;03A 2 GHz;72065000;Telekom
+88;04A 2 GHz;72065000;1&1 Drillisch
+88;05A 2 GHz;72110000;1&1 Drillisch
+88;06A 2 GHz;73854000;Telefónica Deutschland
+88;07A 2 GHz;71336000;Telefónica Deutschland
+88;08A 2 GHz;71336000;Vodafone
+88;09A 2 GHz (2026);36901000;1&1 Drillisch
+88;10A 2 GHz (2026);35779000;Vodafone
+88;11A 2 GHz (2026);34783000;1&1 Drillisch
+88;12A 2 GHz (2026);38261000;Telefónica Deutschland
+88;01K 3,6 GHz;Kein Gebot;Kein Gebot
+88;02A 3,6 GHz;13823000;Telekom
+88;03A 3,6 GHz;13823000;Telekom
+88;04A 3,6 GHz;13823000;1&1 Drillisch
+88;05A 3,6 GHz;13888000;Vodafone
+88;06A 3,6 GHz;13888000;1&1 Drillisch
+88;07A 3,6 GHz;13872000;Telekom
+88;08A 3,6 GHz;14976000;1&1 Drillisch
+88;09A 3,6 GHz;15027000;1&1 Drillisch
+88;10A 3,6 GHz;25187000;Telefónica Deutschland
+88;11A 3,6 GHz;25187000;Telefónica Deutschland
+88;12A 3,6 GHz;25187000;Telefónica Deutschland
+88;13A 3,6 GHz;14982000;Vodafone
+88;14A 3,6 GHz;14955000;1&1 Drillisch
+88;15A 3,6 GHz;14984000;Telekom
+88;16A 3,6 GHz;25187000;Telefónica Deutschland
+88;17A 3,6 GHz;Kein Gebot;Kein Gebot
+88;18A 3,6 GHz;Kein Gebot;Kein Gebot
+88;19A 3,6 GHz;Kein Gebot;Kein Gebot
+88;20A 3,6 GHz;26842000;Telefónica Deutschland
+88;21A 3,6 GHz;26002000;Telefónica Deutschland
+88;22A 3,6 GHz;26002000;Vodafone
+88;23A 3,6 GHz;26002000;Vodafone
+88;24A 3,6 GHz;23870000;Vodafone
+88;25A 3,6 GHz;23870000;Vodafone
+88;26A 3,6 GHz;23890000;Telefónica Deutschland
+88;27A 3,6 GHz;26279000;Telekom
+88;28A 3,6 GHz;26279000;Telekom
+88;29K 3,6 GHz;23870000;Telekom
+89;01A 2 GHz;72091000;Telekom
+89;02A 2 GHz;72091000;Telekom
+89;03A 2 GHz;72065000;Telekom
+89;04A 2 GHz;79271000;Vodafone
+89;05A 2 GHz;72110000;1&1 Drillisch
+89;06A 2 GHz;73854000;Telefónica Deutschland
+89;07A 2 GHz;78469000;Vodafone
+89;08A 2 GHz;78469000;Telefónica Deutschland
+89;09A 2 GHz (2026);40591000;Telekom
+89;10A 2 GHz (2026);39356000;Telekom
+89;11A 2 GHz (2026);38261000;Telekom
+89;12A 2 GHz (2026);42087000;Telekom
+89;01K 3,6 GHz;Kein Gebot;Kein Gebot
+89;02A 3,6 GHz;25205000;Telefónica Deutschland
+89;03A 3,6 GHz;15205000;1&1 Drillisch
+89;04A 3,6 GHz;15205000;Vodafone
+89;05A 3,6 GHz;13888000;Vodafone
+89;06A 3,6 GHz;13888000;1&1 Drillisch
+89;07A 3,6 GHz;Kein Gebot;Kein Gebot
+89;08A 3,6 GHz;14976000;1&1 Drillisch
+89;09A 3,6 GHz;15027000;1&1 Drillisch
+89;10A 3,6 GHz;25187000;Telefónica Deutschland
+89;11A 3,6 GHz;25187000;Telefónica Deutschland
+89;12A 3,6 GHz;25187000;Telefónica Deutschland
+89;13A 3,6 GHz;14982000;Vodafone
+89;14A 3,6 GHz;14955000;1&1 Drillisch
+89;15A 3,6 GHz;Kein Gebot;Kein Gebot
+89;16A 3,6 GHz;25187000;Telefónica Deutschland
+89;17A 3,6 GHz;29819000;Telekom
+89;18A 3,6 GHz;26842000;Telekom
+89;19A 3,6 GHz;26842000;Telekom
+89;20A 3,6 GHz;29526000;Telekom
+89;21A 3,6 GHz;28602000;Telekom
+89;22A 3,6 GHz;26002000;Vodafone
+89;23A 3,6 GHz;26002000;Vodafone
+89;24A 3,6 GHz;23870000;Vodafone
+89;25A 3,6 GHz;23870000;Vodafone
+89;26A 3,6 GHz;26279000;Telekom
+89;27A 3,6 GHz;26279000;Telekom
+89;28A 3,6 GHz;26279000;Telekom
+89;29K 3,6 GHz;23870000;Telekom
+90;01A 2 GHz;72091000;Telekom
+90;02A 2 GHz;72091000;Telekom
+90;03A 2 GHz;79271000;Vodafone
+90;04A 2 GHz;79271000;Vodafone
+90;05A 2 GHz;79321000;Telekom
+90;06A 2 GHz;73854000;Telefónica Deutschland
+90;07A 2 GHz;78469000;Vodafone
+90;08A 2 GHz;Kein Gebot;Kein Gebot
+90;09A 2 GHz (2026);44660000;Telefónica Deutschland
+90;10A 2 GHz (2026);43301000;1&1 Drillisch
+90;11A 2 GHz (2026);42097000;1&1 Drillisch
+90;12A 2 GHz (2026);42087000;Telekom
+90;01K 3,6 GHz;2200000;1&1 Drillisch
+90;02A 3,6 GHz;25205000;Telefónica Deutschland
+90;03A 3,6 GHz;16735000;Telefónica Deutschland
+90;04A 3,6 GHz;15205000;Vodafone
+90;05A 3,6 GHz;13888000;Vodafone
+90;06A 3,6 GHz;13888000;1&1 Drillisch
+90;07A 3,6 GHz;15269000;Telefónica Deutschland
+90;08A 3,6 GHz;14976000;1&1 Drillisch
+90;09A 3,6 GHz;15027000;1&1 Drillisch
+90;10A 3,6 GHz;25187000;Telefónica Deutschland
+90;11A 3,6 GHz;25187000;Telefónica Deutschland
+90;12A 3,6 GHz;25187000;Telefónica Deutschland
+90;13A 3,6 GHz;14982000;Vodafone
+90;14A 3,6 GHz;14955000;1&1 Drillisch
+90;15A 3,6 GHz;Kein Gebot;Kein Gebot
+90;16A 3,6 GHz;25187000;Telefónica Deutschland
+90;17A 3,6 GHz;29819000;Telekom
+90;18A 3,6 GHz;26842000;Telekom
+90;19A 3,6 GHz;26842000;Telekom
+90;20A 3,6 GHz;29526000;Telekom
+90;21A 3,6 GHz;28602000;Telekom
+90;22A 3,6 GHz;26002000;Vodafone
+90;23A 3,6 GHz;26002000;Vodafone
+90;24A 3,6 GHz;23870000;Vodafone
+90;25A 3,6 GHz;23870000;Vodafone
+90;26A 3,6 GHz;26279000;Telekom
+90;27A 3,6 GHz;26279000;Telekom
+90;28A 3,6 GHz;26279000;Telekom
+90;29K 3,6 GHz;23870000;Telekom
+91;01A 2 GHz;72091000;Telekom
+91;02A 2 GHz;72091000;Telekom
+91;03A 2 GHz;79271000;Vodafone
+91;04A 2 GHz;79271000;Vodafone
+91;05A 2 GHz;79321000;Telekom
+91;06A 2 GHz;73854000;Telefónica Deutschland
+91;07A 2 GHz;78469000;Vodafone
+91;08A 2 GHz;86315000;Telekom
+91;09A 2 GHz (2026);44660000;Telefónica Deutschland
+91;10A 2 GHz (2026);43301000;1&1 Drillisch
+91;11A 2 GHz (2026);46306000;Telefónica Deutschland
+91;12A 2 GHz (2026);46295000;Telefónica Deutschland
+91;01K 3,6 GHz;2200000;1&1 Drillisch
+91;02A 3,6 GHz;25205000;Telefónica Deutschland
+91;03A 3,6 GHz;16735000;Telefónica Deutschland
+91;04A 3,6 GHz;15205000;Vodafone
+91;05A 3,6 GHz;15276000;1&1 Drillisch
+91;06A 3,6 GHz;15276000;Vodafone
+91;07A 3,6 GHz;15269000;Telefónica Deutschland
+91;08A 3,6 GHz;14976000;1&1 Drillisch
+91;09A 3,6 GHz;15027000;1&1 Drillisch
+91;10A 3,6 GHz;25187000;Telefónica Deutschland
+91;11A 3,6 GHz;25187000;Telefónica Deutschland
+91;12A 3,6 GHz;25187000;Telefónica Deutschland
+91;13A 3,6 GHz;14982000;Vodafone
+91;14A 3,6 GHz;14955000;1&1 Drillisch
+91;15A 3,6 GHz;Kein Gebot;Kein Gebot
+91;16A 3,6 GHz;25187000;Telefónica Deutschland
+91;17A 3,6 GHz;29819000;Telekom
+91;18A 3,6 GHz;26842000;Telekom
+91;19A 3,6 GHz;26842000;Telekom
+91;20A 3,6 GHz;29526000;Telekom
+91;21A 3,6 GHz;28602000;Telekom
+91;22A 3,6 GHz;26002000;Vodafone
+91;23A 3,6 GHz;26002000;Vodafone
+91;24A 3,6 GHz;23870000;Vodafone
+91;25A 3,6 GHz;23870000;Vodafone
+91;26A 3,6 GHz;26279000;Telekom
+91;27A 3,6 GHz;26279000;Telekom
+91;28A 3,6 GHz;26279000;Telekom
+91;29K 3,6 GHz;23870000;Telekom
+92;01A 2 GHz;72091000;Telekom
+92;02A 2 GHz;72091000;Telekom
+92;03A 2 GHz;79271000;Vodafone
+92;04A 2 GHz;79271000;Vodafone
+92;05A 2 GHz;79321000;Telekom
+92;06A 2 GHz;73854000;Telefónica Deutschland
+92;07A 2 GHz;78469000;Vodafone
+92;08A 2 GHz;86315000;Telekom
+92;09A 2 GHz (2026);49126000;1&1 Drillisch
+92;10A 2 GHz (2026);67631000;Vodafone
+92;11A 2 GHz (2026);46306000;Telefónica Deutschland
+92;12A 2 GHz (2026);46295000;Telefónica Deutschland
+92;01K 3,6 GHz;2200000;1&1 Drillisch
+92;02A 3,6 GHz;25205000;Telefónica Deutschland
+92;03A 3,6 GHz;16735000;Telefónica Deutschland
+92;04A 3,6 GHz;26725000;Vodafone
+92;05A 3,6 GHz;15276000;1&1 Drillisch
+92;06A 3,6 GHz;26803000;Vodafone
+92;07A 3,6 GHz;15269000;Telefónica Deutschland
+92;08A 3,6 GHz;14976000;1&1 Drillisch
+92;09A 3,6 GHz;15027000;1&1 Drillisch
+92;10A 3,6 GHz;25187000;Telefónica Deutschland
+92;11A 3,6 GHz;25187000;Telefónica Deutschland
+92;12A 3,6 GHz;25187000;Telefónica Deutschland
+92;13A 3,6 GHz;26480000;Vodafone
+92;14A 3,6 GHz;14955000;1&1 Drillisch
+92;15A 3,6 GHz;26482000;Vodafone
+92;16A 3,6 GHz;25187000;Telefónica Deutschland
+92;17A 3,6 GHz;29819000;Telekom
+92;18A 3,6 GHz;26842000;Telekom
+92;19A 3,6 GHz;26842000;Telekom
+92;20A 3,6 GHz;29526000;Telekom
+92;21A 3,6 GHz;28602000;Telekom
+92;22A 3,6 GHz;26002000;Vodafone
+92;23A 3,6 GHz;26002000;Vodafone
+92;24A 3,6 GHz;23870000;Vodafone
+92;25A 3,6 GHz;23870000;Vodafone
+92;26A 3,6 GHz;26279000;Telekom
+92;27A 3,6 GHz;26279000;Telekom
+92;28A 3,6 GHz;26279000;Telekom
+92;29K 3,6 GHz;23870000;Telekom
+93;01A 2 GHz;72091000;Telekom
+93;02A 2 GHz;72091000;Telekom
+93;03A 2 GHz;79271000;Vodafone
+93;04A 2 GHz;79271000;Vodafone
+93;05A 2 GHz;79321000;Telekom
+93;06A 2 GHz;73854000;Telefónica Deutschland
+93;07A 2 GHz;78469000;Vodafone
+93;08A 2 GHz;86315000;Telekom
+93;09A 2 GHz (2026);54138000;Telefónica Deutschland
+93;10A 2 GHz (2026);67631000;Vodafone
+93;11A 2 GHz (2026);60936000;1&1 Drillisch
+93;12A 2 GHz (2026);60924000;1&1 Drillisch
+93;01K 3,6 GHz;2200000;1&1 Drillisch
+93;02A 3,6 GHz;27735000;1&1 Drillisch
+93;03A 3,6 GHz;28408000;Telefónica Deutschland
+93;04A 3,6 GHz;26725000;Vodafone
+93;05A 3,6 GHz;26803000;1&1 Drillisch
+93;06A 3,6 GHz;26803000;Vodafone
+93;07A 3,6 GHz;26795000;Telefónica Deutschland
+93;08A 3,6 GHz;26473000;1&1 Drillisch
+93;09A 3,6 GHz;26529000;1&1 Drillisch
+93;10A 3,6 GHz;25187000;Telefónica Deutschland
+93;11A 3,6 GHz;25187000;Telefónica Deutschland
+93;12A 3,6 GHz;25187000;Telefónica Deutschland
+93;13A 3,6 GHz;26480000;Vodafone
+93;14A 3,6 GHz;26450000;1&1 Drillisch
+93;15A 3,6 GHz;26482000;Vodafone
+93;16A 3,6 GHz;25187000;Telefónica Deutschland
+93;17A 3,6 GHz;29819000;Telekom
+93;18A 3,6 GHz;26842000;Telekom
+93;19A 3,6 GHz;26842000;Telekom
+93;20A 3,6 GHz;29526000;Telekom
+93;21A 3,6 GHz;28602000;Telekom
+93;22A 3,6 GHz;26002000;Vodafone
+93;23A 3,6 GHz;26002000;Vodafone
+93;24A 3,6 GHz;23870000;Vodafone
+93;25A 3,6 GHz;23870000;Vodafone
+93;26A 3,6 GHz;26279000;Telekom
+93;27A 3,6 GHz;26279000;Telekom
+93;28A 3,6 GHz;26279000;Telekom
+93;29K 3,6 GHz;23870000;Telekom
+94;01A 2 GHz;72091000;Telekom
+94;02A 2 GHz;72091000;Telekom
+94;03A 2 GHz;79271000;Vodafone
+94;04A 2 GHz;79271000;Vodafone
+94;05A 2 GHz;79321000;Telekom
+94;06A 2 GHz;73854000;Telefónica Deutschland
+94;07A 2 GHz;78469000;Vodafone
+94;08A 2 GHz;86315000;Telekom
+94;09A 2 GHz (2026);54138000;Telefónica Deutschland
+94;10A 2 GHz (2026);67631000;Vodafone
+94;11A 2 GHz (2026);60936000;1&1 Drillisch
+94;12A 2 GHz (2026);67016000;Telefónica Deutschland
+94;01K 3,6 GHz;2200000;1&1 Drillisch
+94;02A 3,6 GHz;27735000;1&1 Drillisch
+94;03A 3,6 GHz;31248000;Telefónica Deutschland
+94;04A 3,6 GHz;26725000;Vodafone
+94;05A 3,6 GHz;26803000;1&1 Drillisch
+94;06A 3,6 GHz;26803000;Vodafone
+94;07A 3,6 GHz;29474000;Telefónica Deutschland
+94;08A 3,6 GHz;26473000;1&1 Drillisch
+94;09A 3,6 GHz;26529000;1&1 Drillisch
+94;10A 3,6 GHz;27705000;Telefónica Deutschland
+94;11A 3,6 GHz;27705000;Telefónica Deutschland
+94;12A 3,6 GHz;27705000;Telefónica Deutschland
+94;13A 3,6 GHz;26480000;Vodafone
+94;14A 3,6 GHz;29095000;Telefónica Deutschland
+94;15A 3,6 GHz;26482000;Vodafone
+94;16A 3,6 GHz;27705000;Telefónica Deutschland
+94;17A 3,6 GHz;29819000;Telekom
+94;18A 3,6 GHz;26842000;Telekom
+94;19A 3,6 GHz;26842000;Telekom
+94;20A 3,6 GHz;29526000;Telekom
+94;21A 3,6 GHz;28602000;Telekom
+94;22A 3,6 GHz;26002000;Vodafone
+94;23A 3,6 GHz;26002000;Vodafone
+94;24A 3,6 GHz;23870000;Vodafone
+94;25A 3,6 GHz;23870000;Vodafone
+94;26A 3,6 GHz;26279000;Telekom
+94;27A 3,6 GHz;26279000;Telekom
+94;28A 3,6 GHz;26279000;Telekom
+94;29K 3,6 GHz;23870000;Telekom
+95;01A 2 GHz;72091000;Telekom
+95;02A 2 GHz;72091000;Telekom
+95;03A 2 GHz;79271000;Vodafone
+95;04A 2 GHz;79271000;Vodafone
+95;05A 2 GHz;79321000;Telekom
+95;06A 2 GHz;73854000;Telefónica Deutschland
+95;07A 2 GHz;78469000;Vodafone
+95;08A 2 GHz;86315000;Telekom
+95;09A 2 GHz (2026);59551000;1&1 Drillisch
+95;10A 2 GHz (2026);67631000;Vodafone
+95;11A 2 GHz (2026);60936000;1&1 Drillisch
+95;12A 2 GHz (2026);67016000;Telefónica Deutschland
+95;01K 3,6 GHz;2200000;1&1 Drillisch
+95;02A 3,6 GHz;27735000;1&1 Drillisch
+95;03A 3,6 GHz;31248000;Telefónica Deutschland
+95;04A 3,6 GHz;26725000;Vodafone
+95;05A 3,6 GHz;26803000;1&1 Drillisch
+95;06A 3,6 GHz;26803000;Vodafone
+95;07A 3,6 GHz;29474000;Telefónica Deutschland
+95;08A 3,6 GHz;26473000;1&1 Drillisch
+95;09A 3,6 GHz;26529000;1&1 Drillisch
+95;10A 3,6 GHz;30475000;1&1 Drillisch
+95;11A 3,6 GHz;27705000;Telefónica Deutschland
+95;12A 3,6 GHz;27705000;Telefónica Deutschland
+95;13A 3,6 GHz;26480000;Vodafone
+95;14A 3,6 GHz;29095000;Telefónica Deutschland
+95;15A 3,6 GHz;26482000;Vodafone
+95;16A 3,6 GHz;27705000;Telefónica Deutschland
+95;17A 3,6 GHz;29819000;Telekom
+95;18A 3,6 GHz;26842000;Telekom
+95;19A 3,6 GHz;26842000;Telekom
+95;20A 3,6 GHz;29526000;Telekom
+95;21A 3,6 GHz;28602000;Telekom
+95;22A 3,6 GHz;26002000;Vodafone
+95;23A 3,6 GHz;26002000;Vodafone
+95;24A 3,6 GHz;23870000;Vodafone
+95;25A 3,6 GHz;23870000;Vodafone
+95;26A 3,6 GHz;26279000;Telekom
+95;27A 3,6 GHz;26279000;Telekom
+95;28A 3,6 GHz;26279000;Telekom
+95;29K 3,6 GHz;23870000;Telekom
+96;01A 2 GHz;72091000;Telekom
+96;02A 2 GHz;72091000;Telekom
+96;03A 2 GHz;79271000;Vodafone
+96;04A 2 GHz;79271000;Vodafone
+96;05A 2 GHz;79321000;Telekom
+96;06A 2 GHz;73854000;Telefónica Deutschland
+96;07A 2 GHz;78469000;Vodafone
+96;08A 2 GHz;86315000;Telekom
+96;09A 2 GHz (2026);65506000;Telefónica Deutschland
+96;10A 2 GHz (2026);67631000;Vodafone
+96;11A 2 GHz (2026);67029000;Telefónica Deutschland
+96;12A 2 GHz (2026);67016000;Telefónica Deutschland
+96;01K 3,6 GHz;2200000;1&1 Drillisch
+96;02A 3,6 GHz;30508000;Telefónica Deutschland
+96;03A 3,6 GHz;31248000;Telefónica Deutschland
+96;04A 3,6 GHz;26725000;Vodafone
+96;05A 3,6 GHz;29483000;Telefónica Deutschland
+96;06A 3,6 GHz;26803000;Vodafone
+96;07A 3,6 GHz;29474000;Telefónica Deutschland
+96;08A 3,6 GHz;29120000;Telefónica Deutschland
+96;09A 3,6 GHz;29181000;Telefónica Deutschland
+96;10A 3,6 GHz;33522000;Telefónica Deutschland
+96;11A 3,6 GHz;27705000;Telefónica Deutschland
+96;12A 3,6 GHz;27705000;Telefónica Deutschland
+96;13A 3,6 GHz;26480000;Vodafone
+96;14A 3,6 GHz;29095000;Telefónica Deutschland
+96;15A 3,6 GHz;26482000;Vodafone
+96;16A 3,6 GHz;27705000;Telefónica Deutschland
+96;17A 3,6 GHz;29819000;Telekom
+96;18A 3,6 GHz;26842000;Telekom
+96;19A 3,6 GHz;26842000;Telekom
+96;20A 3,6 GHz;29526000;Telekom
+96;21A 3,6 GHz;28602000;Telekom
+96;22A 3,6 GHz;26002000;Vodafone
+96;23A 3,6 GHz;26002000;Vodafone
+96;24A 3,6 GHz;23870000;Vodafone
+96;25A 3,6 GHz;23870000;Vodafone
+96;26A 3,6 GHz;26279000;Telekom
+96;27A 3,6 GHz;26279000;Telekom
+96;28A 3,6 GHz;26279000;Telekom
+96;29K 3,6 GHz;23870000;Telekom
+97;01A 2 GHz;99300000;1&1 Drillisch
+97;02A 2 GHz;99300000;1&1 Drillisch
+97;03A 2 GHz;79271000;Vodafone
+97;04A 2 GHz;79271000;Vodafone
+97;05A 2 GHz;79321000;Telekom
+97;06A 2 GHz;73854000;Telefónica Deutschland
+97;07A 2 GHz;78469000;Vodafone
+97;08A 2 GHz;86315000;Telekom
+97;09A 2 GHz (2026);92056000;1&1 Drillisch
+97;10A 2 GHz (2026);67631000;Vodafone
+97;11A 2 GHz (2026);67029000;Telefónica Deutschland
+97;12A 2 GHz (2026);93717000;1&1 Drillisch
+97;01K 3,6 GHz;Kein Gebot;Kein Gebot
+97;02A 3,6 GHz;30508000;Telefónica Deutschland
+97;03A 3,6 GHz;31248000;Telefónica Deutschland
+97;04A 3,6 GHz;26725000;Vodafone
+97;05A 3,6 GHz;29483000;Telefónica Deutschland
+97;06A 3,6 GHz;26803000;Vodafone
+97;07A 3,6 GHz;29474000;Telefónica Deutschland
+97;08A 3,6 GHz;29120000;Telefónica Deutschland
+97;09A 3,6 GHz;29181000;Telefónica Deutschland
+97;10A 3,6 GHz;33522000;Telefónica Deutschland
+97;11A 3,6 GHz;27705000;Telefónica Deutschland
+97;12A 3,6 GHz;27705000;Telefónica Deutschland
+97;13A 3,6 GHz;26480000;Vodafone
+97;14A 3,6 GHz;29095000;Telefónica Deutschland
+97;15A 3,6 GHz;26482000;Vodafone
+97;16A 3,6 GHz;27705000;Telefónica Deutschland
+97;17A 3,6 GHz;29819000;Telekom
+97;18A 3,6 GHz;26842000;Telekom
+97;19A 3,6 GHz;26842000;Telekom
+97;20A 3,6 GHz;29526000;Telekom
+97;21A 3,6 GHz;28602000;Telekom
+97;22A 3,6 GHz;48602000;1&1 Drillisch
+97;23A 3,6 GHz;48602000;1&1 Drillisch
+97;24A 3,6 GHz;46257000;1&1 Drillisch
+97;25A 3,6 GHz;46257000;1&1 Drillisch
+97;26A 3,6 GHz;26279000;Telekom
+97;27A 3,6 GHz;26279000;Telekom
+97;28A 3,6 GHz;48906000;1&1 Drillisch
+97;29K 3,6 GHz;46257000;1&1 Drillisch
+98;01A 2 GHz;99300000;1&1 Drillisch
+98;02A 2 GHz;99300000;1&1 Drillisch
+98;03A 2 GHz;79271000;Vodafone
+98;04A 2 GHz;79271000;Vodafone
+98;05A 2 GHz;79321000;Telekom
+98;06A 2 GHz;81239000;Telekom
+98;07A 2 GHz;86315000;Telekom
+98;08A 2 GHz;86315000;Telekom
+98;09A 2 GHz (2026);92056000;1&1 Drillisch
+98;10A 2 GHz (2026);67631000;Vodafone
+98;11A 2 GHz (2026);67029000;Telefónica Deutschland
+98;12A 2 GHz (2026);93717000;1&1 Drillisch
+98;01K 3,6 GHz;Kein Gebot;Kein Gebot
+98;02A 3,6 GHz;30508000;Telefónica Deutschland
+98;03A 3,6 GHz;31248000;Telefónica Deutschland
+98;04A 3,6 GHz;26725000;Vodafone
+98;05A 3,6 GHz;29483000;Telefónica Deutschland
+98;06A 3,6 GHz;26803000;Vodafone
+98;07A 3,6 GHz;29474000;Telefónica Deutschland
+98;08A 3,6 GHz;29120000;Telefónica Deutschland
+98;09A 3,6 GHz;29181000;Telefónica Deutschland
+98;10A 3,6 GHz;33522000;Telefónica Deutschland
+98;11A 3,6 GHz;27705000;Telefónica Deutschland
+98;12A 3,6 GHz;27705000;Telefónica Deutschland
+98;13A 3,6 GHz;29128000;Telekom
+98;14A 3,6 GHz;29095000;Telefónica Deutschland
+98;15A 3,6 GHz;29130000;Telekom
+98;16A 3,6 GHz;27705000;Telefónica Deutschland
+98;17A 3,6 GHz;29819000;Telekom
+98;18A 3,6 GHz;29526000;Vodafone
+98;19A 3,6 GHz;29526000;Vodafone
+98;20A 3,6 GHz;29526000;Telekom
+98;21A 3,6 GHz;28602000;Telekom
+98;22A 3,6 GHz;48602000;1&1 Drillisch
+98;23A 3,6 GHz;48602000;1&1 Drillisch
+98;24A 3,6 GHz;46257000;1&1 Drillisch
+98;25A 3,6 GHz;46257000;1&1 Drillisch
+98;26A 3,6 GHz;28906000;Vodafone
+98;27A 3,6 GHz;28906000;Vodafone
+98;28A 3,6 GHz;48906000;1&1 Drillisch
+98;29K 3,6 GHz;50882000;Telekom
+99;01A 2 GHz;109230000;Vodafone
+99;02A 2 GHz;99300000;1&1 Drillisch
+99;03A 2 GHz;87198000;Telefónica Deutschland
+99;04A 2 GHz;79271000;Vodafone
+99;05A 2 GHz;79321000;Telekom
+99;06A 2 GHz;81239000;Telekom
+99;07A 2 GHz;86315000;Telekom
+99;08A 2 GHz;86315000;Telekom
+99;09A 2 GHz (2026);92056000;1&1 Drillisch
+99;10A 2 GHz (2026);67631000;Vodafone
+99;11A 2 GHz (2026);67029000;Telefónica Deutschland
+99;12A 2 GHz (2026);93717000;1&1 Drillisch
+99;01K 3,6 GHz;Kein Gebot;Kein Gebot
+99;02A 3,6 GHz;30508000;Telefónica Deutschland
+99;03A 3,6 GHz;31248000;Telefónica Deutschland
+99;04A 3,6 GHz;49397000;1&1 Drillisch
+99;05A 3,6 GHz;29483000;Telefónica Deutschland
+99;06A 3,6 GHz;29483000;Telekom
+99;07A 3,6 GHz;29474000;Telefónica Deutschland
+99;08A 3,6 GHz;29120000;Telefónica Deutschland
+99;09A 3,6 GHz;29181000;Telefónica Deutschland
+99;10A 3,6 GHz;33522000;Telefónica Deutschland
+99;11A 3,6 GHz;30475000;Vodafone
+99;12A 3,6 GHz;30475000;Vodafone
+99;13A 3,6 GHz;29128000;Telekom
+99;14A 3,6 GHz;29095000;Telefónica Deutschland
+99;15A 3,6 GHz;29130000;Telekom
+99;16A 3,6 GHz;30475000;Telekom
+99;17A 3,6 GHz;29819000;Telekom
+99;18A 3,6 GHz;29526000;Vodafone
+99;19A 3,6 GHz;29526000;Vodafone
+99;20A 3,6 GHz;29526000;Telekom
+99;21A 3,6 GHz;28602000;Telekom
+99;22A 3,6 GHz;48602000;1&1 Drillisch
+99;23A 3,6 GHz;48602000;1&1 Drillisch
+99;24A 3,6 GHz;46257000;1&1 Drillisch
+99;25A 3,6 GHz;46257000;1&1 Drillisch
+99;26A 3,6 GHz;28906000;Vodafone
+99;27A 3,6 GHz;28906000;Vodafone
+99;28A 3,6 GHz;48906000;1&1 Drillisch
+99;29K 3,6 GHz;50882000;Telekom
+100;01A 2 GHz;109230000;Vodafone
+100;02A 2 GHz;99300000;1&1 Drillisch
+100;03A 2 GHz;87198000;Telefónica Deutschland
+100;04A 2 GHz;107198000;1&1 Drillisch
+100;05A 2 GHz;87253000;Vodafone
+100;06A 2 GHz;81239000;Telekom
+100;07A 2 GHz;86315000;Telekom
+100;08A 2 GHz;86315000;Telekom
+100;09A 2 GHz (2026);92056000;1&1 Drillisch
+100;10A 2 GHz (2026);67631000;Vodafone
+100;11A 2 GHz (2026);67029000;Telefónica Deutschland
+100;12A 2 GHz (2026);93717000;1&1 Drillisch
+100;01K 3,6 GHz;Kein Gebot;Kein Gebot
+100;02A 3,6 GHz;30508000;Telefónica Deutschland
+100;03A 3,6 GHz;31248000;Telefónica Deutschland
+100;04A 3,6 GHz;49397000;1&1 Drillisch
+100;05A 3,6 GHz;29483000;Telefónica Deutschland
+100;06A 3,6 GHz;29483000;Telekom
+100;07A 3,6 GHz;29474000;Telefónica Deutschland
+100;08A 3,6 GHz;29120000;Telefónica Deutschland
+100;09A 3,6 GHz;29181000;Telefónica Deutschland
+100;10A 3,6 GHz;33522000;Telefónica Deutschland
+100;11A 3,6 GHz;30475000;Vodafone
+100;12A 3,6 GHz;30475000;Vodafone
+100;13A 3,6 GHz;29128000;Telekom
+100;14A 3,6 GHz;32004000;Vodafone
+100;15A 3,6 GHz;29130000;Telekom
+100;16A 3,6 GHz;30475000;Telekom
+100;17A 3,6 GHz;29819000;Telekom
+100;18A 3,6 GHz;29526000;Vodafone
+100;19A 3,6 GHz;29526000;Vodafone
+100;20A 3,6 GHz;29526000;Telekom
+100;21A 3,6 GHz;31462000;Vodafone
+100;22A 3,6 GHz;48602000;1&1 Drillisch
+100;23A 3,6 GHz;48602000;1&1 Drillisch
+100;24A 3,6 GHz;46257000;1&1 Drillisch
+100;25A 3,6 GHz;46257000;1&1 Drillisch
+100;26A 3,6 GHz;31796000;Telekom
+100;27A 3,6 GHz;28906000;Vodafone
+100;28A 3,6 GHz;48906000;1&1 Drillisch
+100;29K 3,6 GHz;50882000;Telekom
